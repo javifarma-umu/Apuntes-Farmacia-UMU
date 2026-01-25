@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/2 - Wikifarma/aparato digestivo/","tags":["biocel"],"created":"2026-01-13T11:40:43.920+01:00","updated":"2026-01-25T11:54:48.210+01:00"}
+{"dg-publish":true,"permalink":"/2 - Wikifarma/aparato digestivo/","tags":["biocel"],"created":"2026-01-13T11:40:43.920+01:00","updated":"2026-01-25T12:01:35.538+01:00"}
 ---
-
-
 
 El aparato digestivo se encarga de masticación, deglución y digestión de alimentos. Está compuesto por la cavidad bucal, tubo digestivo y las glándulas anejas.
 

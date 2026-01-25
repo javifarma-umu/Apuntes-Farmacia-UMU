@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/2 - Wikifarma/sistema vascular/","tags":["biocel"],"created":"2026-01-12T21:04:06.968+01:00","updated":"2026-01-24T22:45:15.496+01:00"}
+{"dg-publish":true,"permalink":"/2 - Wikifarma/sistema vascular/","tags":["biocel"],"created":"2026-01-12T21:04:06.968+01:00","updated":"2026-01-25T12:01:29.416+01:00"}
 ---
-
-
 
 El sistema vascular engloba el sistema circulatorio sanguíneo y linfático. El sistema circulatorio sanguíneo se encarga de transportar la [[2 - Wikifarma/sangre\|sangre]] y es constituido de arterias, que se ramifican en arteriolas, que se ramifican otra vez en capilares. Los capilares dan pie al retorno sanguíneo por vénulas, que se anastomosan para formar venas. 
 

@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/2 - Wikifarma/tejido cartilaginoso/","tags":["biocel"],"created":"2026-01-11T17:19:12.099+01:00","updated":"2026-01-24T22:37:26.401+01:00"}
+{"dg-publish":true,"permalink":"/2 - Wikifarma/tejido cartilaginoso/","tags":["biocel"],"created":"2026-01-11T17:19:12.099+01:00","updated":"2026-01-25T12:01:15.403+01:00"}
 ---
-
-
 
 El tejido cartilaginoso es un punto intermedio entre el [[2 - Wikifarma/tejido óseo\|tejido óseo]] y [[2 - Wikifarma/tejido conjuntivo\|tejido conjuntivo]], ya que es relativamente flexible pero sirve de sostén. No presenta innervación ni vascularización y está compuesto por condroblastos y condrocitos; una matriz de sustancia fundamental y fibras colágenas tipo II y elásticas; y está revestido por el pericondrio, una capa fina de tejido conjuntivo.
 
