@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1- Apuntes de clase/Apuntes de clase de bioestadística/","created":"2026-01-27T08:33:23.391+01:00","updated":"2026-02-04T09:24:46.929+01:00"}
+{"dg-publish":true,"permalink":"/1- Apuntes de clase/Apuntes de clase de bioestadística/","created":"2026-01-27T08:33:23.391+01:00","updated":"2026-02-05T09:22:12.675+01:00"}
 ---
 
 Antes de hacer cualquier estudio es fundamental hacer una pregunta de investigación con objetivos e hipótesis. Si no tenemos pregunta no tiene sentido hacer un estudio estadístico.
@@ -93,5 +93,14 @@ Hay percentiles especiales llamados cuartiles (Q), donde Q1=P25; Q2=P50... y dec
 Los percentiles son muy útiles para ver la distribución de los valores y se usan como medidas de dispersión cuando las variables son asimétricas
 
 ## Boxplot **Importante para examen**
-Un boxplot (o diagrama de caja o diagrama de caja y bigote) es una caja que represeta la mediana de los cuartiles 1 y 3. La caja contiene el 50% de los datos y los bigotes son los valores mínimos y máximos que no consideran outliers, es decir,  los valores por encima o debajo de los bigotes se consideran outliers. Nos dejan ver casi todos los valores (excepto la media).
+Un boxplot (o diagrama de caja o diagrama de caja y bigote) es una caja que representa la mediana y los cuartiles 1 y 3. La caja contiene el 50% de los datos y los bigotes son los valores mínimos y máximos que no consideran outliers, es decir,  los valores por encima o debajo de los bigotes se consideran outliers. Nos dejan ver casi todos los valores (excepto la media).
+___
+### Ejercicio
+Identifica muestra y población 
+36 pacientes de hemodialisis; pacientes de hemodialisis con COVID
 
+b. Identifica las variables y sus modalidades presentadas en las filas de la Tabla 1. 
+Supervivientes (dicotómica)
+c. Observa como se resumen los datos de las variables 
+
+d. Comenta los resultados de alguna variable:

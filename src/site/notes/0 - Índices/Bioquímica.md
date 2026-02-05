@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0 - Índices/Bioquímica/","tags":["Índice","bioquimica"],"created":"2025-12-21T14:18:58.936+01:00","updated":"2026-02-02T16:13:09.833+01:00"}
+{"dg-publish":true,"permalink":"/0 - Índices/Bioquímica/","tags":["Índice","bioquimica"],"created":"2025-12-21T14:18:58.936+01:00","updated":"2026-02-05T20:55:03.785+01:00"}
 ---
 
 **Apuntes de clase:** [[1- Apuntes de clase/Apuntes de clase de bioquímica\|Apuntes de clase de bioquímica]]
@@ -19,5 +19,6 @@
 - Tema 13: [[2 - Wikifarma/enzimas digestivas\|enzimas digestivas]]
 # Bloque 2
 - Tema 14: [[5 - Inicio/estructura de los ácidos nucleicos\|estructura de los ácidos nucleicos]]
+- Tema 15: [[5 - Inicio/organización del material genético\|organización del material genético]]
 # Bloque 3
 - Tema 22 - [Transporte y almacenamiento de oxígeno](hemoglobina.md)
