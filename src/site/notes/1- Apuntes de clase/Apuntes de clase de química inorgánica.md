@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1- Apuntes de clase/Apuntes de clase de química inorgánica/","created":"2026-01-27T09:31:31.523+01:00","updated":"2026-02-05T13:40:23.132+01:00"}
+{"dg-publish":true,"permalink":"/1- Apuntes de clase/Apuntes de clase de química inorgánica/","created":"2026-01-27T09:31:31.523+01:00","updated":"2026-02-12T12:08:42.942+01:00"}
 ---
 
 Los orbitales se llenan siguiendo el principio de Aufbau: de menor a mayor energía.
@@ -118,4 +118,81 @@ Los ligandos son muy variados y se pueden ligar de distintas maneras (denticidad
 La fosfina es el típico dador monodentado y muchas veces está asociado a carbonos dadores (trimetilfosfina o trifenilfosfina).
 
 ![Pasted image 20260205102319.png](/img/user/7%20-%20Fotos/Pasted%20image%2020260205102319.png)
-	
+
+## Estabilidad de compuestos de coordinación
+En compuestos de coordinación pueden haber sustituciones de ligandos, con un equilibrio llamado Kf. Cuanto mayor es Kf, más estable está y más favorecida está termodinámicamente (ΔG=ΔH-TΔS). Esto está relacionado con lo duro o blando que son los ligandos y metales.
+
+Es importante el efecto quelato, donde dos ligandos se unen a un metal como una pinta, formando un anillo cuyo número de miembros marca la estabilidad, ya que el ángulo de mordida perfecto está cuando el anillo tiene unos 5 o 6 miembros. Este efecto es entrópico, pero entálpicamente básicamente no afecta. Esto se da porque 1 ligando quelato dador cuenta como varios ligandos de agua.
+
+El efecto macrocíclico sigue el mismo principio, pero además hay un efecto entálpico porque el macrociclo encapsula el metal de manera que los átomos dadores se pueden acercar más al metal porque la estructura está más "apretada".
+
+## Nomenclatura
+Para la **formulación**:
+- Los complejos se ponen entre corchetes. 
+- Si es iónico, primero catión y luego anión.
+- Las moléculas de agua se suele poner OH2 para hacer énfasis en que se enlaza con el O. Esto es porque el átomo que se coordina se pone primero.
+
+Para la **nomenclatura**:
+- Si es iónico, primero catión y luego anión.
+- Se nombran los ligandos alfabéticamente, seguido por el metal en estado de oxidación.
+- Si el complejo es aniónico se pone un -ato tras el nombre del metal seguido por el nº de oxidación.
+- El número de ligandos se muestra con prefijos tipo mono, di, tri...
+- Cuando el nombre del ligando ya un prefijo se usan prefijos bis, tris, tetrakis...
+
+## Geometría
+Hay que fijarse en los átomos dadores y la forma que hacen con el metal que puede ser:
+- **2:** lineal
+- **3:** trigonal plana
+- **4:** plano cuadrada, tetraédrica
+- **5:** bipirámide trigonal, pirámide cuadrangular
+- **6:** octaédrica
+
+### Isomería
+#### Estructural
+**Isomería de hidratacion**
+Una o más moléculas de agua pasan de ser agua de cristalización a ligando directamente coordinado al metal
+
+**Isomería de coordinación**
+Como contraión hay otro complejo (catión complejo y anión complejo). Se intercambian ligandos entre las esferas de coordinacion.
+
+**Isomería de ionización**
+Un ligando se intercambia con un contraion
+
+**Isomería de enlace**
+Se da cuando participa un ligando ambidentado y se diferencian en el átomo dador de dicho ligando. *Ej: nitrito (NO2), que se puede ligar por N o por O*
+
+#### Estereoisomería
+**Geométrica cis/trans**
+Se da en los planos cuadrados
+- Cis: un ligando al lado de otro
+- Trans: los ligandos del mismo tipo están enfrentados
+
+**Geométrica fac/mer**
+Se da en los octaédricos
+Fac (facial): los tres en la misma cara (no hay elementos enfrentados)
+Mer (meridional): están en el mismo plano (hay elementos enfrentados)
+
+#### Óptica
+Son imagenes especulares. Puede pasar también en octaedros, pero en los trans no puede haber (hay un eje de simetría)
+
+# Redox
+Reducir se suele usar para almacenar energía y oxidar para producirla. Normalmente las reacciones redox pasan en contacto para que los e- salten de una especie a otra. Puede ser en disolución o en la superficie de un sólido en contacto con disolución.
+
+Termodinámicamente, estas reacciones funcionan por potenciales. ΔG=-nFΔE; ΔE=Ered-Eox. Si ΔG es negativo, ΔE debe ser negativo y que para que pase eso Eox>Ered. Las pilas galvánicas son espontáneas y las pilas electrolíticas reciben un potencial para separar elementos de una molécula.
+
+Los potenciales siempre son relativos a otra reacción, por ello hay electrodos de referencia, por lo que el Eº=0V e establece a la formación de H2 en condiciones normales. Cuanto más positivo sea un potencial, de reducción, más favorecida está la reacción; y cuanto más negativo sea un potencial de oxidación, más favorecido será.
+
+Las tendencias pariódicas de potenciales de reduccion coincide con la energia de ionizacion, aunque hay cosas que no cuadran. Esto se da porque hay que tener en cuenta el ciclo de born-haber, que conlleva energia desfavorable (sublimación e ionizacion) y favorable (hidratacion)
+
+Cuando las condiciones no son estándar, se usa la ecuación de Nernst. Un potencial puede depender del pH o de la formacion de complejos. 
+
+Hay que tener en cuenta que el agua es no es inerte, y que si se intenta hacer una reacción con reductores u oxidantes muy fuertes, puede reducir u oxidar el agua. Cuanto menor es el pH, más positivo será el potencial de reducción (E=Eº-0,0592pH). El sorepotencial explica que la reaccion ocurra a una velocidad adecuada como para ser observada, lo que explica por qué se puede tener permanganato en agua, porque no llega a superar el sobrepotencial.
+
+## Diagramas de potencial
+Cuando un element o tiene muchos estados de oxidación, se usan los diagramas de potenciales, que son esquemas de las especies, en diferentes estados de oxidación, de un elemento ordenadas de mayor a menor número de oxidación con mención explícita de los potenciales de los pares contiguos. Depende del pH, excepto en el caso en el que no se involucren oxígenos ni hidrógenos. nE=n1E1+n2E2.
+
+En las reacciones de desproporción (una especie se autooxida y autoreduce a la vez) y de comproporción (opuesto a desproporción), el diagrama de látimer muestra que el numero de la flecha de la derecha es mayor que el de la izquierda.
+
+El diagrama de frost se ve en líneas en vez de números, sino que se grafica en el eje y NE y en el eje x N (nº de oxidación), y el potencial será la pendiente:
+![Pasted image 20260212102452.png](/img/user/7%20-%20Fotos/Pasted%20image%2020260212102452.png)
+Esto también permite comparar potenciales. Cuanto más abajo sea la especie, más estable será.  No siempre es más oxidante el de mayor estado de oxidación, sino el que tenga la pendiente mayor.
