@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2 - Wikifarma/proteína/","tags":["bioquimica"],"created":"2025-12-26T12:10:38.617+01:00","updated":"2026-01-24T20:11:49.856+01:00"}
+{"dg-publish":true,"permalink":"/2 - Wikifarma/proteína/","tags":["bioquimica"],"created":"2025-12-26T12:10:38.617+01:00","updated":"2026-02-16T09:29:40.661+01:00"}
 ---
 
 # Las proteínas
@@ -49,4 +49,4 @@ Se produce cuando una proteína tiene varias cadenas polipeptídicas (subunidade
 
 ## Estructuras supersecundarias
 Es la combinación de distintos motivos secundarios. Algunos son: βαβ, horquilla β, horquilla α, llave griega (intercala hojas β), mano EF (centro de unión al calcio); hélices transmembrana (7 hélices), barril β, meandro β.
-También existen los dominios, que es la combinación de varios motivos. Suelen ser semiindependientes y relacionadas con una función como las hélices enrolladas, que interactúa con el ADN gracias a la cremallera de leucina; los dedos de zinc, que son estructuras β y α unidos por un Zn que interactúa con Cys e His que puede interactuar con el ADN; o el dominio Ig, que son 7 hebras β antiparalelas dispuestas en dos hojas que son características de las inmunoglobulinas.
+También existen los dominios, que es la combinación de varios motivos. Suelen ser semiindependientes y relacionadas con una función como las hélices enrolladas, que interactúa con el ADN gracias a la [cremallera de leucina](organización%20del%20material%20genético#Otros%20complejos%20que%20interactúan%20con%20el%20ADN); los dedos de zinc, que son estructuras β y α unidos por un Zn que interactúa con Cys e His que puede interactuar con el ADN; o el dominio Ig, que son 7 hebras β antiparalelas dispuestas en dos hojas que son características de las inmunoglobulinas.

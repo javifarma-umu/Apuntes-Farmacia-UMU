@@ -28,7 +28,7 @@ El PLP origina de la [[2 - Wikifarma/vitamina\|vitamina]] B6 catalizado por la p
 Viene de la vitamina B7 y es cofactor en carboxilaciones
 
 ## Tetrahidrofolato
-El THF viene de la vitamina B9 y es coenzima en el metabolismo de [[2 - Wikifarma/aminoácidos\|aminoácidos]] y [[ácidos nucleicos\|ácidos nucleicos]] transfiriendo unidades de carbono.
+El THF viene de la vitamina B9 y es coenzima en el metabolismo de [[2 - Wikifarma/aminoácidos\|aminoácidos]] y [[2 - Wikifarma/ácidos nucleicos\|ácidos nucleicos]] transfiriendo unidades de carbono.
 
 ## Vitamina B12
 En el catabolismo de ácidos grasos y aminoácidos

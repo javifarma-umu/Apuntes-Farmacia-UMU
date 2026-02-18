@@ -22,7 +22,7 @@ Los bioelementos son la unidad estructural de la biología y constan de todos lo
 ## Bioelementos primarios
 Los bioelementos primarios son el carbono (C), oxígeno (O), nitrógeno (N) e hidrógeno (H). Aparecen en casi todos los [[grupos funcionales\|grupos funcionales]] y formando muchas estructuras distintas. Destaca el carbono, que es la base de la química orgánica gracias a su facilidad de formar [[2 - Wikifarma/enlaces\|enlaces]] covalentes con facilidad, tanto sencillos como dobles y triples
 ## Bioelementos secundarios
-Son el calcio, fósforo, azufre, potasio, sodio, cloro, magnesio y hierro, que forman algunas estructuras específicas, como los [[ácidos nucleicos\|ácidos nucleicos]] o la hemoglobina en el caso del hierro.
+Son el calcio, fósforo, azufre, potasio, sodio, cloro, magnesio y hierro, que forman algunas estructuras específicas, como los [[2 - Wikifarma/ácidos nucleicos\|ácidos nucleicos]] o la hemoglobina en el caso del hierro.
 ## Oligoelementos
 Son esenciales para la vida pero en cantidades muy pequeñas. Son el cobalto, cobre, flúor, zinc, yodo, manganeso y níquel. Un desequilibrio de estos elementos puede provocar enfermedades como:
 - Cu: anemia hipocrómica

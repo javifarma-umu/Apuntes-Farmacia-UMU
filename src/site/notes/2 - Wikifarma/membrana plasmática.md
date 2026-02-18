@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/2 - Wikifarma/membrana plasmática/","tags":["biocel"],"created":"2026-01-02T00:06:13.960+01:00","updated":"2026-01-24T22:32:05.993+01:00"}
+{"dg-publish":true,"permalink":"/2 - Wikifarma/membrana plasmática/","tags":["biocel"],"created":"2026-01-02T00:06:13.960+01:00","updated":"2026-02-18T17:53:40.045+01:00"}
 ---
 
 # Composición
-La membrana celular es el orgánulo que se encarga de limitar dela extensión de la célula y de sus orgánulos. Se trata de una estructura que no se ve bajo MO.
+La [membrana](membranas%20biológicas) celular es el orgánulo que se encarga de limitar dela extensión de la célula y de sus orgánulos. Se trata de una estructura que no se ve bajo MO.
 
 Se trata de una bicapa [lipídica](lípido) que forma 3 láminas (2 bandas de cabezas polares fosfatadas y una de colas hidrófobas policarbonadas). El modelo aceptado es el de mosaico fluido, donde la membrana es una bicapa lipídica (40%) dinámica y móvil con [proteínas](proteína) (60%) y [glúcidos](glúcido) incrustados que pueden moverse en la membrana y mantener su integridad. 
 

@@ -14,7 +14,7 @@ Los factores termodinámicos marcan la espontaneidad de la reacción (ΔG<0). Ca
 La [[2 - Wikifarma/cinética enzimática\|cinética enzimática]] marca la velocidad de las reacciones. La velocidad se define con la ecuación de Arrhenius: k=A\*e^(Ea/RT), ya que v=k\[S]. Aquí la enzima se encarga de disminuir Ea, aumentando la k y por ende la v.
 
 ## Estados de transición
-![Pasted image 20251228172733.png](/img/user/7%20-%20Fotos/Pasted%20image%2020251228172733.png)
+![Pasted image 20251228172733.png](/img/user/6%20-%20Fotos/Pasted%20image%2020251228172733.png)
 El pico de energía entre S y P es la energía de actividad (Ea), que es la energía necesaria para formar estados de transición: formas inestables donde los enlaces se están reagrupando. Las enzimas aumentan la velocidad al disminuir la Ea. Lo consiguen uniendo los sustratos al centro activo, donde se orientan, están sometidos a factores fisicoquímicos más favorables y hay grupos químicos que participan en la reacción.
 
 ## Factores en la catálisis
@@ -46,7 +46,7 @@ Las clases de enzimas más comunes son:
 ## Anhidrasa carbónica
 La α-Anhidrasa carbónica II de los eritrocitos presenta un Zn 2+ en el centro activo unido a histidinas y 1 H2O (con un pKa reducido de 7) que cataliza la formación de ácido carbónico (parte del tampón bicarbonato) a partir de CO2 y H2O.
 La unión del agua con el Zn incita la deprotonación del agua (H2O -> OH-). Cuando el CO2 se une al centro activo, es atacado por este OH, formando HCO3. Cuando se libera el HCO3 el centro catalítico se regenera por unión de un H2O nuevo.
-![Pasted image 20251228192535.png](/img/user/7%20-%20Fotos/Pasted%20image%2020251228192535.png)
+![Pasted image 20251228192535.png](/img/user/6%20-%20Fotos/Pasted%20image%2020251228192535.png)
 
 ## Enolasa
 La enolasa es una enzima que convierte el 2-fosfoglicerato en el fosfoenolpiruvato gracias a su lisina, ácido glutámico y Mg 2+. 

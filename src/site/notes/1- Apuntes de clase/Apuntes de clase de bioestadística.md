@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1- Apuntes de clase/Apuntes de clase de bioestadística/","created":"2026-01-27T08:33:23.391+01:00","updated":"2026-02-05T09:22:12.675+01:00"}
+{"dg-publish":true,"permalink":"/1- Apuntes de clase/Apuntes de clase de bioestadística/","created":"2026-01-27T08:33:23.391+01:00","updated":"2026-02-18T09:09:02.523+01:00"}
 ---
 
 Antes de hacer cualquier estudio es fundamental hacer una pregunta de investigación con objetivos e hipótesis. Si no tenemos pregunta no tiene sentido hacer un estudio estadístico.
@@ -104,3 +104,28 @@ Supervivientes (dicotómica)
 c. Observa como se resumen los datos de las variables 
 
 d. Comenta los resultados de alguna variable:
+
+---
+# Probabilidad
+**FALTÉ A ESTO**
+## Test de diagnóstico
+Una prueba que se usa para detectar una enfermedad. Estas pruebas no son perfectas, existen falsos positivos y falsos negativos. Luego se confirma con un "gold standard" *ej cribado de cancer de mama, que luego se confirma con una biopsia*. Pueden servir para descubrir, confirmar o descartar una enfermedad. El truco está en combinar distintas pruebas. Tiene distintos parámetros:
+- **Validez:** lo sensible y específico que es un test. Normalmente se compara con el gold standard. Se mide con probabilidades condicionadas
+- **Capacidad predictiva:** capacidad de detectar un sano en negativo o un enfermo con positivo. Son probabilidades condicionadas.
+
+**Sensibilidad:** la porbabilidad de que el test sea positivo si está enferma
+**Especifidad:** probabilidad de que de negativo cuando es sano
+
+También se obtienen tasas de falsos positivos y de falsos negativos
+
+Una prueba muy sensible tiene pocos falsos negativos, por lo que identifican bien a enfermos. Sirve para hacer cribados. Pueden haber falsos positivos, pero se contrasta con el gold standard. Es util ante enfermedades graves que necesitan diagnostico.
+
+Mientras la sensibilidad y especifidad miden la validez, los valores predictivos miden la capacidad predictiva.
+- **Valor predictivo positivo**: De los positivos, cuales son verdaderos positivos.
+- **Valor predictivo negativo**: De los negativos, cuales son verdaderos negativos.
+
+La prevalencia es la probabilidad o frecuencia de una enfermedad. **Los valores predictivos cambian con la prevalencia** de la enfermedad. Por ejemplo, con un test de sensibilidad y especifidad alta, el v+ sube mucho (no hay FP) y el v- baja (más FN); y cuando hay muy poca prevalencia lo contrario. Esto se justifica con el teorema de Bayes. Como resultado, el valor predictivo es muy dependiente del **contexto**. La precisión es el porcentaje de aciertos ((VP+VN)/total).
+
+**Test de diagnóstico comunes en farmacia en la diapositiva**
+
+Para un test que funciona bien "para todo" hay que sumar la sensibilidad y especifidad. La suma de s y e restando 1 se llama índice de Younden

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1- Apuntes de clase/Apuntes de clase de química inorgánica/","created":"2026-01-27T09:31:31.523+01:00","updated":"2026-02-12T12:08:42.942+01:00"}
+{"dg-publish":true,"permalink":"/1- Apuntes de clase/Apuntes de clase de química inorgánica/","created":"2026-01-27T09:31:31.523+01:00","updated":"2026-02-17T10:16:08.320+01:00"}
 ---
 
 Los orbitales se llenan siguiendo el principio de Aufbau: de menor a mayor energía.
@@ -38,7 +38,7 @@ En los compuestos iónicos la ΔH es la fuerza impulsora de la reacción, pero �
 
 ***APUNTE DE SEMINARIO:*** U equivale al valor absoluto de Z+ por el valor asbsoluto de Z- partido por el diametro
 
-![Pasted image 20260202095849.png](/img/user/7%20-%20Fotos/Pasted%20image%2020260202095849.png)
+![Pasted image 20260202095849.png](/img/user/6%20-%20Fotos/Pasted%20image%2020260202095849.png)
 
 En disolución los iones se relacionan con agua (hidratan) y estabilizan los intermedios. Para esto es muy buena el agua con sus dipolos. La entalpía de hidratación y el número de moléculas de agua de hidratación se relacionan con la densidad de carga del ion.
 
@@ -114,10 +114,10 @@ Los ligandos son muy variados y se pueden ligar de distintas maneras (denticidad
 - **Ambidentados:** Puede usar como átomo dador distintos átomos dadores (determinado por la letra kappa). El átomo duro depende de la naturaleza del ácido de lewis (duro o blando)
 - **Macrocíclicos:** Tienen una disposición que forma un ciclo. *Ej: porfirina*. Un metal se mete en el centro del ciclo y es "abrazado" por los dadores.
 
-![Pasted image 20260205102211.png](/img/user/7%20-%20Fotos/Pasted%20image%2020260205102211.png)
+![Pasted image 20260205102211.png](/img/user/6%20-%20Fotos/Pasted%20image%2020260205102211.png)
 La fosfina es el típico dador monodentado y muchas veces está asociado a carbonos dadores (trimetilfosfina o trifenilfosfina).
 
-![Pasted image 20260205102319.png](/img/user/7%20-%20Fotos/Pasted%20image%2020260205102319.png)
+![Pasted image 20260205102319.png](/img/user/6%20-%20Fotos/Pasted%20image%2020260205102319.png)
 
 ## Estabilidad de compuestos de coordinación
 En compuestos de coordinación pueden haber sustituciones de ligandos, con un equilibrio llamado Kf. Cuanto mayor es Kf, más estable está y más favorecida está termodinámicamente (ΔG=ΔH-TΔS). Esto está relacionado con lo duro o blando que son los ligandos y metales.
@@ -175,7 +175,7 @@ Mer (meridional): están en el mismo plano (hay elementos enfrentados)
 #### Óptica
 Son imagenes especulares. Puede pasar también en octaedros, pero en los trans no puede haber (hay un eje de simetría)
 
-# Redox
+# Tema 5 - Redox
 Reducir se suele usar para almacenar energía y oxidar para producirla. Normalmente las reacciones redox pasan en contacto para que los e- salten de una especie a otra. Puede ser en disolución o en la superficie de un sólido en contacto con disolución.
 
 Termodinámicamente, estas reacciones funcionan por potenciales. ΔG=-nFΔE; ΔE=Ered-Eox. Si ΔG es negativo, ΔE debe ser negativo y que para que pase eso Eox>Ered. Las pilas galvánicas son espontáneas y las pilas electrolíticas reciben un potencial para separar elementos de una molécula.
@@ -194,5 +194,69 @@ Cuando un element o tiene muchos estados de oxidación, se usan los diagramas de
 En las reacciones de desproporción (una especie se autooxida y autoreduce a la vez) y de comproporción (opuesto a desproporción), el diagrama de látimer muestra que el numero de la flecha de la derecha es mayor que el de la izquierda.
 
 El diagrama de frost se ve en líneas en vez de números, sino que se grafica en el eje y NE y en el eje x N (nº de oxidación), y el potencial será la pendiente:
-![Pasted image 20260212102452.png](/img/user/7%20-%20Fotos/Pasted%20image%2020260212102452.png)
+![Pasted image 20260212102452.png](/img/user/6%20-%20Fotos/Pasted%20image%2020260212102452.png)
 Esto también permite comparar potenciales. Cuanto más abajo sea la especie, más estable será.  No siempre es más oxidante el de mayor estado de oxidación, sino el que tenga la pendiente mayor.
+
+# Tema 6 - Hidrógeno
+## Elemental
+El hidrógeno es el elemento más abundante del universo (75%) y el 10º más abundante de la tierra, encontrado mayoritariamente en agua. En el estado elemental, el hidrógeno no va libre, sino en H2 (g).
+
+Es el elemento más ligero de la tabla, ya que su isótopo mayoritario es un p+ y un e-. Su electronegatividad es intermedio entre el C y B. Se puede usar en resonancias magnéticas.
+
+El hidrógeno tiene 3 isótopos: protón, deuterio y tritio. Su spin nuclear es de 1/2. El tritio se obtiene mediante el bombardeo de Li con neutrones-. Es un elemento radiactivo de vida media de 12 años que se usa en fármacos para el rastreo, que se usa en la investigación.
+
+En fármacos, si se cambia hidrógeno (H) por deuterio (D), se afecta cómo reacciona ya que los enlaces son más fuertes y el metabolismo tarda más en eliminarlos. El D2O es agua pesada, y tiene propiedades distintas al H2O.
+
+## H2
+La obtención de hidrógeno se puede obtener de distintas maneras:
+- Reducción de disoluciones acuosas ácidas. Muchas veces se usa Zn como reductor.
+- Reacción de un hidruro metálico en agua.
+- Electrólisis (método industrial): OH hace de cátodo y H2O de ánodo, transformando H2O en H2 + 1/2O2
+- Otro método es de H2O + CO, que oxida el CO a CO2 y reduce el H2O a H2.
+
+Los usos de H2 son muy variados:
+- Agente reductor en la producción de metales
+- Combustible
+- Reactivo para la síntesis de químicos como NH3, petroquímicos, fármacos o productos alimentarios.
+
+Quemar el H2 es un proceso muy entálpico y con energía libre negativa. Se almacena en materiales especiales, donde son introducidos para luego ser liberados poco a poco para evitar cambios bruscos de presiones.
+
+En procesos de la industria alimentaria se puede usar para hidrogenar grasas insaturadas. Hay reacciones parecidas en la síntesis de fármacos.
+
+## Compuestos que forma
+Los compuestos de hidrógeno se suelen llamar hidruros. La obtención de H- tiene una A de -77kJ/mol, por lo que solo será aceptor con metales poco electronegativos como el Na.
+
+La energía de ionización es muy alta (I= 1310 kJ/mol), por lo que H+ es una formalidad, ya que siempre que se habla de protones se habla de H+ asociado a una base de lewis (*ej H3O+*).
+
+Los hidruros pueden ser:
+- Hidruros iónicos o salinos (E+, H-)
+- Hidruros metálicos o intersticiales (MaHb)
+- Hidruros covalentes o moleculares (E-H)
+
+### Hidruros salinos
+Formados por H con metales de muy poca electronegatividad. Forma redes cristalinas, que como tienen U reticular altas, tienen pto de fusión bastante alto. Tienen una estequiometría definida (MH para alcalinos y MH2 para alcalinotérreos). Son muy reactivos, comportándose como reductores (poco estables), su reactividad es tal que no se pueden manejar al aire.
+
+### Hidruros intersticiales
+Los átomos de H interactúan con metal, ya sea con 1, 2, 4, etc. La estequiometría no es definida y cambia según el metal. Son conductores y brillantes
+
+### Hidruros moleculares
+Forman enlaces covalentes, que pueden estar polarizados o no. Si E es muy electronegativa, el H tiene un dipolo positivo; si E es menos electronegativos (como Sn), el H tiene un dipolo electronegativo; y si E tiene una electronegatividad parecida (como en alcanos), no hay dipolo.
+
+Estos compuestos pueden formar puentes de hidrógeno, que mantienen la estructura de proteínas, ADN, etc. Muchos fármacos establecen enlaces por puentes de H
+
+# Tema 7 - Alcalinos
+Las valencias que se esperan de los elementos son +1 y tienen la energía de ionización más baja de todos los grupos. Forman redes cristalinas cúbicas poco compactas con un enlace no muy fuerte. Por ello tienen bajos puntos de fusion y ebullicion y que se cortan facilmente. Cuanto más grandes más débiles.
+
+Tienen potenciales de reduccion muy negativos que se hacen más negativos cuanto más grandes son (carácter metálico) a excepción del Li, que es el más pequeño y más reductor. Esta anomalía ocurre por lo sumamente polarizante hace que las interacciones sean más efectivas, dando una alta entalpía de hidratación.
+
+Las sales de alcalinos son generalmente solubles, excepto las de Li y Na con F, ya que tienen una gran energía de red. Por lo general la solubilidad se da porque la ΔH de hidratación es mayor que la energía de red.
+
+Los oxidos de elementos alcalinos son basicos
+
+**he estado distraido repetir los apuntes**
+
+En las baterias de litio el anodo es grafito y un oxido metalico (como cobalto) hace de catodo
+
+## Li
+MUY INCOMPLETO
+

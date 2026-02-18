@@ -5,9 +5,9 @@
 # Generalidades
 La cinética enzimática estudia la velocidad de las reacciones y los factores que la afectan. Para esto hay que recurrir que la reacción requiere que dos partículas colisionen, rompan enlaces y formen unos nuevos. Es muy importante las concentraciones de enzima y sustrato, capacidad catalítica y condiciones ambientales. 
 Son reacciones regulables, es decir, pueden ser inhibidos o activados dependiendo de las condiciones fisiológicas.
-![Pasted image 20251229014037.png](/img/user/7%20-%20Fotos/Pasted%20image%2020251229014037.png)
+![Pasted image 20251229014037.png](/img/user/6%20-%20Fotos/Pasted%20image%2020251229014037.png)
 Cuando hay varias etapas, la velocidad depende del paso más lento (limitante). Si la 1ª reacción es reversible, hay un "estado de preequilibrio" donde la formación y descomposición de intermedios alcanza un equilibrio; hay un balance directo e inverso; la concentración de los intermedios es constante; el estudio cinético es "sencillo". Esto pasa en las reacciones enzimáticas:
-![Pasted image 20251229014429.png](/img/user/7%20-%20Fotos/Pasted%20image%2020251229014429.png)
+![Pasted image 20251229014429.png](/img/user/6%20-%20Fotos/Pasted%20image%2020251229014429.png)
 
 ## Factores ambientales
 - **pH:** los cambios de pH pueden afectar la afinidad enzima-sustrato.
@@ -15,7 +15,7 @@ Cuando hay varias etapas, la velocidad depende del paso más lento (limitante). 
 Por ello, la actividad enzimática se miden a T y pH óptimo en unidades de actividad enzimática (U), que es un μmol/min.
 # Michaelis-Menten
 Se considera un estado estacionario donde la formación y descomposición de ES es constante. La concentración de P es muy baja (casi 0, ósea al inicio de la reacción), por lo que se obtendrán velocidades iniciales. El sustrato está en exceso cuando la concentración de éste es mucho mayor que el de la enzima. Si se grafica la cantidad de producto frente al tiempo se obtienen gráficas como estas:
-![Pasted image 20251229020056.png](/img/user/7%20-%20Fotos/Pasted%20image%2020251229020056.png)
+![Pasted image 20251229020056.png](/img/user/6%20-%20Fotos/Pasted%20image%2020251229020056.png)
 
 Para encontrar los factores cinéticos hay que saber que:
 $$
@@ -44,8 +44,8 @@ Es la disminución de la actividad enzimática por medio de un inhibidor, que pu
 
 ## Tipos de inhibidores
 - **Competitivos:** Tienen una estructura similar al sustrato, por lo que compite con él para unirse al centro activo. Se puede amortiguar la acción de este tipo de inhibidores si la concentración de sustrato es lo suficientemente elevada. No varía la Vmax, pero si aumenta la Km, que pasa a ser Kmap, que es igual a α\*Km; α=1+\[I]/Ki. 
-![Pasted image 20251229134809.png|390](/img/user/7%20-%20Fotos/Pasted%20image%2020251229134809.png)
-- **No competitivos:** Se unen a un sitio distinto al centro activo, provocando un cambio conformacional en el centro activo. No varía la Km, pero disminuye la Vmax, que será Vmax/α. ![Pasted image 20251229134950.png|390](/img/user/7%20-%20Fotos/Pasted%20image%2020251229134950.png)
+![Pasted image 20251229134809.png|390](/img/user/6%20-%20Fotos/Pasted%20image%2020251229134809.png)
+- **No competitivos:** Se unen a un sitio distinto al centro activo, provocando un cambio conformacional en el centro activo. No varía la Km, pero disminuye la Vmax, que será Vmax/α. ![Pasted image 20251229134950.png|390](/img/user/6%20-%20Fotos/Pasted%20image%2020251229134950.png)
 - **Acompetitivos:** Inhibidores irreversibles que se unen al complejo enzima-sustrato en un lugar distinto al centro activo. Disminuye tanto la Km (Km/α) como la Vmax (Vmax/α).
 
 # Enzimas alostéricas.

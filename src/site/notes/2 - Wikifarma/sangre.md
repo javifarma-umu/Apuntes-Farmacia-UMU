@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2 - Wikifarma/sangre/","tags":["biocel"],"created":"2026-01-10T20:18:35.191+01:00","updated":"2026-01-25T12:01:10.620+01:00"}
+{"dg-publish":true,"permalink":"/2 - Wikifarma/sangre/","tags":["biocel"],"created":"2026-01-10T20:18:35.191+01:00","updated":"2026-02-18T18:08:36.584+01:00"}
 ---
 
 La sangre es un tejido conjuntivo especializado de matriz líquida que encarga función de transporte, homeostasis y defensa. Está formado por un 55% de matriz celular y un 45% de elementos formes: hematíes, trombocitos y leucocitos (neutrófilos, eosinófilos, basófilos, linfocitos y monocitos). Se encuentra en circulación por los [vasos sanguíneos](sistema%20vascular).
@@ -27,7 +27,7 @@ El plasma sanguíneo compone un 55% del volumen sanguíneo. Se trata de un líqu
 Los elementos formes son las células de la sangre.
 
 ### Eritrocitos
-La célula más abundante en la sangre es el eritrocito (5.000.000/mm^3), que tiene forma de disco bicóncavo y no tiene núcleo ni orgánulos. Están compuestos en un 33% por hemoglobina, ya que la necesitan para transportar O2 y CO2 (su función principal). También tienen en su glucocálix el complejo de antígenos AB0 y sistema de Rhesus (Rh).
+La célula más abundante en la sangre es el eritrocito (5.000.000/mm^3), que tiene forma de disco bicóncavo y no tiene núcleo ni orgánulos. Están compuestos en un 33% por [[2 - Wikifarma/hemoglobina\|hemoglobina]], ya que la necesitan para transportar O2 y CO2 (su función principal). También tienen en su glucocálix el complejo de antígenos AB0 y sistema de Rhesus (Rh).
 
 ### Leucocitos
 Las células sanguíneas más grandes (y las únicas que tienen núcleo) son los leucocitos, que se encuentran en una proporción de entre 5000 y 9000 por mm^3. Se trata de una familia de células del sistema inmune con cualidades diversas. Se dividen en granulocitos (neutrófilos, eosinófilos y basófilos) y agranulocitos (linfocitos y monocitos).
