@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2 - Wikifarma/membrana plasmática/","tags":["biocel"],"created":"2026-01-02T00:06:13.960+01:00","updated":"2026-02-18T17:53:40.045+01:00"}
+{"dg-publish":true,"permalink":"/2 - Wikifarma/membrana plasmática/","tags":["biocel"],"created":"2026-01-02T00:06:13.960+01:00","updated":"2026-02-18T18:17:33.968+01:00"}
 ---
 
 # Composición
@@ -14,7 +14,7 @@ Las proteínas pueden ser integrales, periféricas o ancladas al lípido sirven 
 # Renovación y mecanismos de transporte
 La membrana está en un continuo proceso de renovación: la exocitosis provoca una pérdida de membrana y la endocitosis una adición de membrana. Esto pasa de manera constante, creándose un recambio de material continuo.
 
-El transporte de la membrana difiere dependiendo del soluto, ya que la membrana solo es permeable a ciertas sustancias (moléculas pequeñas no iónicas):
+El [[2 - Wikifarma/transporte de membrana\|transporte de membrana]] difiere dependiendo del soluto, ya que la membrana solo es permeable a ciertas sustancias (moléculas pequeñas no iónicas):
 - La **difusión simple** es un tipo de transporte no selectivo donde moléculas como O2 o benceno atraviesan la membrana sin ayuda a favor del gradiente. 
 - Otras moléculas como iones o monómeros van por **difusión facilitada** por canales o carriers: los canales son poros que atraviesan la membrana que se abren o por voltaje o por ligandos; mientras que los carriers sufren un cambio conformacional cuando se les une la molécula. 
 - Cuando el transporte es en contra del gradiente se requiere el **transporte activo**, que requiere un gasto de ATP (*ej, bombas NaK*). 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2 - Wikifarma/proteína/","tags":["bioquimica"],"created":"2025-12-26T12:10:38.617+01:00","updated":"2026-02-16T09:29:40.661+01:00"}
+{"dg-publish":true,"permalink":"/2 - Wikifarma/proteína/","tags":["bioquimica"],"created":"2025-12-26T12:10:38.617+01:00","updated":"2026-02-18T19:26:20.683+01:00"}
 ---
 
 # Las proteínas
@@ -41,10 +41,10 @@ Se trata de la disposición en dos dimensiones de la cadena polipeptídica, crea
 **Hoja β-plegada:** son láminas extendidas formadas por cadenas en zigzag que forman puentes de hidrógeno entre sí. Estas láminas pueden ser paralelas o antiparalelas.
 **Giros β y bucles:** Son elementos de conexión entre 2 motivos que constan de 4aa, estabilizados por puentes de hidrógeno entre aa 1 y aa 4 que suelen tener como 2º residuo la prolina (facilidad de adoptar la conformación cis) y como residuo 3º la glicina (menor impedimento estérico). Son comunes en proteínas globulares.
 
-## Estructura terciaria
+## Terciaria
 Se trata del plegamiento tridimensional de las proteínas, que tiende a formar dominios. Este nivel es el que determina la conformación nativa de la molécula, aunque se puede desnaturalizar por factores como el [[2 - Wikifarma/pH\|pH]] o temperatura. En esta estructura participan tanto enlaces fuertes (puentes disulfuro) y débiles.
 
-## Estructura cuaternaria
+## Cuaternaria
 Se produce cuando una proteína tiene varias cadenas polipeptídicas (subunidades) como la hemoglobina y describe como estas se relacionan. Pueden ser homomulrímeros, heteromultímeros o protómeros. Participan enlaces débiles y fuertes.
 
 ## Estructuras supersecundarias
