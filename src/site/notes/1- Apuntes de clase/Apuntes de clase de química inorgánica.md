@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1- Apuntes de clase/Apuntes de clase de química inorgánica/","created":"2026-01-27T09:31:31.523+01:00","updated":"2026-02-17T10:16:08.320+01:00"}
+{"dg-publish":true,"permalink":"/1- Apuntes de clase/Apuntes de clase de química inorgánica/","created":"2026-01-27T09:31:31.523+01:00","updated":"2026-02-19T10:07:57.355+01:00"}
 ---
 
 Los orbitales se llenan siguiendo el principio de Aufbau: de menor a mayor energía.
@@ -260,3 +260,21 @@ En las baterias de litio el anodo es grafito y un oxido metalico (como cobalto) 
 ## Li
 MUY INCOMPLETO
 
+# Tema 8 - Alcalinotérreos
+Generalmente sus óxidos tienen carácter básico. Tienen configuración en la capa de valencia ns2. Son todos metales. El mas abundante es el Ca (4% de la corteza) y también el magnesio. El Ra es radiactivo. Los relevantes en el cuerpo humano es el Ca y Mg. El punto de fusión de estos metales es más alto, ya que hay más electrones. Es una variación un poco más irregular ya que no todos los elementos siguen el mismo tipo de empaquetamiento. Tienen mayor energía de ionización. Quitar los primeros dos electrones es relativamente fácil, por lo que su estado de oxidación es +2. Su carácter metálico aumento al bajar. El berilio es capaz de formar compuestos covalentes.
+
+La energía de hidratación es más negativa cuanto mas pequeño sea el radio. Sus potenciales de reducción son bastante negativos, más negativos cuanto más grandes. En el caso de berilio ocurre el efecto de pasivado, donde un trozo de berilio forma una capa de óxido de berilio (BeO) que recubre su superficie y hace de capa protectora externa contra la oxidación del berilio.
+
+Tienen mayor tendencia a formar complejos que los alcalinos. Forman complejo sobre todo con ligandos polidentados
+
+El berilio forma compuestos covalentes debido a que su tamaño es tan pequeño y poder polarizante tan alto. El BeO no reacciona con agua, mientras que el resto de su grupo forma hidróxidos. Se comporta de manera anfótera, siendo una base de bronsted cuando en medio ácido, formando Be2+ (duro); mientras que en medio básico forma un complejo, captando 2OH y un H2O.
+
+Se obtienen en forma de óxidos y sales, que se funden y luego electrolizan en estado fundido.
+
+**USOS EN LAS DIAPOSITIVAS**
+
+El estroncio es rojo en los fuegos artificiales
+
+Cuando los alcalinotérreos se enfrentan a halógenos, rápidamente se oxidan y reaccionan (haluros). Todos forman óxidos, menos Ba que forma peroóxido (BaO2).
+
+Los hidróxidos son ligeramente solubles, pero se van formando más solubles cuanto más grande es el alcalinotérreo. Los sulfatos se van haciendo menos soluble, ya que cuanto mayor tamaño, menor es la diferencia de tamaño, aumentando la energía reticular. Los haluros de Be son covalentes, en algunos el berilio se hibridan. Estos compuestos forman polímeros de coordinación. Cuando se meten los óxidos en agua, forman hidróxidos

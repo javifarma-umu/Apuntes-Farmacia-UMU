@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2 - Wikifarma/organización del material genético/","tags":["bioquimica"],"created":"2026-02-05T20:55:06.484+01:00","updated":"2026-02-16T17:22:13.672+01:00"}
+{"dg-publish":true,"permalink":"/2 - Wikifarma/organización del material genético/","tags":["bioquimica"],"created":"2026-02-05T20:55:06.484+01:00","updated":"2026-02-19T16:50:23.697+01:00"}
 ---
 
 # El genoma
@@ -47,11 +47,11 @@ Se llama ADN satélite al de los telómeros, que forma bloques agrupados de much
 Estas secuencias son características y propias de cada individuo. Los minisatélites (unidad de repetición de 10-65 bps en bloques de miles de unidades) y microsatélites (unidad de repetición de 2-6 bps en bloques de hasta 50 unidades) se usan para la identificación de individuos.
 
 # Organización del ADN
- El ADN es una molécula flexible, lo que le permite condensarse y, gracias a la cromatina superenrollada, meter toda la información del genoma en el reducido espacio del núcleo. La condensación del cromosoma depende del tipo de célula y su fase del ciclo celular (empieza en G2 y es máxima en M y mínimo en G1). 
+ El ADN es una molécula flexible, lo que le permite condensarse y, gracias a la cromatina superenrollada, meter toda la información del genoma en el reducido espacio del núcleo. La condensación del cromosoma depende del tipo de célula y su fase del [[2 - Wikifarma/ciclo celular\|ciclo celular]] (es máxima en M y mínima en G1). 
  
- Los cromosomas tienen un brazo P (petit) y brazo U. La cromatina son el resultado de 2 eventos de supercompactación: el **superenrollamiento** del ADN y la **cooperación con histonas,** formando nucleosomas espaciados por linkers. 
+ Los cromosomas tienen un brazo P (petit) y brazo U. La cromatina es el resultado de 2 eventos de supercompactación: el **superenrollamiento** del ADN y la **cooperación con histonas,** formando nucleosomas espaciados por linkers. 
  
- La cromatina laxa se condensa en la fibra de 10nm, que se enrolla formando solenoides de 30nm, que forma bucles, que forma el cromosoma. Todos los nucleosomas están formadas por un **octámero** de histonas (2x(H2A, H2B, H3, H4)) y una histona H1, que sella al octámero. Todas las H son polipéptidos pequeños que adoptan el dominio de pliegue histónico, donde H2A y H2b; H3; y H4 encajan perfectamente. Sus colas aminoterminales no están plegadas y se encuentran hacia afuera, lo que les permite sufrir modificaciones. 
+ La cromatina laxa se condensa en la fibra de 10nm, que se enrolla formando solenoides de 30nm, que forma bucles, que forma el cromosoma. Todos los nucleosomas están formadas por un **octámero** de histonas (2x(H2A, H2B, H3, H4)) y una histona H1, que sella al octámero. Todas las H son polipéptidos pequeños que adoptan el dominio de pliegue histónico, donde H2A, H2b, H3 y H4 encajan perfectamente. Sus colas aminoterminales no están plegadas y se encuentran hacia afuera, lo que les permite sufrir modificaciones. 
  
  Las colas de las histonas se caracterizan por ser muy ricos en aminoácidos básicos (sobre todo Arg y Lys), por lo que atrae a los fosfatos del ADN. Pero a también pueden participar en otras reacciones con otros grupos químicos como:
 - Metilaciones, donde conserva el N+. Están enrolladas.
@@ -61,7 +61,7 @@ Por lo que la compactación de los cromosomas depende de la composición de las 
 Para que se transcriba el ADN durante la fase G1, la cromatina se tiene que descondensar hasta ADN de 10nm o menos, pasa lo mismo para el proceso de duplicación del ADN en la fase S.
 
 ## Condensación y descondensación
-Como se ha dicho antes, esto es regulado por las acetilaciones, que pierden la carga y puede ser reconocido por proteínas con **bromodominio**, mientras que los residuos metilados poseen sitios de unión de proteínas con dominio **cromo**. Esto se controla mediante las HAT (acetilasa) y HAD (desacetilasa) o HMT (metilasa) y HDM (demetil). Para que las HAT actúen debe de unirse primero una proteína reclutadora de HAT
+Como se ha dicho antes, esto es regulado por las acetilaciones, que pierden la carga y puede ser reconocido por proteínas con **bromodominio**, mientras que los residuos metilados poseen sitios de unión de proteínas con dominio **cromo**. Esto se controla mediante las HAT (acetilasa) y HAD (desacetilasa) o HMT (metilasa) y HDM (demetil). Para que las HAT actúen debe de unirse primero una proteína reclutadora de HAT.
 
 ### Complejos de remodelación nucleosómica
 Para la descondensación se requiere tanto la acetilación como la remodelación nucleosómica. Tras el cambio de conformación de fibra de 30 nm a fibra de 10nm (gracias a la acetilación), participan los complejos de remodelación de cromatina, que desplazan los nucleosomas para poder acceder al ADN. El complejo remodelador SWI/SNF desplaza los nucleosomas de manera dinámica, dejando al descubierto fragmentos de ADN que luego interactuarán con proteínas; y el complejo remodelador ISWI está implicado en el ensamblaje de los nucleosomas, manteniendo la proteína condensada. Si hay ausencia del complejo SWI/SNF los nucleosomas no se mueven y las colas pueden ser desacetiladas y metiladas, silenciando los genes.

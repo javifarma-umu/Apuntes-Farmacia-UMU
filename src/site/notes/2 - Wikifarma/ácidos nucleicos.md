@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2 - Wikifarma/ácidos nucleicos/","tags":["bioquimica"],"created":"2026-02-01T21:50:47.643+01:00","updated":"2026-02-16T09:06:36.152+01:00"}
+{"dg-publish":true,"permalink":"/2 - Wikifarma/ácidos nucleicos/","tags":["bioquimica"],"created":"2026-02-01T21:50:47.643+01:00","updated":"2026-02-19T11:38:47.540+01:00"}
 ---
 
 # Generalidades
@@ -15,7 +15,7 @@ Su estructura sillar es una base nitrogenada unida a una [pentosa](glúcido#Mono
 Los distintos [nucleótidos](nucleótido) se unen entre sí mediante un enlace éster-fosfato. Como el fosfato es igual de probable de unirse al 5’ como al 3’ de la pentosa, es muy fácil que haga un enlace fosfodiéster con el 5’ de su nucleótido y el 3’ del nucleótido siguiente. Este enlace se puede repetir de manera indeterminada, formando una cadena de nucleótidos (**ácido nucleico**), que consta de un esqueleto soluble de fosfatos y pentosas; y una parte variable insoluble compuesta por distintos nucleótidos que se estabilizan por interacciones hidrofóbicas y fuerzas van der Waals. La lectura de la secuencia de un ácido nucleico se realiza desde el extremo 5’ libre hacia el 3’ libre.
 
 ## Historia de la investigación del ADN
-El ADN está formado por las desoxirribosas con ATCG. Los átomos vértices tienen una estructura plana aromática con electrones descentralizados. 
+El ADN está formado por las desoxirribosas con ATCG. Los átomos vértices, las bases nitrogenadas, tienen una estructura plana aromática con electrones descentralizados. 
 
 En un primer momento se pensaba que el ADN era una repetición constante de ACGT, pero se descubrió que las distintas especies tenían una proporción distinta y específica; que además no cambiaba entre los tejidos ni entre los estados de salud, nutricional o edad (completamente propia de la especie); y además se vio el A%=T% y que C%=G% y A+G=T+C (**leyes de Chargaff**).
 

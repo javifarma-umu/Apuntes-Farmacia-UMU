@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2 - Wikifarma/transcripción/","tags":["bioquimica"],"created":"2026-02-07T21:31:00.748+01:00","updated":"2026-02-17T17:36:12.101+01:00"}
+{"dg-publish":true,"permalink":"/2 - Wikifarma/transcripción/","tags":["bioquimica"],"created":"2026-02-07T21:31:00.748+01:00","updated":"2026-02-19T17:40:34.483+01:00"}
 ---
 
 # Generalidades
@@ -81,9 +81,9 @@ En las células superiores hay varias diferencias:
 
 Las bacterias no requieren de nada más allá de la polimerasa para iniciar, pero en las eucariotas no es suficiente: necesita reconocer a los promotores elementales, que son la caja TATA (-31 a -25) y motivo BRE (-30 a -40) aguas arriba; y aguas abajo el motivo 10 y DPE. No hacen falta los 4 elementos, sino una combinación de alguno de estos. 
 
-También es necesaria la participación de los factores de transcripción para localizar el lugar de transcripción, como TBP (proteinas de unión a TATA), que provoca una flexión del ADN. La TBP se asocia a las TAFs (TBP associated factor), de la familia TFIID. Las TAFs también dan inicio a la transcipción, donde la unión de TBP posibilita la unión del TFIID , que posibilita la del TIIA, que recluta la de TIIB, que posibilita el reclutamiento de ARNpol II con el TFIIF, luego se involucran TFIIE y TFIIH (helicasa + quinasa). 
+También es necesaria la participación de los [factores de transcripción](regulación%20de%20la%20expresión%20génica#Genes%20tipo%20II) para localizar el lugar de transcripción, como TBP (proteinas de unión a TATA), que provoca una flexión del ADN. La TBP se asocia a las TAFs (TBP associated factor), de la familia TFIID. Las TAFs también dan inicio a la transcipción, donde la unión de TBP posibilita la unión del TFIID , que posibilita la del TIIA, que recluta la de TIIB, que posibilita el reclutamiento de ARNpol II con el TFIIF, luego se involucran TFIIE y TFIIH (helicasa + quinasa). 
 (*nota: las TII son factores de transcripción*)
 
-La subunidad beta de **ARNpol II** tiene un extremo COOH terminal con una repetición de 70 veces de una secuencia de aminoácidos (ricos en [[2 - Wikifarma/aminoácidos\|aminoácidos]] fosforilables) que emerge cerca del canal de salida del ARN de nueva síntesis totalmente defosforilada (preiniciación) o fosforilada (cada fosforilación una tiene significado distinto). En la cola del ARNpol II, llamada **cola CTD**, se pegan proteínas que promueven la formación del capuchón, componentes de ayuste y factores de elongación.
+La subunidad beta de **ARNpol II** tiene un extremo COOH terminal con una repetición de 70 veces de una secuencia de aminoácidos (ricos en [aminoácidos](aminoácidos#Tabla%20de%20aa) fosforilables) que emerge cerca del canal de salida del ARN de nueva síntesis totalmente defosforilada (preiniciación) o fosforilada (cada fosforilación tiene un significado distinto). En la cola del ARNpol II, llamada **cola CTD**, se pegan proteínas que promueven la formación del [capuchón](procesos%20post%20transcripcionales#Formación%20del%20capuchón), componentes de ayuste y factores de elongación.
 
-En eucariotas, el RNA tiene una secuencia de señal de [poliA](procesos%20post%20transcripcionales#Adición%20de%20la%20cola%20poliA), que es reconocida por una enzima nucleasa y cortada, liberando el ARN. La exonucleasa “limpia” el ARN restante hasta llegar al ARNpol para liberarlo. La región transcrita pero eliminada corresponde a la UTR 3'.
+En eucariotas, el RNA tiene una secuencia de señal de poliA, que es reconocida por una enzima nucleasa y cortada, liberando el ARN. La exonucleasa “limpia” el ARN restante hasta llegar al ARNpol para liberarlo. La región transcrita pero eliminada corresponde a la UTR 3'.

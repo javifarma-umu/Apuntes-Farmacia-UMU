@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/2 - Wikifarma/regulación metabólica/","tags":["bioquimica"],"created":"2025-12-29T15:24:25.144+01:00","updated":"2026-01-24T20:11:26.629+01:00"}
+{"dg-publish":true,"permalink":"/2 - Wikifarma/regulación metabólica/","tags":["bioquimica"],"created":"2025-12-29T15:24:25.144+01:00","updated":"2026-02-19T19:15:20.491+01:00"}
 ---
-
 
 # La regulación enzimática
 Es la adaptación de la actividad enzimática a las necesidades fisiológicas y ambiente. Se lleva a cabo por mecanismos moleculares:

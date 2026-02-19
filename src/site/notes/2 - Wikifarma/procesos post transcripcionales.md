@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2 - Wikifarma/procesos post transcripcionales/","tags":["bioquimica"],"created":"2026-02-08T20:18:18.688+01:00","updated":"2026-02-19T09:21:10.533+01:00"}
+{"dg-publish":true,"permalink":"/2 - Wikifarma/procesos post transcripcionales/","tags":["bioquimica"],"created":"2026-02-08T20:18:18.688+01:00","updated":"2026-02-19T17:50:58.459+01:00"}
 ---
 
 # Regulación de la expresión genética
@@ -55,7 +55,7 @@ Es una reacción catalizada por la metiltransferasa (asociada a la cola del ARNp
 
 ## Adición de la cola poliA
 Otra modificación necesaria que sufre el ARNhn es la poliadenilación, donde se añaden muchas adeninas al extremo 3' del ARN. Esta cola protege de la degradación por ribonucleasas en el extremo 3', ayudando a que el ARNm dure más en el citosol. Además, la cola poliA es reconocida para el proceso de transporte del ARN del núcleo al citosol.
- 
+
 La poliadenilación ocurre porque el transcrito primario tiene una señal de poliA, que atrae a CsTF (cleavage stimulation factor) y CPSF (cleavage and polyadenylation specificity factor), que saltan de la cola del ARNpol II. La CPSF hace de señal para que CsTF (endonucleasa) corte el ARN por 3', liberándolo de la maquinaria de transcripción ~30 nucleótidos aguas abajo de donde se unió, dejando un extremo 3' expuesto.
 
 La CPSF luego atrae a PAP (poliA polimerasa), que añade adeninas al extremo 3' libre hasta formar una cadena de 40-250 adeninas. Este proceso de poliadenilación es postranscripcional.

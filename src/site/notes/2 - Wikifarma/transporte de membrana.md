@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2 - Wikifarma/transporte de membrana/","tags":["bioquimica"],"created":"2026-02-14T23:02:02.789+01:00","updated":"2026-02-18T18:27:50.533+01:00"}
+{"dg-publish":true,"permalink":"/2 - Wikifarma/transporte de membrana/","tags":["bioquimica"],"created":"2026-02-14T23:02:02.789+01:00","updated":"2026-02-19T18:44:07.936+01:00"}
 ---
 
 # Generalidades
@@ -72,7 +72,7 @@ La superfamilia ABC permite el transporte de moléculas hidrofóbicas (como cole
 - La PGP o MDR1 es la ABCB1 se dedica a sacar fármacos y otros xenobióticos de la célula. Los tumores sobreexpresan su gen para resistir fármacos.
 - El CFR (regulación de conductancia transmembrana de fobrosis quística) transporta Cl- hacia el exterior. Como se hidrata el Cl- la sobreexpresión produce moco y es síntoma de la fibrosis quística.
 
-## Digestión
+## Transportadores en la digestión
 La absorción de nutrientes se produce en la membrana apical de los enterocitos del intestino para luego transportarlo al torrente por la parte apical. Para llegar al torrente, los nutrientes deben ser transportados:
 
 ### Monosacáridos

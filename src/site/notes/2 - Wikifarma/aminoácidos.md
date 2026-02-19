@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/2 - Wikifarma/aminoácidos/","tags":["bioquimica"],"created":"2025-12-24T16:16:15.611+01:00","updated":"2026-01-24T20:11:52.352+01:00"}
+{"dg-publish":true,"permalink":"/2 - Wikifarma/aminoácidos/","tags":["bioquimica"],"created":"2025-12-24T16:16:15.611+01:00","updated":"2026-02-19T18:54:52.390+01:00"}
 ---
 
 # Los aminoácidos
-Los aminoácidos son los monómeros constituyentes de las [[2 - Wikifarma/proteína\|proteína]]s. Están formados por un carbono central (Cα), un ácido carboxílico, un hidrógeno y una cadena lateral (R) específica a cada uno de los 20 aminoácidos proteinogénicos (existen hasta 300 que nacen de modificaciones postraduccionales) Son moléculas de configuración casi siempre D y α, anfóteras y capaces de formar polipéptidos por [[2 - Wikifarma/enlaces\|enlaces]] amino. Sus funciones son:
+Los aminoácidos son los monómeros constituyentes de las [proteínas](proteína). Están formados por un carbono central (Cα), un ácido carboxílico, un hidrógeno y una cadena lateral (R) específica a cada uno de los 20 aminoácidos proteinogénicos (existen hasta 300 que nacen de modificaciones postraduccionales) Son moléculas de configuración casi siempre D y α, anfóteras y capaces de formar polipéptidos por [[2 - Wikifarma/enlaces\|enlaces]] amino. Sus funciones son:
 - Ser precursores de sustancias biológicas nitrogenadas (neurotransmisores y hormonas)
 - Ser el monómero de las proteínas
 - Ser intermedio metabólico

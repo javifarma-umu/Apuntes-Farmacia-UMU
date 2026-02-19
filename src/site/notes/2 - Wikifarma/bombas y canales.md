@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2 - Wikifarma/bombas y canales/","tags":["bioquimica"],"created":"2026-02-15T12:13:44.421+01:00","updated":"2026-02-18T19:54:46.144+01:00"}
+{"dg-publish":true,"permalink":"/2 - Wikifarma/bombas y canales/","tags":["bioquimica"],"created":"2026-02-15T12:13:44.421+01:00","updated":"2026-02-19T19:00:55.130+01:00"}
 ---
 
 # Generalidades
@@ -64,13 +64,13 @@ Cada una de las hélices M2 de cada subunidad son que constituyen el canal. La z
 Cuando se produce la unión, hay un reajuste de los enlaces que provoca un cambio de conformación (rotación de las M2) que abre el canal. En la conformación cerrada hay enlaces voluminosos e hidrófobos en el poro; pero cuando se abre las cadenas rotan (~20º antihorarios) y ahora dan al poro aminoácidos pequeños y polares. La conformación abierta permite la salida de Na y la entrada de K.
 
 ## Canales activados por voltaje
-Los canales que responden al voltaje son un poco distintos. El mas conocido es el canal K+ bacteriano. Es un homotetrámero donde cada subunidad tiene 2 hélices α.
+Los canales que responden al voltaje son un poco distintos. El mas conocido es el canal K+ bacteriano. Es un homotetrámero donde cada subunidad tiene 2 [hélices α](proteína#Secundaria).
 
 Las luces de las 4 subunidades forman el filtro de selectividad (independiente de la apertura/cierre), donde los *loops* forman un pasillo estrecho que obliga que los iones se deshidraten para poder pasar y estabilizar la carga neta. Además, tienen zonas llamadas de estabilización (**filtros de selectividad**) que son perfectas para el tamaño del potasio, aunque el Na también podría pasar pero sería demasiado costoso. La secuencia de aminoácidos que forma este filtro es TVGYG.
 
-El mecanismo de apertura es por las hélices internas, que se separan y juntan debido a camabios de cargas. 
+El mecanismo de apertura es por las hélices internas, que se separan y juntan debido a cambios de cargas. 
 
-En los eucariotas, el canal K+ también es un homotetrámero, pero cada subunidad tiene 6 hélices, anque tiene los mismos aa que el segmento P (filtro) procariota. Las hélices S4 hacen de sensor de voltaje porque tienen cargas positivas, por lo que atraen y son atraídas por cargas negativas, (causando el cierre del poro); pero cuando llega la carga positiva se repele y S4 va para arriba, abriendo el canal.
+En los **eucariotas**, el canal K+ también es un homotetrámero, pero cada subunidad tiene 6 hélices, aunque tiene los mismos aa que el segmento P (filtro) procariota. Las hélices S4 hacen de sensor de voltaje porque tienen cargas positivas, por lo que atraen y son atraídas por cargas negativas, causando el cierre del poro; pero cuando llega la carga positiva se repele y S4 va para arriba, abriendo el canal.
 
 ### Toxinas en la transmisión del impulso nervioso
 Existen moléculas que bloquean distintas fases del impulso nervioso. 

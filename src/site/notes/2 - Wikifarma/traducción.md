@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2 - Wikifarma/traducción/","tags":["bioquimica"],"created":"2026-02-08T16:57:50.225+01:00","updated":"2026-02-18T18:12:50.785+01:00"}
+{"dg-publish":true,"permalink":"/2 - Wikifarma/traducción/","tags":["bioquimica"],"created":"2026-02-08T16:57:50.225+01:00","updated":"2026-02-19T18:03:05.980+01:00"}
 ---
 
 # Código genético
@@ -49,7 +49,7 @@ La subunidad grande es la responsable de la actividad catalítica de **transpept
 *EJEMPLO:* una proteína de 500 aa requiere un gasto de 1000 ATP para formar los aminoacil-ARNt y otros 1000 para los enlaces peptídicos (sin contar con otros gastos energéticos). Este gasto se da porque el gasto energético le merece la pena a la célula para disminuir la entropía.
 
 El proceso de reclutamiento de los IF (factores de iniciación) y ensamblaje del ribosoma es muy complejo. Se requiere una estructura circular en el ARNm, que es reconocida por las IF:
-- **eIF-1**: bloquea el sitio A de la subunidad menor
+- **eIF-1**: bloquea el sitio A de la subunidad menor del ribosoma
 - **eIF-2**: une GTP y tiene actividad GTPasa
 - **eIF-3**: bloquea el sitio E en la subunidad menor
 - **eIF-4**: une el ARNm con interacciones entre caperuza y cola poliA

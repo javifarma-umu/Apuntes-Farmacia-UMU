@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/0 - Índices/Bioquímica/","tags":["Índice","bioquimica"],"created":"2025-12-21T14:18:58.936+01:00","updated":"2026-02-16T16:33:44.081+01:00"}
+{"dg-publish":true,"permalink":"/0 - Índices/Bioquímica/","tags":["Índice","bioquimica"],"created":"2025-12-21T14:18:58.936+01:00","updated":"2026-02-19T17:08:53.718+01:00"}
 ---
 
-**Apuntes de clase:** [[1- Apuntes de clase/Apuntes de clase de bioquímica\|Apuntes de clase de bioquímica]]
+	**Apuntes de clase:** [[1- Apuntes de clase/Apuntes de clase de bioquímica\|Apuntes de clase de bioquímica]]
 # Ana
 - Tema 1: [[2 - Wikifarma/Principios básicos de la bioquímica estructural\|Principios básicos de la bioquímica estructural]]
 - Tema 2: [[2 - Wikifarma/agua\|agua]] y [[2 - Wikifarma/pH\|pH]]

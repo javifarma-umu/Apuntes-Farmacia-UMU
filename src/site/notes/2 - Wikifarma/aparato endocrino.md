@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2 - Wikifarma/aparato endocrino/","tags":["biocel"],"created":"2026-01-14T13:26:20.132+01:00","updated":"2026-01-25T11:55:46.392+01:00"}
+{"dg-publish":true,"permalink":"/2 - Wikifarma/aparato endocrino/","tags":["biocel"],"created":"2026-01-14T13:26:20.132+01:00","updated":"2026-02-19T19:43:23.990+01:00"}
 ---
 
 # Generalidades
@@ -59,7 +59,7 @@ La corteza tiene 3 capas (glomerular, fascicular y reticular).
 En la región de la médula se sintetizan catecolaminas que son liberadas dependiendo de una estimulación neuronal, por lo que se presentan células ganglionares simpáticas y células cromafines. Las células cromafines son neuronas modificadas que segregan hormonas (sobre todo adrenalina y noradrenalina) a los capilares fenestrados.
 
 # Páncreas
-El páncreas tiene una región exocrina de enzimas digestivas y una porción endocrina que sintetiza hormonas como la insulina. 
+El páncreas tiene una región [exocrina](aparato%20digestivo#Páncreas) de enzimas digestivas y una porción endocrina que sintetiza hormonas como la insulina. 
 
 La parte exocrina es una glándula tubuloacinar compuesta, que son acinos serosos no estriados con gránulos de cimógeno que segregan las enzimas. Entre los acinos exocrinos se encuentran los islotes de Langerhans, que suponen la porción endocrina. 
 
