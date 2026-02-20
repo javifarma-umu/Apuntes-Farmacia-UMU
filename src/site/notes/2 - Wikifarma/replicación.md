@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2 - Wikifarma/replicación/","tags":["bioquimica"],"created":"2026-02-07T19:01:26.581+01:00","updated":"2026-02-19T17:16:13.328+01:00"}
+{"dg-publish":true,"permalink":"/2 - Wikifarma/replicación/","tags":["bioquimica"],"created":"2026-02-07T19:01:26.581+01:00","updated":"2026-02-20T10:14:28.261+01:00"}
 ---
 
 # Generalidades
@@ -58,7 +58,7 @@ Las **proteínas de unión a monocadena** (RPA) son unas proteínas que hacen un
 Para desenrollarse, se necesita la **helicasa**, que avanza en dirección a la horquilla, desenrollando la doble hélice. El problema es que este desenrollamiento produce un superenrollamiento, que genera tensión por torsión, por lo que se requiere la **topoisomerasa**, que se encarga de eliminar las tensiones. La helicasa desenrolla en sentido 5’->3', produce superenrollamiento y necesita ATP. La topoisomerasa tiene función endonucleasa y polimerasa: cortan, desenrollan (un poco de más para compensar la torsión) y vuelven a empalmar.
 
 # Proceso de replicación
-La replicación comienza en los orígenes de replicación, que suelen ser ricas en pares AT frente CG (secuencias replicador), ya que tienen menos puentes de hidrógeno. Constan de un par de docenas de nucleótidos, que son reconocidos por proteínas **ORC** (complejo de reconocimiento del origen), uniéndose y reclutando las proteínas Cdc8 y Cdt1 a ambos lados de la proteína, “cargándose” y reclutando una helicasa a cada lado para formar dos horquillas de replicación. 
+La replicación comienza en regiones llamadas orígenes de replicación, que suelen ser ricas en pares AT frente CG (secuencias replicador), ya que tienen menos puentes de hidrógeno. Constan de un par de docenas de nucleótidos, que son reconocidos por proteínas **ORC** (complejo de reconocimiento del origen), uniéndose y reclutando las proteínas Cdc8 y Cdt1 a ambos lados de la proteína, “cargándose” y reclutando una helicasa a cada lado para formar dos horquillas de replicación. 
 
 Los plásmidos de procariotas son parecidos al cromosoma eucariota, pero con un solo origen de replicación (monofocal y bidireccional). Cuando se “chocan” dos burbujas queda un hueco que debe ser rellenado por una polimerasa. En los cromosomas hay varios focos.
 
