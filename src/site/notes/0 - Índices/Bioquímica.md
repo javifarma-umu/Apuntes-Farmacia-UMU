@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0 - Índices/Bioquímica/","tags":["Índice","bioquimica"],"created":"2025-12-21T14:18:58.936+01:00","updated":"2026-02-19T20:36:38.738+01:00"}
+{"dg-publish":true,"permalink":"/0 - Índices/Bioquímica/","tags":["Índice","bioquimica"],"created":"2025-12-21T14:18:58.936+01:00","updated":"2026-02-20T09:06:49.127+01:00"}
 ---
 
 	**Apuntes de clase:** [[1- Apuntes de clase/Apuntes de clase de bioquímica\|Apuntes de clase de bioquímica]]
@@ -28,7 +28,7 @@
 - Tema 19: [[2 - Wikifarma/procesos post transcripcionales\|procesos post transcripcionales]]
 - Tema 20 [[2 - Wikifarma/traducción\|traducción]]
 # Cecilia
-- Tema 21: [transporte y almacenamiento de oxígeno](hemoglobina)
+- Tema 21: [transporte y almacenamiento de oxígeno](hemoglobina.md)
 - Tema 22: [[2 - Wikifarma/membranas biológicas\|membranas biológicas]] y [[2 - Wikifarma/transporte de membrana\|transporte de membrana]]
 - Tema 23: [[2 - Wikifarma/bombas y canales\|bombas y canales]]
 - Tema 24: [[2 - Wikifarma/absorción y transporte de Fe Ca y P\|absorción y transporte de Fe Ca y P]]

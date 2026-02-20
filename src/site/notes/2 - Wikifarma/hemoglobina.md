@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2 - Wikifarma/hemoglobina/","tags":["bioquimica"],"created":"2026-01-26T20:43:21.788+01:00","updated":"2026-02-12T18:47:45.138+01:00"}
+{"dg-publish":true,"permalink":"/2 - Wikifarma/hemoglobina/","tags":["bioquimica"],"created":"2026-02-20T09:06:23.559+01:00","updated":"2026-02-20T09:06:40.374+01:00"}
 ---
 
 # Transporte de oxígeno
@@ -11,7 +11,7 @@ Una vez se consume el O2, el CO2 puede transportarse de vuelta a los pulmones ta
 
 La concentración de Hb es de 120 g/L en mujeres y de 130 g/L en hombres.
 # Estructura de la hemoglobina y mioglobina
-Tanto la mioglobina como la hemoglobina tienen una parte proteica con estructura terciaria todo α y un grupo prostético hemo capaz de captar O2. Se diferencian principalmente en que la mioglobina está compuesta por una única subunidad y la hemoglobina por 4 subunidades.
+Tanto la mioglobina como la hemoglobina tienen una parte proteica con [estructura terciaria](proteína#Terciaria) todo α y un grupo prostético hemo capaz de captar O2. Se diferencian principalmente en que la mioglobina está compuesta por una única subunidad y la hemoglobina por 4 subunidades.
 
 La hemoglobina más común, la **HbA1**, está compuesto por 4 subunidades: dos subunidades α, que tiene 8 hélices α (enumeradas de la A a la H); y dos subunidades β, que tienen 7 hélices α (enumeradas de la A a la H sin D). Se organizan en dos dímeros αβ unidos por interacciones hidrófobas. Otra subunidad importante es la HbA1c, que es la hemoglobina glicosilada, que sirve para controlar la diabetes. Otra importante es la HbF, que está en el feto y tiene 2 subunidades α y 2 subunidades γ.
 
@@ -48,6 +48,6 @@ Cuando el CO2 vuelve a los pulmones y hay inhalación, la presencia de O2 facili
 
 Las hemoglobinopatías son patologías génicas que afectan la cantidad o secuencia de la hemoglobina. Se pueden producir por el cambio de un aminoácido, una proteína truncada, un corrimiento de la pauta de lectura o por un síntesis reducida/nula.
 
-La hemoglobinopatía más conocida es la hemoglobina S o falciforme. Esta patología se produce por el cambio de un E (Á. glutámico) por una V (valina), es decir, un aa polar con carga por uno apolar alifático. Este cambio provoca que en la forma desoxi la valina interactúe con el bolsillo hidrofóbico, provocando la interacción de monómeros y finalmente la precipitación de eritrocitos. Estos precipitados pueden taponar capilares. No obstante, esta patología existe (sobre todo en África) porque tener su gen de manera heterocigótica da resistencia a la malaria.
+La hemoglobinopatía más conocida es la hemoglobina S o **falciforme**. Esta patología se produce por el cambio de un E (Á. glutámico) por una V (valina), es decir, un aa polar con carga por uno apolar alifático. Este cambio provoca que en la forma desoxigenada la valina interactúe con el bolsillo hidrofóbico, provocando la interacción de monómeros y finalmente la precipitación de eritrocitos. Estos precipitados pueden taponar capilares. No obstante, esta patología existe (sobre todo en África) porque tener su gen de manera heterocigótica da resistencia a la malaria.
 
 Otra hemoglobinopatía es la betatalasemia, que es la baja producción de la subunidad beta. La menor es en los heterocigotos, la menor es de cuadro clínico variable. La mayor se llama anemia de Cooley y es una enfermedad bastante grave.

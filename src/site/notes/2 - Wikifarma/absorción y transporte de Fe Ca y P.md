@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/2 - Wikifarma/absorción y transporte de Fe Ca y P/","tags":["bioquimica"],"created":"2026-02-15T15:00:00.046+01:00","updated":"2026-02-19T19:07:32.546+01:00"}
+{"dg-publish":true,"permalink":"/2 - Wikifarma/absorción y transporte de Fe Ca y P/","tags":["bioquimica"],"created":"2026-02-15T15:00:00.046+01:00","updated":"2026-02-20T09:06:49.151+01:00"}
 ---
 
 # Generalidades
 El hierro, calcio y fósforo son elementos cruciales para el organismo que requieren un aporte continuo, además de métodos de absorción, almacenamiento y transporte
 
-**Fe:** Capta y transporta el oxígeno en el grupo [hemo](hemoglobina#Estructura%20de%20la%20hemoglobina%20y%20mioglobina) (66% del total). También es cofactor enzimático y forma complejos Fe-S en la cadena de transporte electrónico. El problema es que al tener alto potencial REDOX puede oxidarse y pasar de Fe (II), que es el que interesa; a Fe (III), que es un agente oxidante que puede formar especies reactivas de oxígeno, que producen un estrés oxidativo que es nocivo. El hierro hemo es el del hemo; y el no hemo, el libre.
+**Fe:** Capta y transporta el oxígeno en el grupo [hemo](hemoglobina.md#Estructura%20de%20la%20hemoglobina%20y%20mioglobina) (66% del total). También es cofactor enzimático y forma complejos Fe-S en la cadena de transporte electrónico. El problema es que al tener alto potencial REDOX puede oxidarse y pasar de Fe (II), que es el que interesa; a Fe (III), que es un agente oxidante que puede formar especies reactivas de oxígeno, que producen un estrés oxidativo que es nocivo. El hierro hemo es el del hemo; y el no hemo, el libre.
 
 **Ca:** Es componente mayoritario en los [huesos](tejido%20óseo) (98%); y también es importante en la contracción muscular y la cascada de coagulación. Su concentración debe ser baja pero constante. Está unida por la calmodulina de la adhesión celular o a las cadherinas.
 
