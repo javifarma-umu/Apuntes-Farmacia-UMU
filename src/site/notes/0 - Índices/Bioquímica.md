@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/0 - Índices/Bioquímica/","tags":["Índice","bioquimica"],"created":"2025-12-21T14:18:58.936+01:00","updated":"2026-02-20T09:06:49.127+01:00"}
+{"dg-publish":true,"permalink":"/0 - Índices/Bioquímica/","tags":["Índice","bioquimica"],"created":"2025-12-21T14:18:58.936+01:00","updated":"2026-02-20T10:39:44.460+01:00"}
 ---
 
-	**Apuntes de clase:** [[1- Apuntes de clase/Apuntes de clase de bioquímica\|Apuntes de clase de bioquímica]]
+**Apuntes de clase:** [[1- Apuntes de clase/Apuntes de clase de bioquímica\|Apuntes de clase de bioquímica]]
 # Ana
 - Tema 1: [[2 - Wikifarma/Principios básicos de la bioquímica estructural\|Principios básicos de la bioquímica estructural]]
 - Tema 2: [[2 - Wikifarma/agua\|agua]] y [[2 - Wikifarma/pH\|pH]]
@@ -27,6 +27,7 @@
 - Tema 18: [[2 - Wikifarma/regulación de la expresión génica\|regulación de la expresión génica]]
 - Tema 19: [[2 - Wikifarma/procesos post transcripcionales\|procesos post transcripcionales]]
 - Tema 20 [[2 - Wikifarma/traducción\|traducción]]
+
 # Cecilia
 - Tema 21: [transporte y almacenamiento de oxígeno](hemoglobina.md)
 - Tema 22: [[2 - Wikifarma/membranas biológicas\|membranas biológicas]] y [[2 - Wikifarma/transporte de membrana\|transporte de membrana]]
@@ -34,4 +35,5 @@
 - Tema 24: [[2 - Wikifarma/absorción y transporte de Fe Ca y P\|absorción y transporte de Fe Ca y P]]
 - Tema 25: [[2 - Wikifarma/introducción al metabolismo\|introducción al metabolismo]] 
 - Tema 26: [[2 - Wikifarma/endocrinología molecular\|endocrinología molecular]]
+
 ---
