@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2 - Wikifarma/membranas biológicas/","tags":["bioquimica"],"created":"2026-02-14T17:56:41.457+01:00","updated":"2026-02-18T19:19:47.014+01:00"}
+{"dg-publish":true,"permalink":"/2 - Wikifarma/membranas biológicas/","tags":["bioquimica"],"created":"2026-02-14T17:56:41.457+01:00","updated":"2026-02-20T18:09:57.146+01:00"}
 ---
 
 # Generalidades
@@ -59,9 +59,9 @@ La membrana puede estar polarizada: en las células epiteliales hay región apic
 ## Proteínas
 Las proteínas pueden ser integrales, periféricas o ancladas. Hay de 8 tipos 
 - Las transmembrana **I-IV** son transmembrana de único paso
-- La **V** son de varios pasos
-- Las **VI** son de anclaje lipídico
-- Las tipo **VII** son GPI, un anclaje lipídico especial
+- La **V** son de varios pasos.
+- Las **VI** son de anclaje lipídico.
+- Las tipo **VII** son GPI (un anclaje lipídico especial).
 - Las tipo **VIII** son las periféricas.
 
 Para predecir si un fragmento proteico es transmembrana se usa el **índice hidropático**, que es un índice de energía libre en medio lipídico (debe ser mayor que 0) y se necesitan también 20 aa apolares. Se grafica la secuencia de aa (eje ox) y el índice hidropático (eje oy). Si se encuentran segmentos de más de 20 aa positivos seguramente es transmembrana. Se ve en el ejemplo de la glicoforina (monopaso) o bacteriorrodopsina (multipaso con 7 regiones tm).
@@ -80,7 +80,7 @@ Un ejemplo de este tipo de proteínas es la PGH2 sintasa I. La síntesis de pros
 El otro tipo de proteínas presentes a ambos lados de la membrana que no están embebidas en la bicapa sino que tienen un anclaje lipídico con enlaces covalentes reversibles o irreversibles. Hay 3 tipos: 
 - Preniladas (unidas a isoprenoides/farnesilos). 
 - Aciladas (unidas a AG como el palmítico)
-- Enlace GPI (glicosill fosfatidil inositol). 
+- Enlace GPI (glicosill fosfatidil inositol). Se encuentra en la cara externa
 
 Las que se unen al palmitol lo hacen con un residuo de cisteína que forma un enlace tioéster. Los que se unen al miristol lo hacen por la parte aminoterminal de una glicina con enlace amida. Los que se unen a un farnesil lo hacen con un residuo de cisteína carboxilo terminal por enlace tioéter.
 

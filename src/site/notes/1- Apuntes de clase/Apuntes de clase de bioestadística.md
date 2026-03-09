@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1- Apuntes de clase/Apuntes de clase de bioestadística/","created":"2026-01-27T08:33:23.391+01:00","updated":"2026-02-18T09:09:02.523+01:00"}
+{"dg-publish":true,"permalink":"/1- Apuntes de clase/Apuntes de clase de bioestadística/","created":"2026-01-27T08:33:23.391+01:00","updated":"2026-03-05T09:17:30.377+01:00"}
 ---
 
 Antes de hacer cualquier estudio es fundamental hacer una pregunta de investigación con objetivos e hipótesis. Si no tenemos pregunta no tiene sentido hacer un estudio estadístico.
@@ -129,3 +129,80 @@ La prevalencia es la probabilidad o frecuencia de una enfermedad. **Los valores 
 **Test de diagnóstico comunes en farmacia en la diapositiva**
 
 Para un test que funciona bien "para todo" hay que sumar la sensibilidad y especifidad. La suma de s y e restando 1 se llama índice de Younden
+
+# Probabilidad tema2 (creo)
+**Variable aleatoria:** una variable asignada a un experimento aleatorio que tiene un valor numerico para cada suceso. Puede ser ds¡iscreta si puede tomar un numero finito de valores o continua si puede tomar una cantidad infinita de valores. Para transformar una cualitativa en una cuantitativa (para hacerla aleatoria) en Rcommander se "codifica" una variable cualitativa, dandole valor numerico a cada estado.
+
+Hay que diferenciar el **parámetro y estadístico**. El estadístico es la cantidad numérica obtenida a partir de los valores o datos de una muestra. Pretende resumir la información de todos esos valores. Es un valor empírico (se puede calcular). Cuando se trata de datos de la población se usa **parámetro**. Para la metra la media, varianza y proporción son 𝑥, 𝑠^2 y p. Mientras que en el parámetro es 𝜇, 𝜎 2 y π. En resumen, e estadístico es obtenida a partir de datos observados de la muestra, mientras que el estadístico son datos teóricos sobre la población. A medida que sube el tamaño de muestra, más se parece el estadístico al parámetro.
+
+Para una variable aleatoria discreta 𝑋, la asignación de cada posible valor 𝑥𝑖 (sucesos elementales de un espacio muestral) a la probabilidad de que suceda, es a lo que llamamos distribución de probabilidad de la variable X.
+
+Las distribuciones no tienen por qué ser normales. La existencia o no de esta distribución normal normalmente dicta la inferencia. El fondo de densidad *f* es el área bajo la curva en el rango de datos que queremos. Muchas veces hay que tipificar para aproximar la distribución real a la distribución normal.
+
+El objetivo final es contruir modelos de probabilidad que fueran capaces de representar el comportamiento teórico de diferentes fenómenos aleatorios observados en el mundo real. Vienen descritas por 1 o más parámetros que se pueden definir y describir libremente. Conociendo estos parámetros se puede definir y describir perfectamente esta distribución. Si usamos un método inferencial en el que asumimos que los datos de una muestra pertenecen a una población con una distribución teórica conocida, suele decirse que dicho método es **paramétrico**.
+
+**BINOMIAL EN LAS DISPOSITIVAS**
+
+La distribución normal es simétrica y coincide la media, mediana y moda **COMPLETA EN LOS APUNTES**
+
+Hay más tipos de distribuciones en la inferencia aparte de la normal y binomial. 
+
+La **t de student** depende de los grados de libertad y tiene muchas distintas. Es parecida a la normal y se va asemejando cada vez más mientras aumentan los grados de libertad (k). Se suele usar con muestras pequeñas. "Si conocemos la distribución conocemos de todo".
+
+**Chi cuadrado** es una distribución asimétrica que se va haciendo más simétricas con más geados de libertad. También existe el F de Reynolds
+
+# Muestreo y estimación
+Se coge una porción de la población para inferir el resto. Hay distintos tipos de muestreo, cada uno con sus ventajas y dificultades.
+
+- **Precisión:** Es la variación/dispersión de los datos. Algo válido pero no preciso tendrá un error **aleatorio**.
+- **Validez:** Asegura que se está midiendo lo deseado. Algo preciso pero no válido tendrá un error **sistemático** (sesgo).
+
+El error aleatorio puede ser causado por azar de no obtener una muestra representativa, un tamaño muestral inadecuado, mala técnica de muestreo (no probabilístico) o variabilidad en la medición (o por el instrumento o variedad natural de los elementos de estudio).
+
+El error sistemático se puede tener varias formas:
+- **Selección:** la selección es inadecuada y produce una muestra no representativa
+- **Información:** la medición de variables se ha hecho de manera deficiente
+- **Factores de confusión:** correlación no es igual a causa. *Ej: el café no produce cáncer pero los que consumen café tienen más cáncer porque los que toman café suelen fumar también*.
+El error sistemático no se corrige con el tamaño muestral, sino e cambi de técnica de muestreo, análisis estadóstoco y diseño del estudio. Hay que determinar un objetivo claro y definir criterios de exclusión.
+
+## Muestreo
+Hay de distintos tipos:
+- **Intencional:** Se trata de seleccionar casos característicos (que convengan al investigador) de una población limitando la muestra sólo a estos casos. Puede ser poco válido.
+- **Por conveniencia:** Se seleccionan aquellos casos accesibles (proximidad de los sujetos para el investigador y que acepten ser incluidos). Puede ser poco válido
+- **Aleatorio simple:** Es un muestreo probabilístico donde los elementos de la muestra se extraen al azar de la población, por tanto, se caracteriza porque cada elemento de la población tiene la misma probabilidad de ser elegido. Se escoge aleatoriamente un número determinado de sujetos de un listado de la población que compondrían la muestra.
+- **Aleatorio estratificado:** Se divide la población en estratos atendiendo a los criterios importantes del estudio. Los estratos son homogéneos pero heterogéneos entre sí.
+- **Por conglomerados:** Se divide la población en conglomerados heterogéneos pero homogéneos entre sí. Se hacen conglomerados que tengan un poco de todo pero son iguales entre ellos, y luego se pilla uno al azar.
+
+Algunos problemas pueden ser la dificultad en la obtencion de datos, que lleva a un muestreo no probabilístico; no tener claro el objetivo inicial que lleva a una definición ambigua de la población; o desconocer las variables de interés, factores de precisión y desconocer las limitaciones del instrumento de medida.
+
+---
+Un **estimador puntual** es un estadístico que toma valores próximos al parámetro. Es construido con el fin de dar una idea acerca del valor que toma ese parámetro dentro de una población.
+
+Un estimador puntual se obtiene a partir de los valores de una muestra (es un estadístico). Sin embargo, si tomamos varias muestras (supongamos 𝑚 muestras), tendremos un valor para nuestro estimador (posiblemente distinto) en cada una de las 𝑚 muestras. Esta variación muestral sugiere que nuestra estimación puntual puede aproximarse, pero no será exactamente igual al parámetro.
+
+
+## Obtención de un intervalo
+La **estimación por intervalos de confianza** nos da un rango de valores posibles para el parámetro.
+
+Para dar un intervalo se sacan una gran cantidad de muestras y se hace una media de las medias de las muestras llamada **media muestral** (μ) y se da un rango de medias posibles. Las medias forman una distribución normal.
+
+El objetivo es encontrar un intervalo (rango de valores) donde aseguremos, con una probabilidad prefijada que supondremos suficientemente alta, que en su interior se encontrará el parámetro que pretendemos estimar.
+
+Dado 𝜶 (nivel de confianza), llamaremos intervalo de confianza con nivel de confianza del (𝟏 − 𝜶)% para un parámetro 𝜽, a un intervalo 𝐼 tal que la probabilidad de que el verdadero valor del parámetro esté contenido en dicho intervalo sea (1 − α). Cuanto mayor es la confianza, menor es la precisión de los datos dados, por lo que el estándar es α = 0,05 (confianza del 95%).
+
+![Pasted image 20260304091003.png|300](/img/user/6%20-%20Fotos/Pasted%20image%2020260304091003.png)
+
+![Pasted image 20260304091236.png](/img/user/6%20-%20Fotos/Pasted%20image%2020260304091236.png)
+
+**EN INFERENCIA, SIEMPRE HAY UN RIESGO DE ERROR** para paliar esto, se busca que el estudio se repita por varios equipos.
+
+### Factores e interpretación de los IC
+Si hay mucha variabilidad hay menos seguridad de los valores (precisión).
+
+El error máximo se da cuando p=0,5
+
+![Pasted image 20260305090754.png](/img/user/6%20-%20Fotos/Pasted%20image%2020260305090754.png)
+
+Antes de hacer un estudio hay que decidir el tamaño de muestra, que se marca por la pregunta y objetivo
+
+**INCOMPLETO HASTA LA DIAPOSITIVA 58**

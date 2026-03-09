@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2 - Wikifarma/organización del material genético/","tags":["bioquimica"],"created":"2026-02-05T20:55:06.484+01:00","updated":"2026-02-19T16:50:23.697+01:00"}
+{"dg-publish":true,"permalink":"/2 - Wikifarma/organización del material genético/","tags":["bioquimica"],"created":"2026-02-05T20:55:06.484+01:00","updated":"2026-02-22T20:15:49.433+01:00"}
 ---
 
 # El genoma
@@ -68,7 +68,7 @@ Para la descondensación se requiere tanto la acetilación como la remodelación
 
 ## Otros complejos que interactúan con el ADN
 También existen proteínas que interactúan con ciertas secuencias del ADN gracias a ciertos dominios que realizan interacciones débiles con bases nitrogenadas a través del surco ancho del ADN sin que el ADN se despliegue “leyendo” la secuencia y encajando con las bases adecuadas.  Hay 4 importantes: 
-- **Hélice-bucle-hélice**, que consta de una hélice α1 que puede insertarse en el surco ancho, un bucle y una segunda hélice α dispuesta transversal. Una variante flexible es hélice-bucle-hélice. Dos proteínas con el mismo dominio pueden interactuar entre sí mientras interactúan con las bases. Estas proteínas se llaman factores de transcripción, que marcan los genes para transcribirse. 
+- **Hélice-bucle-hélice**, que consta de una hélice α1 que puede insertarse en el surco ancho, un bucle y una segunda hélice α dispuesta transversal. Una variante flexible es hélice-giro-hélice. Dos proteínas con el mismo dominio pueden interactuar entre sí mientras interactúan con las bases. Estas proteínas se llaman factores de transcripción, que marcan los genes para transcribirse. 
 - **Homeodominio**, que es un factor de transcripción que tiene 3 hélices α y está en genes que son importantes en el desarrollo embrionario (homeogenes). 
 - **Dedos de Zn**, que recuerda a un pulgar hacia arriba e incluye Zn gracias a dos His y dos Cys en sitios estratégicas. Son dos hojas β plegadas y una hélice α, que puede detectar hélices que se asoman en el surco ancho.
 - **Cremallera de leucina**, que consta de dos cadenas polipeptídicas en hélice α con un aminoácido de leucina cada 7 aminoácidos, que están alineados e interactúan por fuerzas hidrófobas a las leucinas de la otra cadena en hélice α y el resto de las cadenas (sin leucinas) interactuarán con el surco ancho.

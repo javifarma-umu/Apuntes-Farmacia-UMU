@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1- Apuntes de clase/Apuntes de clase de química inorgánica/","created":"2026-01-27T09:31:31.523+01:00","updated":"2026-02-19T10:07:57.355+01:00"}
+{"dg-publish":true,"permalink":"/1- Apuntes de clase/Apuntes de clase de química inorgánica/","tags":["clase","quimicainorganica"],"created":"2026-01-27T09:31:31.523+01:00","updated":"2026-03-04T08:36:55.458+01:00"}
 ---
 
 Los orbitales se llenan siguiendo el principio de Aufbau: de menor a mayor energía.
@@ -7,7 +7,7 @@ Los orbitales se llenan siguiendo el principio de Aufbau: de menor a mayor energ
 # En los elementos
 La carga nuclear efectiva es la carga nuclear menos el apantallamiento. Hay algunos orbitales que apantallan más que otros: los más penetrantes apantallan más.
 
-El radio atómico lo definen los electrones. En los orbitales 4d  y 5d los átomos son del mismo tamaño. Esto pasa por la contracción lantánida. Esto se da porque los electrones f no apantallan, pero las cargas positivas sí que suman.
+El radio atómico lo definen los electrones. En los orbitales 4d y 5d los átomos son del mismo tamaño. Esto pasa por la contracción lantánida. Esto se da porque los electrones f no apantallan, pero las cargas positivas sí que suman.
 
 La energía de ionización es la energía necesaria para arrancarle un electrón a un átomo gaseoso. Hay anomalías que no corresponden a las propiedades periódicas como el Be y N. Esto pasa porque el Be tiene el 2s completo y N el 2p semilleno.
 
@@ -278,3 +278,46 @@ El estroncio es rojo en los fuegos artificiales
 Cuando los alcalinotérreos se enfrentan a halógenos, rápidamente se oxidan y reaccionan (haluros). Todos forman óxidos, menos Ba que forma peroóxido (BaO2).
 
 Los hidróxidos son ligeramente solubles, pero se van formando más solubles cuanto más grande es el alcalinotérreo. Los sulfatos se van haciendo menos soluble, ya que cuanto mayor tamaño, menor es la diferencia de tamaño, aumentando la energía reticular. Los haluros de Be son covalentes, en algunos el berilio se hibridan. Estos compuestos forman polímeros de coordinación. Cuando se meten los óxidos en agua, forman hidróxidos
+
+# Tema 9 - Grupo 13
+El boro es semiconductor metaloide. La configuración es ns2p1. En este grupo hay valencias distintas que pueden ser +1 o +3. Esto pasa porque ya hay e- en orbitales p y otros en s. En la parte alta (B y Al), la valencia es +3; para Ga e In puede ser +1 o +3, pero +3 es más común; mientras que en Tl predomina el +1. Esto se da por el **efecto del par inerte**, en el que e orbital s se va estabilizando (mucha menos energía relativo a su p), por lo que no suele poner el par del orbital s en juego. Por ello aparte el Tl +3 será oxidante porque querrá volver a tener el orbital s (que es bastante estable).
+
+El Tl+ es tóxico porque su radio es parecido a K+ o Na+, por lo que interviene en las bombas. El nihonio (Nh) es artificial y radiactivo (T1/2 = 20s). El Al es el tercer elemento más abundante de la tierra (8%).
+
+Del Al a Ga hay un descenso del radio atómico (anomalía); y la electronegatividad a partir del aluminio asciende (anómalo también). Esto pasa porque el Ga es el primer elemento que va después de d (poco apantallante al ser difuso), por lo que tienen una Zef mayor de lo que se esperaría. Aunque las EI de Al+3 y Tl+3 son parecidas, como Tl es bastante más grande, es muy dificil que se compense esta energía cuando se forman compuestos. Cuanto mayor carga y menor tamaño, más negativa es la ΔH de hidratacíon.
+
+El pto de fusión y vaporización del B es mucho mayor que los demás, ya que forma redes tridimensionales moleculares en forma de icosaedro. El boro además puede formar alótropos
+
+El compuesto de boro más abundante es el borax o borato sódico (Na2B4O7). Cuando se pone en medio ácido se forma ácido bórico, que al calentarse se forma ácido bórico, que se reduce con Mg para formar B y MgO. El B cristalino no reacciona a los ácidos ni al agua, pero si se oxida con el aire o con halógenos.
+
+El Al se produce a partir de la Bauxita (Al2O3 nH2O). Se somete al proceso de bayer para obtener Al2O3 que se reduce a Al por electrólisis. En la celda se plantan ánodos de grafito, que al pasar electricidad reduce al Al, pero el O no se oxida, sino que se oxida el C del ánodo a CO2. El AL2O3 tiene carácter anfótero (hace complejos con OH- y con H+). 
+
+La ácidez del B(OH)3 es de lewis  porque forma B(OH)4 + H+. Este ácido débil se usa como conservante. El óxido de boro aumenta la resistencia de los vidrios. 
+
+El boro se usa en la medicina para captar neutrones en tratamientos del cáncer, porque al captar n forma partículas alfa y Li, que dañan las células tumorales cercanas. Se sintetiza una fenilalanina con boro. Sigue siendo una terapia experimental.
+
+Los halogenados de bromo tienen puntos de ebllición bastante bajos, ya que son moléculas apolares.
+
+# Tema 10 - Grupo 14 (INCOMPLETOS)
+Los compuestos halogenados de carbono son apolares que se suelen usar como disolventes para la limpieza en seco. El polímero teflón (CF2)n es un material hidrófobo muy estable que se usa como antiadherente. 
+Otros compuestos halogenados de C son CFCs, (compuestos clorofluorocarbonados) que se usaban para refrigerar y como propulsor en aerosoles, pero podían desprotonarse y destruir la capa de ozono. Los HCFCs tienen un hidrógeno y no son tan dañinos
+
+![Pasted image 20260303094117.png|300](/img/user/6%20-%20Fotos/Pasted%20image%2020260303094117.png)
+
+Los compuestos con enlaes Si-F tienen enlaces muy fuertes por retrodonacion. A veces el Si hace de ácido de Lewis y expande su octeto para formar fluorosilicatos. Si se mete tetracloruro de silicio en agua hay hidrólisis:
+![Pasted image 20260303094721.png| 350](/img/user/6%20-%20Fotos/Pasted%20image%2020260303094721.png)
+
+La combustion de compuestos carbonados forma CO2 y/o CO dependiendo de la abundancia de O2. El CO puede actuar como ligando. El CO2 puede pasar de gaseoso a sólido (hielo seco) -78ºC, que se usa para refrigerar. El CO2 es un ácido que en agua forma ácido carbónico, que se disocia en bicarbonato (70% del CO2 transportado en sangre).
+
+El CO2 es uno de los principales responsables del efecto invernadero
+
+El par libre del CO puede hacer de ligando, que por ejemplo forma complejo con el grupo hemo de la hemoglobina en vez del O2.
+
+El C también fotma parte de grupos orgánicos.
+
+## Si
+El enlace Si-O es muy estable y solo reacciona con HF. En la sílice (SiO4) puede tener una estructura cristalina amorfa (vidrio) o cristalina perfectamente ordenada (cuarzo). El cristal es vidrio con compuestos adicionados para tener otras.
+
+Los cristales de sílice pueden formar estructuras cristalinas tetraédricas que pueden compartir varios vértices y dependiendo de la estructura tendrá carga o no.
+
+En las silicnas hay una polimerización de Si unidos por un O en el que cada silicio está unido además a 2 grupos orgánicos. La naturaleza de estos grupos orgánicos marcan las características. Las siliconas son compuestos fuertes (debido a enlaces Si-O) y apolares.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2 - Wikifarma/hemoglobina/","tags":["bioquimica"],"created":"2026-02-20T09:06:23.559+01:00","updated":"2026-02-20T10:13:31.683+01:00"}
+{"dg-publish":true,"permalink":"/2 - Wikifarma/hemoglobina/","tags":["bioquimica"],"created":"2026-02-20T09:06:23.559+01:00","updated":"2026-02-22T18:25:00.472+01:00"}
 ---
 
 # Transporte de oxígeno
@@ -15,7 +15,7 @@ Tanto la mioglobina como la hemoglobina tienen una parte proteica con [estructur
 
 La hemoglobina más común, la **HbA1**, está compuesto por 4 subunidades: dos subunidades β, que tiene 8 hélices α (enumeradas de la A a la H); y dos subunidades α, que tienen 7 hélices α (enumeradas de la A a la H sin D). Se organizan en dos dímeros αβ unidos por interacciones hidrófobas. Otra hemoglobina importante es la HbA1c, que es la hemoglobina glicosilada, que sirve para controlar la diabetes. Otra importante es la HbF, que está en el feto y tiene 2 subunidades α y 2 subunidades γ.
 
-El grupo **hemo** es el que se une al oxígeno. Consta de un Fe2+ unido a una porfirina en una cavidad hidrofóbica. Consta de 4 enlaces con los anillos pirrólicos (que son coplanares)  y uno con el grupo amidazol de una histidina de la hélice F llamada F8. En la desoxihemoglobina, el Fe no es coplanar, sino que está movido ligeramente hacia "abajo" por F8 (o proximal). Cuando pasa a oxihemoglobina, el O2 se une al Fe por arriba, pero el oxígeno también debe hacer un enlace por puente con una histidina de la cadena E llamada E7 (o distal). 
+El grupo **hemo** es el que se une al oxígeno. Consta de un Fe2+ unido a una porfirina en una cavidad hidrofóbica. Consta de 4 enlaces con los anillos pirrólicos (que son coplanares)  y uno con el grupo amidazol de una histidina de la hélice F llamada **F8** (His proximal). En la desoxihemoglobina, el Fe no es coplanar, sino que está movido ligeramente hacia "abajo" por F8 (o proximal). Cuando pasa a oxihemoglobina, el O2 se une al Fe por arriba, pero el oxígeno también debe hacer un enlace por puente con una histidina de la cadena E llamada **E7** (o distal). 
 
 # Saturación de O2
 La afinidad del O2 por las proteínas transportadoras/almacenadoras de O2 se mide con una curva donde se ve la saturación (proporción de proteínas con oxigeno) frente a la presión parcial de O2.
@@ -32,7 +32,7 @@ Este giro de 15º se produce porque el O2 "tira" del Fe (que recordemos que no e
 # Regulación de la Hb
 
 ## 2,3-bifosfoglicerato
-El 2,3-bifosfoglicerato es un regulador heterotrópico negativo sintetizado por los eritrocitos que se une a la cavidad central de la hemoglobina. Su concentración normal es de ~5mM. Está desprotonado a pH fisiológico y se une a la cavidad, interactuando con cargas positivas, destacando la histidina 143 de la subunidad β. No interactúa con la hemoglobina en estado R (la cavidad es muy pequeña), pero sí con la hemoglobina desoxigenada, estabilizando el estado T.
+El 2,3-bifosfoglicerato es un regulador heterotrópico negativo sintetizado por los eritrocitos que se une a la cavidad central de la hemoglobina y se relaciona con las subunidades β. Su concentración normal es de ~5mM. Está desprotonado a pH fisiológico y se une a la cavidad, interactuando con cargas positivas, destacando la histidina 143 de la subunidad β. No interactúa con la hemoglobina en estado R (la cavidad es muy pequeña), pero sí con la hemoglobina desoxigenada, estabilizando el estado T.
 
 Se ha estudiado que los eritrocitos producen más de este regulador a altas altitudes, donde los eritrocitos están menos saturados (menor pp de O2). Esto causa que, aunque haya menor proporción de Hb saturada, se puede liberar el O2 necesario cuando se llega al tejido.
 

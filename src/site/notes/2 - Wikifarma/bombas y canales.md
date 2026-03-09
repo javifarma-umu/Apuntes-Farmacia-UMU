@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2 - Wikifarma/bombas y canales/","tags":["bioquimica"],"created":"2026-02-15T12:13:44.421+01:00","updated":"2026-02-19T19:00:55.130+01:00"}
+{"dg-publish":true,"permalink":"/2 - Wikifarma/bombas y canales/","tags":["bioquimica"],"created":"2026-02-15T12:13:44.421+01:00","updated":"2026-02-22T17:13:59.816+01:00"}
 ---
 
 # Generalidades
@@ -18,7 +18,7 @@ Los **canales iónicos** permiten mover sustancias a favor del gradiente eléctr
 Tienen [estructura cuaternaria](proteína#Cuaternaria) α2β2. Las subunidades α tienen actividad catalítica de ATP, que hidrolizan para generar un flujo de iones (procesos acoplados). El fosfato de la hidrólisis fosforila un residuo. Forman el 30% de gasto de ATP.
 
 Hay 2 principales
-- **Na/K:** sacan 3 sodios y 2 K en la membrana plasmática
+- **Na/K:** sacan 3 sodios y mete 2 potasios en la membrana plasmática
 - **Ca:** es una ATPasa que saca o mete el Ca del retículo sarcoplasmático. Va metiendo calcios hasta que llega el impulso nervioso.
 
 ## Na/K
@@ -28,7 +28,7 @@ La conformación inicial es afín al sodio, que se une a la bomba, se acopla e h
 
 Los iones se unen a la subunidad alfa y la fosforilación ocurre en la beta. Como producto se genera gradiente eléctrico y químico. 
 
-Hay glicósidos cardiotónicos como la **digitalina** o **ouabaína**, que inhiben estas bombas. Son sustancias con un anillo de lactona unido a un núcleo de  colesterol con un enlace O-glicosídico con un residuo de azúcar. Inhiben la defosforilación de la subunidad beta.
+Hay glicósidos cardiotónicos como la **digitalina** o **ouabaína**, que inhiben estas bombas. Son sustancias con un anillo de lactona unido a un núcleo de colesterol con un enlace O-glicosídico con un residuo de azúcar. Inhiben la defosforilación de la subunidad beta.
 
 ## Ca2+
 Busca concentrar calcio en el retículo sarcoplasmático para que se libere con el impulso nervioso. Es una proteína integral con 10 hélices α y distintos dominios: 
@@ -36,7 +36,7 @@ Busca concentrar calcio en el retículo sarcoplasmático para que se libere con 
 - El dominio P contiene el residuo (Asp), que se fosforila 
 - El dominio A es el que provoca el cambio de conformación en la proteína. Es un movimiento de uniporte.
 
-Tiene dos estados: E1 y E2. En el estado E1 (unión por la cara citosólica) es mucho más afín por el Ca que E2. En E1 se une el calcio, luego se hidroliza el ATP y se fosforila el Asp para pasar a E2, liberando el calcio al exterior. Cuando se defosforila, se vuelve a E1.
+Tiene dos estados: E1 y E2. En el estado E1 (unión por la cara citosólica) es mucho más afín por el Ca que E2 (unión por el interior del retículo). En E1 se une el calcio, luego se hidroliza el ATP y se fosforila el Asp para pasar a E2, liberando el calcio al interior. Cuando se defosforila, se vuelve a E1.
 
 # Impulso nervioso
 

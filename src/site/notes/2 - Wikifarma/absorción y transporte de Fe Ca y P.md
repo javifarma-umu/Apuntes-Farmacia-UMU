@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2 - Wikifarma/absorción y transporte de Fe Ca y P/","tags":["bioquimica"],"created":"2026-02-15T15:00:00.046+01:00","updated":"2026-02-20T09:06:49.151+01:00"}
+{"dg-publish":true,"permalink":"/2 - Wikifarma/absorción y transporte de Fe Ca y P/","tags":["bioquimica"],"created":"2026-02-15T15:00:00.046+01:00","updated":"2026-02-22T17:50:19.644+01:00"}
 ---
 
 # Generalidades
@@ -14,14 +14,14 @@ El hierro, calcio y fósforo son elementos cruciales para el organismo que requi
 # Hierro
 El hierro es fundamental en el hemo de la hemoglobina y mioglobina; transporte electrónico; y como cofactor enzimático.
 
-Se absorbe solo un ~10% de hierro ingerido. El hierro absorbido se lleva fundamentalmente a la médula ósea para formar eritrocitos. Una pequeña parte está transportada unida a la transferrina. Se almacena en hígado, bazo y médula ósea unido a la **ferritina**. Un 5% también está unida a la mioglobina.
+Se absorbe solo un ~10% de hierro ingerido. El hierro absorbido se lleva fundamentalmente a la médula ósea para formar eritrocitos. Una pequeña parte está transportada unida a la **transferrina**. Se almacena en hígado, bazo y médula ósea unido a la **ferritina**. Un 5% también está unida a la mioglobina.
 
 El hierro se pierde por la descamación del epitelio y por hemorragias (como la menstruación). La ingesta debe compensar esta eliminación.
 
-## Absorción
+## Absorción y transporte
 El hierro que necesitamos es Fe (II), pero normalmente lo consumimos en forma de Fe (III), por lo que lo primero que se debe hacer es reducirlo. Esto se hace mediante la vitamina C o mediante **ferrireductasas** de la membrana apical de los enterocitos del duodeno (DCYTB). 
 
-El hierro del grupo hemo entra por un transportador (ferritina) y se libera por la hemooxigenasa. Sale a la circulación sanguinea por ferroportina. En la sangre se reoxida a Fe (III) (de manera espontánea o por enzimas como la ceruplasmina) y se une a la transferrina. Los receptores de transferrina captan la transferrina y la endocitan. Una vez dentro, el Fe se disocia gracias a la acidificación de los lisosomas (acidificados por ATPasas de protones). El hierro se une a proteínas celulares o se almacena en ferritina, dejando a la transferrina unida al receptor pero sin hierro. Luego sale la transferrina por donde entró (no se vuelve a unir porque sin Fe no es tan afín).
+El hierro del grupo hemo se absorbe por un transportador (**ferritina**) y se libera por la hemooxigenasa. Se libera a la circulación sanguínea por el transportador **ferroportina**. En la sangre se reoxida a Fe (III) (de manera espontánea o por enzimas como la ceruplasmina) y se une a la transferrina. Los receptores de transferrina captan la transferrina y la endocitan. Una vez dentro, el Fe se disocia gracias a la acidificación de los lisosomas (acidificados por ATPasas de protones). El hierro se une a proteínas celulares o se almacena en ferritina, dejando a la transferrina unida al receptor pero sin hierro. Luego sale la transferrina por donde entró (no se vuelve a unir porque sin Fe no es tan afín).
 
 ## Regulación
 La absorción se da por el transportador DMT-1, que se encuentra en la membrana apical de los enterocitos.
@@ -48,7 +48,7 @@ El Ca sale a los capilares a partir de un transporte activo por ATPasa (PMCA1b) 
 ## Regulación
 La regulación ocurre mayoritariamente por PTH (paratiroidea), calcitonina y vitamina D (calcitriol).
 
-PTH se produce por el paratiroides cuando el nivel de calcio plasmático es bajo. Actúa a nivel de hueso para favorecer la liberación de calcio en el hueso y en los riñones para fomentar a nivel del hueso. También aumenta la síntesis de calcitriol (vit D), que favorece la absorción intestinal de Ca.
+PTH se produce por el paratiroides cuando el nivel de calcio plasmático es bajo. Actúa a nivel de hueso para favorecer la liberación de calcio en el hueso; y en los riñones para fomentar  la reabsorción de Ca la síntesis de calcitriol. También aumenta la síntesis de calcitriol (vit D), que favorece la absorción intestinal de Ca.
 
 La calcitonina actúa antagonizando PTH, reduciendo el Ca sanguíneo.
 
