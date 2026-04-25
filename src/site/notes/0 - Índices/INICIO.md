@@ -5,9 +5,9 @@
 # INICIO
 Hola esto es una prueba
 # Primero
-- [[0 - Índices/Biología celular\|Biología celular]]
-- [[0 - Índices/Bioquímica\|Bioquímica]]
-- [[0 - Índices/Fisicoquímica\|Fisicoquímica]]
-- [[0 - Índices/Bioestadística\|Bioestadística]]
-- [[0 - Índices/Química inorgánica\|Química inorgánica]]
-- [[0 - Índices/Biología vegetal\|Biología vegetal]]
+- [[0 - Índices/Asignaturas 1º/Biología celular\|Biología celular]]
+- [[0 - Índices/Asignaturas 1º/Bioquímica\|Bioquímica]]
+- [[0 - Índices/Asignaturas 1º/Fisicoquímica\|Fisicoquímica]]
+- [[0 - Índices/Asignaturas 1º/Bioestadística\|Bioestadística]]
+- [[0 - Índices/Asignaturas 1º/Química inorgánica\|Química inorgánica]]
+- [[0 - Índices/Asignaturas 1º/Biología vegetal\|Biología vegetal]]

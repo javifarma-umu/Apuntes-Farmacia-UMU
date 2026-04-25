@@ -20,7 +20,7 @@ La obtención de hidrógeno se puede obtener de distintas maneras:
 - **Reducción** de disoluciones acuosas ácidas. Muchas veces se usa Zn como reductor.
 - Reacción de un hidruro metálico en agua.
 - **Electrólisis** (método industrial): OH hace de ánodo y H2O de cátodo, transformando H2O en H2 + 1/2O2
-![Pasted image 20260308120811.png|300](/img/user/Pasted%20image%2020260308120811.png)
+![Pasted image 20260308120811.png|300](/img/user/6%20-%20Fotos/Pasted%20image%2020260308120811.png)
 - Otro método es de H2O + CO, que oxida el CO a CO2 y reduce el H2O a H2.
 
 ## Usos

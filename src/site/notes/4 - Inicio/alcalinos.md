@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4 - Inicio/alcalinos/","tags":["quimicainorganica"],"created":"2026-03-06T17:07:35.972+01:00","updated":"2026-03-08T19:56:51.305+01:00"}
+{"dg-publish":true,"permalink":"/4 - Inicio/alcalinos/","tags":["quimicainorganica"],"created":"2026-03-06T17:07:35.972+01:00","updated":"2026-04-12T18:29:02.851+02:00"}
 ---
 
 # Propiedades generales
@@ -13,7 +13,7 @@ Las sales de alcalinos son generalmente **solubles**, excepto las de Li y Na con
 Por lo general, los metales alcalinos se encuentran naturalmente en estado +1, por lo que para obtenerlos en estad 0 se usan procesos de **reducción electroquímica** a partir de sus sales.
 
 *Ejemplo: El __proceso Downs__, la reducción de sodio a partir de NaCl fundido. Se le suele añadir CaCl para disminuir el punto de fusión.*
-![Pasted image 20260308125224.png|410](/img/user/Pasted%20image%2020260308125224.png)
+![Pasted image 20260308125224.png|410](/img/user/6%20-%20Fotos/Pasted%20image%2020260308125224.png)
 
 ## Compuestos
 **Haluros:**

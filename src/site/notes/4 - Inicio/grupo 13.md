@@ -48,7 +48,7 @@ Los halogenados de bromo tienen puntos de ebullición bastante bajos, ya que son
 
 # Aluminio
 El Al se produce a partir de la Bauxita (Al2O3 nH2O). Se somete al proceso de Bayer para obtener Al2O3 (alúmina) que se reduce a Al por electrólisis (proceso Hall-Herault). En la celda se plantan ánodos de grafito, que al pasar electricidad reduce al Al, pero el O no se oxida, sino que se oxida el C del ánodo a CO2.
-![Pasted image 20260308125943.png|450](/img/user/Pasted%20image%2020260308125943.png)
+![Pasted image 20260308125943.png|450](/img/user/6%20-%20Fotos/Pasted%20image%2020260308125943.png)
 
 El Al2O3 tiene carácter anfótero (hace complejos con OH- y con H+). 
 
