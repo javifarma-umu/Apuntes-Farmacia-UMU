@@ -12,10 +12,10 @@
 - Tema 5: [[2 - Wikifarma/Temas de 1º/redox\|redox]]
 
 # Bloque 2 - Elementos representativos
-- Tema 6: [[4 - Inicio/hidrógeno\|hidrógeno]]
-- Tema 7: [[4 - Inicio/alcalinos\|alcalinos]]
-- Tema 8: [[4 - Inicio/alcalinotérreos\|alcalinotérreos]]
-- Tema 9: [[4 - Inicio/grupo 13\|grupo 13]]
+- Tema 6: [[2 - Wikifarma/Temas de 1º/hidrógeno\|hidrógeno]]
+- Tema 7: [[2 - Wikifarma/Temas de 1º/alcalinos\|alcalinos]]
+- Tema 8: [[2 - Wikifarma/Temas de 1º/alcalinotérreos\|alcalinotérreos]]
+- Tema 9: [[2 - Wikifarma/Temas de 1º/grupo 13\|grupo 13]]
 - Tema 10: [[4 - Inicio/carbonoides\|carbonoides]]
 ---
 - Tema 11: [[nitrogenoides\|nitrogenoides]]

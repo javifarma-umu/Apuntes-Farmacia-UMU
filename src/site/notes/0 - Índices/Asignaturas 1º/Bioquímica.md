@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0 - Índices/Asignaturas 1º/Bioquímica/","tags":["Índice","bioquimica"],"created":"2025-12-21T14:18:58.936+01:00","updated":"2026-04-24T18:26:04.338+02:00"}
+{"dg-publish":true,"permalink":"/0 - Índices/Asignaturas 1º/Bioquímica/","tags":["Índice","bioquimica"],"created":"2025-12-21T14:18:58.936+01:00","updated":"2026-05-09T13:54:31.008+02:00"}
 ---
 
 **Apuntes de clase:** [[1- Apuntes de clase/Apuntes de clases de 1º/Apuntes de clase de bioquímica\|Apuntes de clase de bioquímica]]
@@ -39,13 +39,13 @@
 ---
 *[[otras cosas/Tabla de metabolismo\|Tabla de metabolismo]]*
 - Tema 27: [[4 - Inicio/glicólisis\|glicólisis]] - [[3 - Esquemas & rutas/Esquemas Bq/glicolisis esquema\|glicolisis esquema]]
-- Tema 28: [[gluconeogénesis\|gluconeogénesis]] - [[3 - Esquemas & rutas/Esquemas Bq/gluconeogénesis esquema\|gluconeogénesis esquema]]
-- Tema 29: [[vía de pentosas fosfatos\|vía de pentosas fosfatos]] - [[3 - Esquemas & rutas/Esquemas Bq/vía PPP esquema\|vía PPP esquema]]
-- Tema 30: [[metabolismo de glucógeno\|metabolismo de glucógeno]] - [[3 - Esquemas & rutas/Esquemas Bq/glucógeno esquema\|glucógeno esquema]]
-- Tema 31: [[ciclo de Krebs\|ciclo de Krebs]] - [[3 - Esquemas & rutas/Esquemas Bq/Krebs esquema\|Krebs esquema]]
-- Tema 32: [[cadena de transporte electrónico\|cadena de transporte electrónico]] - [[3 - Esquemas & rutas/Esquemas Bq/CTE esquema\|CTE esquema]]
-- Tema 33: [[transporte y almacenamiento de grasas\|transporte y almacenamiento de grasas]]
-- Tema 34: [[catabolismo de lípidos\|catabolismo de lípidos]]
+- Tema 28: [[4 - Inicio/gluconeogénesis\|gluconeogénesis]] - [[3 - Esquemas & rutas/Esquemas Bq/gluconeogénesis esquema\|gluconeogénesis esquema]]
+- Tema 29: [[4 - Inicio/vía de pentosas fosfatos\|vía de pentosas fosfatos]] - [[3 - Esquemas & rutas/Esquemas Bq/vía PPP esquema\|vía PPP esquema]]
+- Tema 30: [[4 - Inicio/metabolismo de glucógeno\|metabolismo de glucógeno]] - [[3 - Esquemas & rutas/Esquemas Bq/glucógeno esquema\|glucógeno esquema]]
+- Tema 31: [[4 - Inicio/ciclo de Krebs\|ciclo de Krebs]] - [[3 - Esquemas & rutas/Esquemas Bq/Krebs esquema\|Krebs esquema]]
+- Tema 32: [[4 - Inicio/cadena de transporte electrónico\|cadena de transporte electrónico]] - [[3 - Esquemas & rutas/Esquemas Bq/CTE esquema\|CTE esquema]]
+- Tema 33: [[6 - Fotos/transporte y almacenamiento de grasas\|transporte y almacenamiento de grasas]] - [[3 - Esquemas & rutas/Esquemas Bq/transporte de grasas esquema\|transporte de grasas esquema]]
+- Tema 34: [[4 - Inicio/catabolismo de lípidos\|catabolismo de lípidos]] - [[3 - Esquemas & rutas/Esquemas Bq/catabolismo de lípidos esquema\|catabolismo de lípidos esquema]]
 - Tema 35: [[biosíntesis de lípidos\|biosíntesis de lípidos]]
 
 # Borrón

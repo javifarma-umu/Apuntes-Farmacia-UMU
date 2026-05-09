@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3 - Esquemas & rutas/Esquemas Bq/glicolisis esquema/","tags":["excalidraw"],"created":"2026-04-12T20:25:43.743+02:00","updated":"2026-04-25T17:58:09.928+02:00"}
+{"dg-publish":true,"permalink":"/3 - Esquemas & rutas/Esquemas Bq/glicolisis esquema/","tags":["excalidraw"],"created":"2026-04-12T20:25:43.743+02:00","updated":"2026-05-04T19:03:21.659+02:00"}
 ---
 
 ==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'

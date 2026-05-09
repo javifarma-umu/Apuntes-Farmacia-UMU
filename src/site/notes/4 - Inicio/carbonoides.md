@@ -1,13 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/4 - Inicio/carbonoides/","created":"2026-03-07T13:19:54.893+01:00","updated":"2026-03-09T07:59:16.487+01:00"}
+{"dg-publish":true,"permalink":"/4 - Inicio/carbonoides/","created":"2026-03-07T13:19:54.893+01:00","updated":"2026-05-06T16:32:12.037+02:00"}
 ---
 
 # Generalidades
-El grupo 10 pertenece a los carbonoides, un grupo que tienen una capa de valencia e ns2np2.
+El grupo 14 pertenece a los carbonoides, un grupo que tienen una capa de valencia e ns2np2.
 
 Los estados de oxidación pueden ser +2 o +4, pero debido al efecto del par inerte, el C y Si tienden a ser +4; Y Ge, Sn y Pb tienden a ser +2.
 
-Pb puede formar compuestos iónicos de coordinación, siendo un **ácido blando**. Se coordina mucho con S-dadores, por eso es tóxico (SH de cisteínas).
+Pb puede formar compuestos iónicos de coordinación, siendo un [**ácido blando**](ácido-base#Ácidos%20y%20bases%20duras%20y%20blandas). Se coordina mucho con S-dadores, por eso es tóxico (SH de cisteínas).
 
 El silicio es uno de los elementos más abundantes de la tierra, el carbono es la base de los compuestos orgánicos.
 
