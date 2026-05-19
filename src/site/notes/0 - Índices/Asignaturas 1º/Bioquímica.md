@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0 - Índices/Asignaturas 1º/Bioquímica/","tags":["Índice","bioquimica"],"created":"2025-12-21T14:18:58.936+01:00","updated":"2026-05-09T13:54:31.008+02:00"}
+{"dg-publish":true,"permalink":"/0 - Índices/Asignaturas 1º/Bioquímica/","tags":["Índice","bioquimica"],"created":"2025-12-21T14:18:58.936+01:00","updated":"2026-05-18T18:54:50.335+02:00"}
 ---
 
 **Apuntes de clase:** [[1- Apuntes de clase/Apuntes de clases de 1º/Apuntes de clase de bioquímica\|Apuntes de clase de bioquímica]]
@@ -20,7 +20,7 @@
 
 ---
 # Celia
-- Tema 14: [estructura de los ácidos nucleicos](ácidos%20nucleicos)
+- Tema 14: [[2 - Wikifarma/Temas de 1º/ácidos nucleicos\|ácidos nucleicos]]
 - Tema 15: [[2 - Wikifarma/Temas de 1º/organización del material genético\|organización del material genético]]
 - Tema 16: [[2 - Wikifarma/Temas de 1º/replicación\|replicación]]
 - Tema 17: [[2 - Wikifarma/Temas de 1º/transcripción\|transcripción]]
@@ -46,8 +46,12 @@
 - Tema 32: [[4 - Inicio/cadena de transporte electrónico\|cadena de transporte electrónico]] - [[3 - Esquemas & rutas/Esquemas Bq/CTE esquema\|CTE esquema]]
 - Tema 33: [[6 - Fotos/transporte y almacenamiento de grasas\|transporte y almacenamiento de grasas]] - [[3 - Esquemas & rutas/Esquemas Bq/transporte de grasas esquema\|transporte de grasas esquema]]
 - Tema 34: [[4 - Inicio/catabolismo de lípidos\|catabolismo de lípidos]] - [[3 - Esquemas & rutas/Esquemas Bq/catabolismo de lípidos esquema\|catabolismo de lípidos esquema]]
-- Tema 35: [[biosíntesis de lípidos\|biosíntesis de lípidos]]
+- Tema 35: [[4 - Inicio/biosíntesis de lípidos\|biosíntesis de lípidos]] - [[3 - Esquemas & rutas/Esquemas Bq/biosíntesis de lípidos esquema\|biosíntesis de lípidos esquema]]
+- Tema 36: [[4 - Inicio/metabolismo de esteroides\|metabolismo de esteroides]] - [[3 - Esquemas & rutas/Esquemas Bq/metabolismo de esteroides esquema\|metabolismo de esteroides esquema]]
+- Tema 37: [[4 - Inicio/metabolismo de lípidos complejos\|metabolismo de lípidos complejos]] - 
 
 # Borrón
-- Tema 38: [[metabolismo nitrogenado\|metabolismo nitrogenado]]
-
+- Tema 38: [[4 - Inicio/metabolismo nitrogenado\|metabolismo nitrogenado]] - [[3 - Esquemas & rutas/Esquemas Bq/metabolismo nitrogenado esquema\|metabolismo nitrogenado esquema]]
+- Tema 39: [[4 - Inicio/metabolismo de aminoácidos\|metabolismo de aminoácidos]] - [[3 - Esquemas & rutas/Esquemas Bq/metabolismo de aminoácidos esquema\|metabolismo de aminoácidos esquema]]
+- Tema 40: [[4 - Inicio/metabolismo del grupo hemo\|metabolismo del grupo hemo]] - [[3 - Esquemas & rutas/Esquemas Bq/metabolismo hemo esquema\|metabolismo hemo esquema]]
+- Tema 41: [[4 - Inicio/metabolismo de purinas y pirimidinas\|metabolismo de purinas y pirimidinas]] - [[3 - Esquemas & rutas/Esquemas Bq/Metabolismo de nucleótidos\|Metabolismo de nucleótidos]]

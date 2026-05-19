@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4 - Inicio/glicólisis/","tags":["bioquimica"],"created":"2026-04-12T17:18:38.576+02:00","updated":"2026-05-09T11:20:32.711+02:00"}
+{"dg-publish":true,"permalink":"/4 - Inicio/glicólisis/","tags":["bioquimica"],"created":"2026-04-12T17:18:38.576+02:00","updated":"2026-05-09T20:31:18.175+02:00"}
 ---
 
 
@@ -15,7 +15,7 @@ Las reacciones de la glicolisis son de las rutas más importantes del cuerpo por
 # Fases y etapas
 Una visión general se ve en [[3 - Esquemas & rutas/Esquemas Bq/glicolisis esquema\|glicolisis esquema]]:
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/3 - Esquemas & rutas/Esquemas Bq/glicolisis esquema/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -156,6 +156,8 @@ Galactosa-1-P
 uridil transferasa 
 UDP-galactosa-4-epimerarasa 
 Fosfoglucomutasa 
+ATP 
+ADP 
 
 
 </div></div>
@@ -168,7 +170,7 @@ La primera etapa es la fosforilación de la glucosa en el carbono 6 catalizada p
 
 A continuación hay una reaccion reversible donde la glucosa se transforma en fructosa (isomero de función), catalizada por la fosfoglucosa isomerasa, dando fructosa-6-fosfato. Luego se fosforila el carbono 1 por la enzima **fosfofructoquinasa** 1 (PFK1), que usa Mg, en una reacción irreversible que marca el ritmo de la glicolisis y obtenemos fructosa 1,6-bifosfato consumiendo otro ATP.
 	Una alta concentración de ATP inhibe esta ruta, mientras que una alta de AMP activa la ruta, es decir un ratio alto de ATP/AMP (balance energetico) desincentiva la reaccion. Tambien es activado por la frictosa 2,6-diPi. Luego se rompe la fructosa por la aldolasa en dihidroxicetona-P y gliceraldehido-3-P. Se puede pasar de un isomero a otro por la triosa-P-isomerasa.
-
+h
 ## Fase de rendimiento
 Luego se pasa a la fase de rendimiento. En la 1ª reacción de esta fase se oxida el aldehido a carboxilo, generando un NADH y se une un fosfato al C1 (enlace de alta energia), dando como producto el 1,3-bifosfoglicerato. Es catalizada por el gliceraldeído-3-fosfato deshidrogenasa.
 
@@ -266,4 +268,4 @@ PyrDH se regula por PFK1 y PyrK:
 - El glucagón (secretada cuando hay baja \[Glc]) desactiva la vía por fosforilación del PyrDH 
 - La insulina (secretada cuando hay mucha \[Glc]) activa la vía por defosforilación del PyrDH
 
-El acetil-CoA se encuentra en la mitocondria. Se incorporará al CAT (ciclo de acidos tricarboxilicos o de Krebs) o a la síntesis de TAG. Un exceso de glúcidos acaba en síntesis de gasas. Los lípidos no se pueden transformar en glúcidos.
+El acetil-CoA se encuentra en la mitocondria. Se incorporará [[4 - Inicio/ciclo de Krebs\|ciclo de Krebs]] (aka ciclo de acidos tricarboxilicos) o a la síntesis de TAG. Un exceso de glúcidos acaba en síntesis de gasas. Los lípidos no se pueden transformar en glúcidos.

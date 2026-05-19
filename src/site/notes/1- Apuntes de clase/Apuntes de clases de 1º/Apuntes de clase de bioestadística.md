@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1- Apuntes de clase/Apuntes de clases de 1º/Apuntes de clase de bioestadística/","created":"2026-01-27T08:33:23.391+01:00","updated":"2026-04-14T09:24:11.479+02:00"}
+{"dg-publish":true,"permalink":"/1- Apuntes de clase/Apuntes de clases de 1º/Apuntes de clase de bioestadística/","created":"2026-01-27T08:33:23.391+01:00","updated":"2026-05-17T16:30:05.692+02:00"}
 ---
 
 Antes de hacer cualquier estudio es fundamental hacer una pregunta de investigación con objetivos e hipótesis. Si no tenemos pregunta no tiene sentido hacer un estudio estadístico.
@@ -110,21 +110,21 @@ d. Comenta los resultados de alguna variable:
 **FALTÉ A ESTO**
 ## Test de diagnóstico
 Una prueba que se usa para detectar una enfermedad. Estas pruebas no son perfectas, existen falsos positivos y falsos negativos. Luego se confirma con un "gold standard" *ej cribado de cancer de mama, que luego se confirma con una biopsia*. Pueden servir para descubrir, confirmar o descartar una enfermedad. El truco está en combinar distintas pruebas. Tiene distintos parámetros:
-- **Validez:** lo sensible y específico que es un test. Normalmente se compara con el gold standard. Se mide con probabilidades condicionadas
-- **Capacidad predictiva:** capacidad de detectar un sano en negativo o un enfermo con positivo. Son probabilidades condicionadas.
+- **Validez:** lo sensible y específico que es un test. Normalmente se compara con el gold standard. Se mide con probabilidades condicionadas. Es $\frac{VP}{VP+FN}=\frac{VP}{\text{Total de enfermos}}$
+- **Capacidad predictiva:** capacidad de detectar un sano en negativo o un enfermo con positivo. Son probabilidades condicionadas. Es $\frac{VN}{VN+FP}=\frac{VN}{\text{Total de sanos}}$
 
 **Sensibilidad:** la porbabilidad de que el test sea positivo si está enferma
 **Especifidad:** probabilidad de que de negativo cuando es sano
 
-También se obtienen tasas de falsos positivos y de falsos negativos
+También se obtienen tasas de falsos positivos (1-e) y de falsos negativos (1-s)
 
-Una prueba muy sensible tiene pocos falsos negativos, por lo que identifican bien a enfermos. Sirve para hacer cribados. Pueden haber falsos positivos, pero se contrasta con el gold standard. Es util ante enfermedades graves que necesitan diagnostico.
+Una prueba muy sensible tiene pocos falsos negativos, por lo que identifican bien a enfermos. Sirve para hacer cribados. Pueden haber falsos positivos, pero se contrasta con el gold standard. Es util ante enfermedades graves que necesitan diagnostico. Una prueba muy específica se suele usar cuando ya se tienen sospechas (*ej: cuando sale positivo en un cribado*).
 
 Mientras la sensibilidad y especifidad miden la validez, los valores predictivos miden la capacidad predictiva.
 - **Valor predictivo positivo**: De los positivos, cuales son verdaderos positivos.
 - **Valor predictivo negativo**: De los negativos, cuales son verdaderos negativos.
 
-La prevalencia es la probabilidad o frecuencia de una enfermedad. **Los valores predictivos cambian con la prevalencia** de la enfermedad. Por ejemplo, con un test de sensibilidad y especifidad alta, el v+ sube mucho (no hay FP) y el v- baja (más FN); y cuando hay muy poca prevalencia lo contrario. Esto se justifica con el teorema de Bayes. Como resultado, el valor predictivo es muy dependiente del **contexto**. La precisión es el porcentaje de aciertos ((VP+VN)/total).
+La prevalencia es la probabilidad o frecuencia de una enfermedad. **Los valores predictivos cambian con la prevalencia** de la enfermedad. Por ejemplo, con un test de sensibilidad y especifidad alta, el v+ sube mucho (no hay FP) y el v- baja (más FN); y cuando hay muy poca prevalencia lo contrario. Esto se justifica con el teorema de Bayes. Como resultado, el valor predictivo es muy dependiente del **contexto**. La precisión es el porcentaje de aciertos ((VP+VN)/total).  **En resumen, cuanto más prevalencia, mayor VPP y menor VPN**
 
 **Test de diagnóstico comunes en farmacia en la diapositiva**
 
@@ -162,13 +162,13 @@ El error aleatorio puede ser causado por azar de no obtener una muestra represen
 El error sistemático se puede tener varias formas:
 - **Selección:** la selección es inadecuada y produce una muestra no representativa
 - **Información:** la medición de variables se ha hecho de manera deficiente
-- **Factores de confusión:** correlación no es igual a causa. *Ej: el café no produce cáncer pero los que consumen café tienen más cáncer porque los que toman café suelen fumar también*.
-El error sistemático no se corrige con el tamaño muestral, sino e cambi de técnica de muestreo, análisis estadóstoco y diseño del estudio. Hay que determinar un objetivo claro y definir criterios de exclusión.
+- **Factores de confusión:** confundir correlación con la causa, cuando pueden haber más factores de por medio. *Ej: el café no produce cáncer pero los que consumen café tienen más cáncer porque los que toman café suelen fumar también*.
+El error sistemático no se corrige con el tamaño muestral, sino con un cambio de técnica de muestreo, análisis estadístico y diseño del estudio. Hay que determinar un objetivo claro y definir criterios de exclusión.
 
 ## Muestreo
 Hay de distintos tipos:
-- **Intencional:** Se trata de seleccionar casos característicos (que convengan al investigador) de una población limitando la muestra sólo a estos casos. Puede ser poco válido.
-- **Por conveniencia:** Se seleccionan aquellos casos accesibles (proximidad de los sujetos para el investigador y que acepten ser incluidos). Puede ser poco válido
+- **Intencional:** Se trata de seleccionar casos característicos (que convengan al investigador) de una población limitando la muestra sólo a estos casos. Puede ser poco válido (sesgo).
+- **Por conveniencia:** Se seleccionan aquellos casos accesibles (proximidad de los sujetos para el investigador y que acepten ser incluidos). Puede ser poco válido (sesgo).
 - **Aleatorio simple:** Es un muestreo probabilístico donde los elementos de la muestra se extraen al azar de la población, por tanto, se caracteriza porque cada elemento de la población tiene la misma probabilidad de ser elegido. Se escoge aleatoriamente un número determinado de sujetos de un listado de la población que compondrían la muestra.
 - **Aleatorio estratificado:** Se divide la población en estratos atendiendo a los criterios importantes del estudio. Los estratos son homogéneos pero heterogéneos entre sí.
 - **Por conglomerados:** Se divide la población en conglomerados heterogéneos pero homogéneos entre sí. Se hacen conglomerados que tengan un poco de todo pero son iguales entre ellos, y luego se pilla uno al azar.
