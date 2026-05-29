@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0 - Índices/Asignaturas 1º/Bioquímica/","tags":["Índice","bioquimica"],"created":"2025-12-21T14:18:58.936+01:00","updated":"2026-05-18T18:54:50.335+02:00"}
+{"dg-publish":true,"permalink":"/0 - Índices/Asignaturas 1º/Bioquímica/","tags":["Índice","bioquimica"],"created":"2025-12-21T14:18:58.936+01:00","updated":"2026-05-20T13:29:03.954+02:00"}
 ---
 
 **Apuntes de clase:** [[1- Apuntes de clase/Apuntes de clases de 1º/Apuntes de clase de bioquímica\|Apuntes de clase de bioquímica]]
@@ -38,20 +38,20 @@
 
 ---
 *[[otras cosas/Tabla de metabolismo\|Tabla de metabolismo]]*
-- Tema 27: [[4 - Inicio/glicólisis\|glicólisis]] - [[3 - Esquemas & rutas/Esquemas Bq/glicolisis esquema\|glicolisis esquema]]
-- Tema 28: [[4 - Inicio/gluconeogénesis\|gluconeogénesis]] - [[3 - Esquemas & rutas/Esquemas Bq/gluconeogénesis esquema\|gluconeogénesis esquema]]
-- Tema 29: [[4 - Inicio/vía de pentosas fosfatos\|vía de pentosas fosfatos]] - [[3 - Esquemas & rutas/Esquemas Bq/vía PPP esquema\|vía PPP esquema]]
-- Tema 30: [[4 - Inicio/metabolismo de glucógeno\|metabolismo de glucógeno]] - [[3 - Esquemas & rutas/Esquemas Bq/glucógeno esquema\|glucógeno esquema]]
-- Tema 31: [[4 - Inicio/ciclo de Krebs\|ciclo de Krebs]] - [[3 - Esquemas & rutas/Esquemas Bq/Krebs esquema\|Krebs esquema]]
-- Tema 32: [[4 - Inicio/cadena de transporte electrónico\|cadena de transporte electrónico]] - [[3 - Esquemas & rutas/Esquemas Bq/CTE esquema\|CTE esquema]]
+- Tema 27: [[2 - Wikifarma/Temas de 1º/glicólisis\|glicólisis]] - [[3 - Esquemas & rutas/Esquemas Bq/glicolisis esquema\|glicolisis esquema]]
+- Tema 28: [[2 - Wikifarma/Temas de 1º/gluconeogénesis\|gluconeogénesis]] - [[3 - Esquemas & rutas/Esquemas Bq/gluconeogénesis esquema\|gluconeogénesis esquema]]
+- Tema 29: [[2 - Wikifarma/Temas de 1º/vía de pentosas fosfatos\|vía de pentosas fosfatos]] - [[3 - Esquemas & rutas/Esquemas Bq/vía PPP esquema\|vía PPP esquema]]
+- Tema 30: [[2 - Wikifarma/Temas de 1º/metabolismo de glucógeno\|metabolismo de glucógeno]] - [[3 - Esquemas & rutas/Esquemas Bq/glucógeno esquema\|glucógeno esquema]]
+- Tema 31: [[2 - Wikifarma/Temas de 1º/ciclo de Krebs\|ciclo de Krebs]] - [[3 - Esquemas & rutas/Esquemas Bq/Krebs esquema\|Krebs esquema]]
+- Tema 32: [[2 - Wikifarma/Temas de 1º/cadena de transporte electrónico\|cadena de transporte electrónico]] - [[3 - Esquemas & rutas/Esquemas Bq/CTE esquema\|CTE esquema]]
 - Tema 33: [[6 - Fotos/transporte y almacenamiento de grasas\|transporte y almacenamiento de grasas]] - [[3 - Esquemas & rutas/Esquemas Bq/transporte de grasas esquema\|transporte de grasas esquema]]
-- Tema 34: [[4 - Inicio/catabolismo de lípidos\|catabolismo de lípidos]] - [[3 - Esquemas & rutas/Esquemas Bq/catabolismo de lípidos esquema\|catabolismo de lípidos esquema]]
-- Tema 35: [[4 - Inicio/biosíntesis de lípidos\|biosíntesis de lípidos]] - [[3 - Esquemas & rutas/Esquemas Bq/biosíntesis de lípidos esquema\|biosíntesis de lípidos esquema]]
-- Tema 36: [[4 - Inicio/metabolismo de esteroides\|metabolismo de esteroides]] - [[3 - Esquemas & rutas/Esquemas Bq/metabolismo de esteroides esquema\|metabolismo de esteroides esquema]]
-- Tema 37: [[4 - Inicio/metabolismo de lípidos complejos\|metabolismo de lípidos complejos]] - 
+- Tema 34: [[2 - Wikifarma/Temas de 1º/catabolismo de lípidos\|catabolismo de lípidos]] - [[3 - Esquemas & rutas/Esquemas Bq/catabolismo de lípidos esquema\|catabolismo de lípidos esquema]]
+- Tema 35: [[2 - Wikifarma/Temas de 1º/biosíntesis de lípidos\|biosíntesis de lípidos]] - [[3 - Esquemas & rutas/Esquemas Bq/biosíntesis de lípidos esquema\|biosíntesis de lípidos esquema]]
+- Tema 36: [[2 - Wikifarma/Temas de 1º/metabolismo de esteroides\|metabolismo de esteroides]] - [[3 - Esquemas & rutas/Esquemas Bq/metabolismo de esteroides esquema\|metabolismo de esteroides esquema]]
+- Tema 37: [[2 - Wikifarma/Temas de 1º/metabolismo de lípidos complejos\|metabolismo de lípidos complejos]] - [[3 - Esquemas & rutas/Esquemas Bq/metabolismo de lípidos complejos esquema\|metabolismo de lípidos complejos esquema]]
 
 # Borrón
-- Tema 38: [[4 - Inicio/metabolismo nitrogenado\|metabolismo nitrogenado]] - [[3 - Esquemas & rutas/Esquemas Bq/metabolismo nitrogenado esquema\|metabolismo nitrogenado esquema]]
-- Tema 39: [[4 - Inicio/metabolismo de aminoácidos\|metabolismo de aminoácidos]] - [[3 - Esquemas & rutas/Esquemas Bq/metabolismo de aminoácidos esquema\|metabolismo de aminoácidos esquema]]
-- Tema 40: [[4 - Inicio/metabolismo del grupo hemo\|metabolismo del grupo hemo]] - [[3 - Esquemas & rutas/Esquemas Bq/metabolismo hemo esquema\|metabolismo hemo esquema]]
-- Tema 41: [[4 - Inicio/metabolismo de purinas y pirimidinas\|metabolismo de purinas y pirimidinas]] - [[3 - Esquemas & rutas/Esquemas Bq/Metabolismo de nucleótidos\|Metabolismo de nucleótidos]]
+- Tema 38: [[2 - Wikifarma/Temas de 1º/metabolismo nitrogenado\|metabolismo nitrogenado]] - [[3 - Esquemas & rutas/Esquemas Bq/metabolismo nitrogenado esquema\|metabolismo nitrogenado esquema]]
+- Tema 39: [[2 - Wikifarma/Temas de 1º/metabolismo de aminoácidos\|metabolismo de aminoácidos]] - [[3 - Esquemas & rutas/Esquemas Bq/metabolismo de aminoácidos esquema\|metabolismo de aminoácidos esquema]]
+- Tema 40: [[2 - Wikifarma/Temas de 1º/metabolismo del grupo hemo\|metabolismo del grupo hemo]] - [[3 - Esquemas & rutas/Esquemas Bq/metabolismo hemo esquema\|metabolismo hemo esquema]]
+- Tema 41: [[2 - Wikifarma/Temas de 1º/metabolismo de purinas y pirimidinas\|metabolismo de purinas y pirimidinas]] - [[3 - Esquemas & rutas/Esquemas Bq/Metabolismo de nucleótidos\|Metabolismo de nucleótidos]]

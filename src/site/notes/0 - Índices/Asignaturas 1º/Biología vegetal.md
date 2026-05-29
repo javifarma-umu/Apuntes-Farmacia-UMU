@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0 - Índices/Asignaturas 1º/Biología vegetal/","created":"2026-01-30T12:02:00.703+01:00","updated":"2026-03-25T09:47:21.931+01:00"}
+{"dg-publish":true,"permalink":"/0 - Índices/Asignaturas 1º/Biología vegetal/","created":"2026-01-30T12:02:00.703+01:00","updated":"2026-05-27T15:31:17.075+02:00"}
 ---
 
 **Apuntes de clase:** [[1- Apuntes de clase/Apuntes de clases de 1º/Apuntes de clase de biología vegetal\|Apuntes de clase de biología vegetal]]
@@ -9,6 +9,13 @@
 - Tema 3: [[4 - Inicio/nutrición mineral\|nutrición mineral]]
 - Tema 4: [[4 - Inicio/floema\|floema]]
 - Tema 5: [[4 - Inicio/fotosíntesis\|fotosíntesis]]
-- Tema 7: [[4 - Inicio/metabolismo secundario\|metabolismo secundario]]
+- Tema 6: [[4 - Inicio/metabolismo secundario\|metabolismo secundario]]
+- Tema 7: *no existe*
+- Tema 8: [[4 - Inicio/fitohormonas\|fitohormonas]]
 ---
 # Bloque 2 - Botánica
+- Tema 9: [[4 - Inicio/introducción a la botánica\|introducción a la botánica]]
+- Tema 10: [[4 - Inicio/espermatofitos\|espermatofitos]]
+- Tema 11: [[4 - Inicio/angiospermas\|angiospermas]]
+- Tema 12: [[4 - Inicio/estudio de distintas familias\|estudio de distintas familias]]
+- Tema 13: [[4 - Inicio/ejemplos en la región\|ejemplos en la región]]
