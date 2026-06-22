@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4 - Inicio/introducción a la botánica/","tags":["bioveg"],"created":"2026-05-27T13:18:45.942+02:00","updated":"2026-05-29T10:24:08.498+02:00"}
+{"dg-publish":true,"permalink":"/4 - Inicio/introducción a la botánica/","tags":["bioveg"],"created":"2026-05-27T13:18:45.942+02:00","updated":"2026-05-29T10:41:20.260+02:00"}
 ---
 
 # Introducción
@@ -10,7 +10,7 @@ La botánica es dentro de la biología, la rama que se ocupa del estudio de plan
 - **Hongos:** organismos heterótrofos que se alimentan de materia viva. Se incluyen los líquenes, que es la simbiosis hongo-líquen.
 - **Algas:** son basicaente acuaticos, aunque pueden estar en sitios muy húmedos. Son muy variados: algunos no tienen núcleo, otros son muy largos, otros muy pequeños
 - **Briófitos:** son hepáticas, musgos y antocerotas
-- **Pteridofitos:** helechos, colas de caballos y episetos
+- **Pteridofitos:** helechos, colas de caballos y equisetos
 - **Gimnospermas** plantas con semillas desnudas
 - **Angiospermas:** plantas con semillas protegidas
 

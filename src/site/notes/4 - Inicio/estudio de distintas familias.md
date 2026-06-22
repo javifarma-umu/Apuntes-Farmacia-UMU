@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4 - Inicio/estudio de distintas familias/","tags":["bioveg"],"created":"2026-05-27T17:10:13.354+02:00","updated":"2026-05-29T10:24:51.651+02:00"}
+{"dg-publish":true,"permalink":"/4 - Inicio/estudio de distintas familias/","tags":["bioveg"],"created":"2026-05-27T17:10:13.354+02:00","updated":"2026-05-31T16:25:41.106+02:00"}
 ---
 
 # Crucíferas (o brasicáceas)
@@ -26,7 +26,7 @@ Su corola parece una mariposa. Tiene una distribución cosmopolita (muy amplia).
 
 ## Morfología
 - Tiene hojas alternas compuestas con estípulas y a veces zarcillos. 
-- Tiene flóoes pentámeras, zigomorfas, con 5 sépalos más o menos soldados, 5 pétalos siempre libres, gineceo unicarpelar de ovario súpero y 10 estambres. 
+- Tiene flores pentámeras, zigomorfas, con 5 sépalos más o menos soldados, 5 pétalos siempre libres, gineceo unicarpelar de ovario súpero y 10 estambres. 
 - Los estambres pueden estar soldados, o algunos soldados y otros libres.
 - El fruto es la legumbre
 
@@ -53,9 +53,9 @@ Son plantas arbustivas que desprenden olor. Sus tallos son cuadrangulares con pe
 
 Tienen inflorescencias en verticilos ("pisos") que suelen tener brácteas (hojas que protegen las inflorescencias). 
 
-La fórmula floral normalmente es $↓K(5)[C(5)A4]\underline{G}(2)$. Los estambres suelen estar en 2 alturas (2 y 2). Son flores cigomorfas hermafroditas. Sus gineceos, aunque soldados, son lobulados con cavidades, por lo que forman frutos esquizocárpicos. En la base de la flor suele haber un disco destinado a llamar la atencion de polinizadores. 
+La fórmula floral normalmente es $↓K(5)[C(5)A4]\underline{G}(2)$. Los estambres suelen estar en 2 alturas (2 y 2). Son flores zigomorfas, bilabiadas y hermafroditas. Sus gineceos, aunque soldados, son lobulados con cavidades, por lo que forman frutos esquizocárpicos. En la base de la flor suele haber un disco destinado a llamar la atención de polinizadores. 
 
-En algunos géneros  (romero y salvia) solo hay 2 estambres.
+En algunos géneros (romero y salvia) solo hay 2 estambres y en la *Mentha* hay simetría actinomorfa en vez de zigomorfa.
 
 ## Ejemplos
 _**Thymus**_ género típico de bilabiadas, con corola y cáliz bilabiados, 4 estambres y labio superior recto. Incluye a:
@@ -74,7 +74,7 @@ El género **_Rosmarinus_**, que tiene solo 2 estambres y el estilo no está ins
 
 También está la **albahaca**; **ajedrea**; el **rabogato** (*sideritis*), con verticilastros muy marcados; **salvia** (*Salvia lavandulifolia*), con 2 estambres y labios superiores en forma de casco;  la **oreja de liebre** (*Phlomis lychnitis*), que es pilosas con flores amarillas; y la **menta**, que destaca por ser actinomorfo y tiene 4 estambres.
 
-## Compuestas (asteraceas)
+## Compuestas (asteráceas)
 Son la familia de las margaritas. Tienen una distribición muy amplia y reúnen +23000 especies. Incluyen herbáceas arbustos o incluso algún árbol. 
 
 ## Morfología

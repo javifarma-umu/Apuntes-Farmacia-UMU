@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4 - Inicio/angiospermas/","tags":["bioveg"],"created":"2026-05-27T16:18:51.799+02:00","updated":"2026-05-29T10:24:38.861+02:00"}
+{"dg-publish":true,"permalink":"/4 - Inicio/angiospermas/","tags":["bioveg"],"created":"2026-05-27T16:18:51.799+02:00","updated":"2026-06-01T08:49:31.103+02:00"}
 ---
 
 # Introducción
@@ -91,8 +91,8 @@ Entre los frutos secos están los **dehiscentes** (se abren espontáneamente par
 	- Hay más formas dependiendo de como se abren:
 
 Entre los frutos secos indehiscentes (no se abren) están:
-- **Arquenio**: es un fruto seco indehiscente con una pared independiente separada de la semilla (que solo es una). *Ej: pipa*.
-- Una **cipsela** es un arquenio que lleva pelos en los extremos llamados vilanos.
+- **Aquenio**: es un fruto seco indehiscente con una pared independiente separada de la semilla (que solo es una). *Ej: pipa*.
+- Una **cipsela** es un aquenio que lleva pelos en los extremos llamados vilanos.
 - **Cariópside:** La semilla y la pared del fruto están soldados y no se pueden separar. *Ej: maíz*.
 - Los arquenios que desarrollan un ala forman una **sámara**. Un ejemplo es la hoja del olmo.
 - Una **núcula** tiene la pared muy endurecida. *Ej: avellana*. Una **bellota** es una núcula con capucha.
@@ -109,6 +109,6 @@ Los frutos carnosos tienen exocarpo/epicarpo, mesocarpo y endocarpo (que contien
 - **Pomo:** el fruto proviene de un ovario ínfero, quedando en el extremo contrario al pedúnculo los restos del cáliz. *Ej: manzana*.
 
 ## Frutos agregados
-Varios frutos provienen de una sola flor, que tiene los carpelos libres. Lo carnoso es el receptáculo donde están insertado los aquenios. Suelen proceder de flores de G∞ *Ej fresa: lo carne es el receptáculo, las bolitas negras son los aquenios y los pelitos son los estilos de lo que era la flor. En la frambuesa cada ovario se convierte en una minidrupa*.
+Varios frutos provienen de una sola flor, que tiene los carpelos libres. Lo carnoso es el receptáculo donde están insertado los aquenios. Suelen proceder de flores de G∞ *Ej fresa: la carne es el receptáculo, las bolitas negras son los aquenios y los pelitos son los estilos de lo que era la flor. En la frambuesa cada ovario se convierte en una minidrupa*.
 
 Las infrutescencias se forman a partir de las inflorescencias

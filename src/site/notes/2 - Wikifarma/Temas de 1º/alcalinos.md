@@ -17,7 +17,7 @@ Por lo general, los metales alcalinos se encuentran naturalmente en estado +1, p
 
 ## Compuestos
 **Haluros:**
-Se forma cuando reacciona con [[halógenos\|halógenos]], formando sólidos iónicos. Destacan:
+Se forma cuando reacciona con [[4 - Inicio/halógenos\|halógenos]], formando sólidos iónicos. Destacan:
 - **NaCl:** Es la sal de mesa. Se usa en alimentación, conservas y como materia para obtención de otros productos como Na, Cl2 o NaOH.
 - **KCl:** Se usa como fertilizante
 
