@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/organización del material genético/","tags":["bioquimica"],"created":"2026-02-05T20:55:06.484+01:00","updated":"2026-02-22T20:15:49.433+01:00"}
+{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/organización del material genético/","tags":["#bioquimica"],"created":"2026-02-05T20:55:06.484+01:00","updated":"2026-02-22T20:15:49.433+01:00"}
 ---
 
 # El genoma

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/endocrinología molecular/","tags":["bioquimica"],"created":"2026-02-15T16:56:33.037+01:00","updated":"2026-02-22T18:13:21.799+01:00"}
+{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/endocrinología molecular/","tags":["#bioquimica"],"created":"2026-02-15T16:56:33.037+01:00","updated":"2026-02-22T18:13:21.799+01:00"}
 ---
 
 # Generalidades

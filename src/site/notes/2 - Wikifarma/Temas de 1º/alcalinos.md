@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/alcalinos/","tags":["quimicainorganica"],"created":"2026-03-06T17:07:35.972+01:00","updated":"2026-05-06T16:23:00.607+02:00"}
+{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/alcalinos/","tags":["#quimicainorganica"],"created":"2026-03-06T17:07:35.972+01:00","updated":"2026-05-06T16:23:00.607+02:00"}
 ---
 
 # Propiedades generales

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4 - Inicio/halógenos/","tags":["quimicainorganica"],"created":"2026-06-11T13:20:38.672+02:00","updated":"2026-06-18T16:52:04.719+02:00"}
+{"dg-publish":true,"permalink":"/4 - Inicio/halógenos/","tags":["#quimicainorganica"],"created":"2026-06-11T13:20:38.672+02:00","updated":"2026-06-22T15:46:31.342+02:00"}
 ---
 
 # Propiedades elementales
@@ -9,7 +9,7 @@ Sus estados de oxidación son -1, +1, +3, +5, +7; a excepción de F, que solo es
 
 Los halógenos son el grupo más **electronegativo** de cada periodo, lo que también conlleva a que tengan las energías de ionización más altas (ganadas solo por los gases nobles). También tienen el **radio pequeño**, al acumularse cargas .
 
-En cuanto a la **afinidad electrónica** tiende a aumentar al subir en el grupo, pero hay una excepción con el flúor, ya que a pesar de ser el elemento más EN del grupo, tiene menos afinidad electrónica que el cloro ya que su pequeño tamaño provoca repulsiones entre electrones, (pasa lo mismo con el O y S).
+En cuanto a la **afinidad electrónica**, tiende a aumentar al subir en el grupo, pero hay una excepción con el flúor, ya que a pesar de ser el elemento más electronegativo del grupo, tiene menos afinidad electrónica que el cloro ya que su pequeño tamaño provoca repulsiones entre electrones, (pasa lo mismo con el O y S).
 
 La **polarizabilidad** aumenta al bajar de grupo ya que tiene mayor tamaño.
 

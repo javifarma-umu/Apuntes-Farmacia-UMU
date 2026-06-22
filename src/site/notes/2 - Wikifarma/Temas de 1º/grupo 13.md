@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/grupo 13/","tags":["quimicainorganica"],"created":"2026-03-07T11:31:55.330+01:00","updated":"2026-05-06T16:33:12.270+02:00"}
+{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/grupo 13/","tags":["#quimicainorganica"],"created":"2026-03-07T11:31:55.330+01:00","updated":"2026-05-06T16:33:12.270+02:00"}
 ---
 
 # Generalidades

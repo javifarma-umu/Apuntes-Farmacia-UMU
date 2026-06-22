@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/gluconeogénesis/","tags":["bioquimica"],"created":"2026-04-21T20:08:08.441+02:00","updated":"2026-05-09T11:20:47.661+02:00"}
+{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/gluconeogénesis/","tags":["#bioquimica"],"created":"2026-04-21T20:08:08.441+02:00","updated":"2026-05-09T11:20:47.661+02:00"}
 ---
 
 # Introducción

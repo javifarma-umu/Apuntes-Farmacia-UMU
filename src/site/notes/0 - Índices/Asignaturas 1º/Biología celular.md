@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0 - Índices/Asignaturas 1º/Biología celular/","tags":["biocel","Índice"],"created":"2025-12-21T14:23:20.112+01:00","updated":"2026-01-25T12:06:50.538+01:00"}
+{"dg-publish":true,"permalink":"/0 - Índices/Asignaturas 1º/Biología celular/","tags":["#biocel","#Índice"],"created":"2025-12-21T14:23:20.112+01:00","updated":"2026-01-25T12:06:50.538+01:00"}
 ---
 
 **Apuntes de clase:** [[1- Apuntes de clase/Apuntes de clases de 1º/Apuntes de clase de biología celular\|Apuntes de clase de biología celular]]

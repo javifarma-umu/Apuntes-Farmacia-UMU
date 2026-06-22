@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/ácido-base/","tags":["quimicainorganica"],"created":"2026-03-03T19:02:59.308+01:00","updated":"2026-03-08T19:02:31.470+01:00"}
+{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/ácido-base/","tags":["#quimicainorganica"],"created":"2026-03-03T19:02:59.308+01:00","updated":"2026-03-08T19:02:31.470+01:00"}
 ---
 
 Se puede ser ácido de Lewis o de Brønsted

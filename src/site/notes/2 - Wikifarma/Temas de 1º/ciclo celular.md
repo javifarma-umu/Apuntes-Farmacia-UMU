@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/ciclo celular/","tags":["biocel"],"created":"2026-01-10T12:15:21.741+01:00","updated":"2026-01-24T22:34:58.586+01:00"}
+{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/ciclo celular/","tags":["#biocel"],"created":"2026-01-10T12:15:21.741+01:00","updated":"2026-01-24T22:34:58.586+01:00"}
 ---
 
 # Interfase

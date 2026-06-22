@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0 - Índices/Asignaturas 1º/Química inorgánica/","tags":["quimicainorganica"],"created":"2026-01-27T09:29:34.180+01:00","updated":"2026-06-14T19:58:40.641+02:00"}
+{"dg-publish":true,"permalink":"/0 - Índices/Asignaturas 1º/Química inorgánica/","tags":["#quimicainorganica"],"created":"2026-01-27T09:29:34.180+01:00","updated":"2026-06-14T19:58:40.641+02:00"}
 ---
 
 **Apuntes de clase:** [[1- Apuntes de clase/Apuntes de clases de 1º/Apuntes de clase de química inorgánica\|Apuntes de clase de química inorgánica]]

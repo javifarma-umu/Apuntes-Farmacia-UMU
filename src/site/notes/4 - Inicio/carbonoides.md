@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4 - Inicio/carbonoides/","tags":["quimicainorganica"],"created":"2026-03-07T13:19:54.893+01:00","updated":"2026-06-17T18:45:34.540+02:00"}
+{"dg-publish":true,"permalink":"/4 - Inicio/carbonoides/","tags":["#quimicainorganica"],"created":"2026-03-07T13:19:54.893+01:00","updated":"2026-06-17T18:45:34.540+02:00"}
 ---
 
 # Generalidades

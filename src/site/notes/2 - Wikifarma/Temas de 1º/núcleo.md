@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/núcleo/","tags":["biocel"],"created":"2026-01-06T17:57:01.318+01:00","updated":"2026-01-24T22:32:12.138+01:00"}
+{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/núcleo/","tags":["#biocel"],"created":"2026-01-06T17:57:01.318+01:00","updated":"2026-01-24T22:32:12.138+01:00"}
 ---
 
 # Generalidades

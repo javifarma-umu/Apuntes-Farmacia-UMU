@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/aminoácidos/","tags":["bioquimica"],"created":"2025-12-24T16:16:15.611+01:00","updated":"2026-02-19T18:54:52.390+01:00"}
+{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/aminoácidos/","tags":["#bioquimica"],"created":"2025-12-24T16:16:15.611+01:00","updated":"2026-02-19T18:54:52.390+01:00"}
 ---
 
 # Los aminoácidos

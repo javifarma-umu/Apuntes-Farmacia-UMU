@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/metabolismo del grupo hemo/","tags":["bioquimica"],"created":"2026-05-17T17:52:01.759+02:00","updated":"2026-05-18T17:10:36.264+02:00"}
+{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/metabolismo del grupo hemo/","tags":["#bioquimica"],"created":"2026-05-17T17:52:01.759+02:00","updated":"2026-05-18T17:10:36.264+02:00"}
 ---
 
 # Generalalidades

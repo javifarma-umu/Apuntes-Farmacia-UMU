@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/ribosoma/","tags":["biocel"],"created":"2026-01-09T13:15:42.311+01:00","updated":"2026-01-24T22:32:45.310+01:00"}
+{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/ribosoma/","tags":["#biocel"],"created":"2026-01-09T13:15:42.311+01:00","updated":"2026-01-24T22:32:45.310+01:00"}
 ---
 
 # Ribosoma

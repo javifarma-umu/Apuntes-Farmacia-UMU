@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/Principios básicos de la bioquímica estructural/","tags":["bioquimica"],"created":"2025-12-21T16:28:05.808+01:00","updated":"2026-01-24T20:12:16.508+01:00"}
+{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/Principios básicos de la bioquímica estructural/","tags":["#bioquimica"],"created":"2025-12-21T16:28:05.808+01:00","updated":"2026-01-24T20:12:16.508+01:00"}
 ---
 
 # Niveles de organización de la vida

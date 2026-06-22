@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/metabolismo de lípidos complejos/","tags":["bioquimica"],"created":"2026-05-12T16:54:36.589+02:00","updated":"2026-05-20T17:59:30.816+02:00"}
+{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/metabolismo de lípidos complejos/","tags":["#bioquimica"],"created":"2026-05-12T16:54:36.589+02:00","updated":"2026-05-20T17:59:30.816+02:00"}
 ---
 
 Se estudiarán los triacilglicéridos, fosfolípidos y glicolípidos.

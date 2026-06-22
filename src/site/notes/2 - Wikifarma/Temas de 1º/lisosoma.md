@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/lisosoma/","tags":["biocel"],"created":"2026-01-09T17:05:53.365+01:00","updated":"2026-01-24T22:33:34.317+01:00"}
+{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/lisosoma/","tags":["#biocel"],"created":"2026-01-09T17:05:53.365+01:00","updated":"2026-01-24T22:33:34.317+01:00"}
 ---
 
 

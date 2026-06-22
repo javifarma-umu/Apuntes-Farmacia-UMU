@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/catabolismo de lípidos/","tags":["bioquimica"],"created":"2026-04-30T18:46:19.015+02:00","updated":"2026-05-21T13:59:25.182+02:00"}
+{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/catabolismo de lípidos/","tags":["#bioquimica"],"created":"2026-04-30T18:46:19.015+02:00","updated":"2026-05-21T13:59:25.182+02:00"}
 ---
 
 # Introducción

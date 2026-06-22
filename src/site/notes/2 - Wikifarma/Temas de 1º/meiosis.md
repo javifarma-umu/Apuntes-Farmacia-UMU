@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/meiosis/","tags":["biocel"],"created":"2026-01-10T12:29:00.421+01:00","updated":"2026-01-24T22:35:18.683+01:00"}
+{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/meiosis/","tags":["#biocel"],"created":"2026-01-10T12:29:00.421+01:00","updated":"2026-01-24T22:35:18.683+01:00"}
 ---
 
 La meiosis es la división de una célula en 4 células hijas con la mitad de información genética. Se produce la recombinación genética, por lo que el código de los cromosomas hijos es distinto al de los cromosomas de la célula madre.

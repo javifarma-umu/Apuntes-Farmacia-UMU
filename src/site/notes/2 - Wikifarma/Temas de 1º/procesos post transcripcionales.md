@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/procesos post transcripcionales/","tags":["bioquimica"],"created":"2026-02-08T20:18:18.688+01:00","updated":"2026-02-19T17:50:58.459+01:00"}
+{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/procesos post transcripcionales/","tags":["#bioquimica"],"created":"2026-02-08T20:18:18.688+01:00","updated":"2026-02-19T17:50:58.459+01:00"}
 ---
 
 # Regulación de la expresión genética

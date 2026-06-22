@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/aparato reproductor femenino/","tags":["biocel"],"created":"2026-01-13T19:30:19.088+01:00","updated":"2026-01-25T11:55:26.120+01:00"}
+{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/aparato reproductor femenino/","tags":["#biocel"],"created":"2026-01-13T19:30:19.088+01:00","updated":"2026-01-25T11:55:26.120+01:00"}
 ---
 
 El aparato reproductor femenino se forma por genitales externos (vulva) e internos. Los internos son los ovarios, trompas de Falopio, útero (cuerpo y cérvix) y la vagina. Los externos son el monte de venus, labios mayores , labios menores, vestíbulo bulbar y clítoris. 

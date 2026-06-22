@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6 - Fotos/transporte y almacenamiento de grasas/","tags":["bioquimica"],"created":"2026-04-30T18:46:10.646+02:00","updated":"2026-05-20T15:55:14.670+02:00"}
+{"dg-publish":true,"permalink":"/6 - Fotos/transporte y almacenamiento de grasas/","tags":["#bioquimica"],"created":"2026-04-30T18:46:10.646+02:00","updated":"2026-05-20T15:55:14.670+02:00"}
 ---
 
 # Introducción

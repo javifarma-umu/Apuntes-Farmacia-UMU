@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/membrana plasmática/","tags":["biocel"],"created":"2026-01-02T00:06:13.960+01:00","updated":"2026-02-18T18:17:33.968+01:00"}
+{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/membrana plasmática/","tags":["#biocel"],"created":"2026-01-02T00:06:13.960+01:00","updated":"2026-02-18T18:17:33.968+01:00"}
 ---
 
 # Composición

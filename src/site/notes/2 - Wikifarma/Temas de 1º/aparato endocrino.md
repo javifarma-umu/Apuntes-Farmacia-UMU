@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/aparato endocrino/","tags":["biocel"],"created":"2026-01-14T13:26:20.132+01:00","updated":"2026-02-19T19:43:23.990+01:00"}
+{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/aparato endocrino/","tags":["#biocel"],"created":"2026-01-14T13:26:20.132+01:00","updated":"2026-02-19T19:43:23.990+01:00"}
 ---
 
 # Generalidades

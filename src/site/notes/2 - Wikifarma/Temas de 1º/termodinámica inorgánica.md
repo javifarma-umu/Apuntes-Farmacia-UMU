@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/termodinámica inorgánica/","tags":["quimicainorganica"],"created":"2026-03-03T17:39:34.323+01:00","updated":"2026-03-09T08:07:11.808+01:00"}
+{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/termodinámica inorgánica/","tags":["#quimicainorganica"],"created":"2026-03-03T17:39:34.323+01:00","updated":"2026-03-09T08:07:11.808+01:00"}
 ---
 
 La termodinámica se usa para saber si un compuesto se va a formar o no, y si esa reacción será espontánea.

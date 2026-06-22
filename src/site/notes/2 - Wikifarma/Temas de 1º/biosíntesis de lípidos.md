@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/biosíntesis de lípidos/","tags":["bioquimica"],"created":"2026-05-10T20:02:30.703+02:00","updated":"2026-05-20T12:24:25.579+02:00"}
+{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/biosíntesis de lípidos/","tags":["#bioquimica"],"created":"2026-05-10T20:02:30.703+02:00","updated":"2026-05-20T12:24:25.579+02:00"}
 ---
 
 # Generalidades

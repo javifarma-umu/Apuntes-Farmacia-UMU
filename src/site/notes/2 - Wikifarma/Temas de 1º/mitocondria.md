@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/mitocondria/","tags":["biocel"],"created":"2026-01-09T18:28:03.381+01:00","updated":"2026-01-25T12:00:47.729+01:00"}
+{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/mitocondria/","tags":["#biocel"],"created":"2026-01-09T18:28:03.381+01:00","updated":"2026-01-25T12:00:47.729+01:00"}
 ---
 
 # Generalidades

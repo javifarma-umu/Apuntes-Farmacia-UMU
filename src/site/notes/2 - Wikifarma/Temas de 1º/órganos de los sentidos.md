@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/órganos de los sentidos/","tags":["biocel"],"created":"2026-01-14T19:03:39.801+01:00","updated":"2026-01-25T11:56:01.955+01:00"}
+{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/órganos de los sentidos/","tags":["#biocel"],"created":"2026-01-14T19:03:39.801+01:00","updated":"2026-01-25T11:56:01.955+01:00"}
 ---
 
 # Receptores gustativos

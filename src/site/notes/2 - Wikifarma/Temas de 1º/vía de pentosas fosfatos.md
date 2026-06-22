@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/vía de pentosas fosfatos/","tags":["bioquimica"],"created":"2026-04-26T11:37:19.664+02:00","updated":"2026-05-20T19:09:48.642+02:00"}
+{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/vía de pentosas fosfatos/","tags":["#bioquimica"],"created":"2026-04-26T11:37:19.664+02:00","updated":"2026-05-20T19:09:48.642+02:00"}
 ---
 
 # Introducción

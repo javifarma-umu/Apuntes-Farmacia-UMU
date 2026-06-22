@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4 - Inicio/anfígenos/","tags":["quimicainorganica"],"created":"2026-06-10T18:41:43.176+02:00","updated":"2026-06-18T16:34:03.023+02:00"}
+{"dg-publish":true,"permalink":"/4 - Inicio/anfígenos/","tags":["#quimicainorganica"],"created":"2026-06-10T18:41:43.176+02:00","updated":"2026-06-22T13:43:09.419+02:00"}
 ---
 
 # Generalidades
@@ -27,7 +27,7 @@ A pesar de que la ganancia del 2º electrón es un proceso endotérmico para ox�
 
 El azufre tiene mayor tamaño que el oxígeno, por lo que las energías de red suelen ser menores para los sulfuros que para los óxidos. Por ello, mientras que existen óxidos de metales en estado de oxidación alto, los sulfuros análogos no existen. Por ejemplo, MnO2 es conocido, pero MnS2 no.
 
-El O puede formar óxidos con casi cualquier elemento. Los óxidos son compuestos poco electronegativos que forman una red infinita con punto de fusión alto. Los óxidos con metales ligeramente básicos en disolución:
+El O puede formar óxidos con casi cualquier elemento. Los óxidos son compuestos poco electronegativos que forman una red infinita con punto de fusión alto. Los óxidos con metales del primer y segundo grupo son básicos en disolución:
 $$2\text{Li}_2\text{O}+\text{H}_2\text{O}\longrightarrow2\text{LiOH}2\longrightarrow2\text{Li}^++2\text{OH}^-$$
 Cuando aumenta la carga del catión, aumenta el carácter covalente. Los óxidos de estados intermedios son anfóteros como Al$_2$O$_3$ o Cr$_2$O$_3$. Los óxidos de no metales o metales de alto estado de oxidación son covalentes, suelen ser moléculas discretas y disueltos en agua forman ácidos débiles: $$\text{CO}_2 + \text{H}_2\text{O} \rightleftharpoons \text{H}_2\text{CO}_3 \rightleftharpoons \text{HCO}_3^- + \text{H}^+$$
 ## Enlaces

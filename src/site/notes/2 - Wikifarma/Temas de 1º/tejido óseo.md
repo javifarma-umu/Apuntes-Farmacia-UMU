@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/tejido óseo/","tags":["biocel"],"created":"2026-01-11T18:50:48.240+01:00","updated":"2026-01-25T12:01:18.262+01:00"}
+{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/tejido óseo/","tags":["#biocel"],"created":"2026-01-11T18:50:48.240+01:00","updated":"2026-01-25T12:01:18.262+01:00"}
 ---
 
 El tejido óseo es un [[2 - Wikifarma/Temas de 1º/tejido conjuntivo\|tejido conjuntivo]] especializado en la función esquelética y de sostén. Destaca por tener una matriz celular donde se depositan las sales de calcio (calcificación). El hueso posee una gran resistencia a la tracción y la compresión. Es un material dinámico que sufre un recambio notable de sustancias, está muy bien irrigado y se remodela de forma continua. Sus funciones son:

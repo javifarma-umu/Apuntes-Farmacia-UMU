@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/glicólisis/","tags":["bioquimica"],"created":"2026-04-12T17:18:38.576+02:00","updated":"2026-05-21T19:19:31.723+02:00"}
+{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/glicólisis/","tags":["#bioquimica"],"created":"2026-04-12T17:18:38.576+02:00","updated":"2026-05-21T19:19:31.723+02:00"}
 ---
 
 

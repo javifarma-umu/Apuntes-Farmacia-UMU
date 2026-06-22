@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/aparato reproductor masculino/","tags":["biocel"],"created":"2026-01-14T11:00:02.550+01:00","updated":"2026-01-25T11:55:33.137+01:00"}
+{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/aparato reproductor masculino/","tags":["#biocel"],"created":"2026-01-14T11:00:02.550+01:00","updated":"2026-01-25T11:55:33.137+01:00"}
 ---
 
 El aparato reproductor masculino está destinado a la espermatogénesis, esteroidogénesis y eyaculación. Está compuesto por los genitales externos (pene, testículos, etc.) e internos (vías espermáticas, uretra, glándulas, etc.).

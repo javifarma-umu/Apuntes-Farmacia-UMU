@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0 - Índices/Asignaturas 1º/Biología vegetal/","created":"2026-01-30T12:02:00.703+01:00","updated":"2026-05-30T16:58:20.732+02:00"}
+{"dg-publish":true,"permalink":"/0 - Índices/Asignaturas 1º/Biología vegetal/","tags":["bioveg"],"created":"2026-01-30T12:02:00.703+01:00","updated":"2026-06-22T17:26:25.165+02:00"}
 ---
 
 **Apuntes de clase:** [[1- Apuntes de clase/Apuntes de clases de 1º/Apuntes de clase de biología vegetal\|Apuntes de clase de biología vegetal]]

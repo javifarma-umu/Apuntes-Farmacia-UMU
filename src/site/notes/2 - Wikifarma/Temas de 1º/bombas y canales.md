@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/bombas y canales/","tags":["bioquimica"],"created":"2026-02-15T12:13:44.421+01:00","updated":"2026-02-22T17:13:59.816+01:00"}
+{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/bombas y canales/","tags":["#bioquimica"],"created":"2026-02-15T12:13:44.421+01:00","updated":"2026-02-22T17:13:59.816+01:00"}
 ---
 
 # Generalidades

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/epitelio/","tags":["biocel"],"created":"2026-01-10T12:53:20.953+01:00","updated":"2026-01-24T22:36:12.883+01:00"}
+{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/epitelio/","tags":["#biocel"],"created":"2026-01-10T12:53:20.953+01:00","updated":"2026-01-24T22:36:12.883+01:00"}
 ---
 
 # Generalidades

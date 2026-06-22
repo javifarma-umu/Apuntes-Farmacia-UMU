@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/introducción al metabolismo/","tags":["bioquimica"],"created":"2026-02-15T15:53:12.699+01:00","updated":"2026-02-19T20:34:41.910+01:00"}
+{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/introducción al metabolismo/","tags":["#bioquimica"],"created":"2026-02-15T15:53:12.699+01:00","updated":"2026-02-19T20:34:41.910+01:00"}
 ---
 
 # Generalidades

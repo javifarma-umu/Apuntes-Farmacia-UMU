@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/proteínas estructurales/","tags":["bioquimica"],"created":"2025-12-27T12:39:22.781+01:00","updated":"2026-01-24T20:11:47.327+01:00"}
+{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/proteínas estructurales/","tags":["#bioquimica"],"created":"2025-12-27T12:39:22.781+01:00","updated":"2026-01-24T20:11:47.327+01:00"}
 ---
 
 # Las proteínas de sostén

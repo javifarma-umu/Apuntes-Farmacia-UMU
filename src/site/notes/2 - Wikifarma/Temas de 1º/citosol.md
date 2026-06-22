@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/citosol/","tags":["biocel"],"created":"2026-01-06T19:29:01.978+01:00","updated":"2026-01-24T22:32:24.460+01:00"}
+{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/citosol/","tags":["#biocel"],"created":"2026-01-06T19:29:01.978+01:00","updated":"2026-01-24T22:32:24.460+01:00"}
 ---
 
 # Composición

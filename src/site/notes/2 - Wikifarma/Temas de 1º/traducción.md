@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/traducción/","tags":["bioquimica"],"created":"2026-02-08T16:57:50.225+01:00","updated":"2026-02-19T18:03:05.980+01:00"}
+{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/traducción/","tags":["#bioquimica"],"created":"2026-02-08T16:57:50.225+01:00","updated":"2026-02-19T18:03:05.980+01:00"}
 ---
 
 # Código genético

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/retículo endoplasmático/","tags":["biocel"],"created":"2026-01-09T13:43:46.694+01:00","updated":"2026-01-24T22:32:36.606+01:00"}
+{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/retículo endoplasmático/","tags":["#biocel"],"created":"2026-01-09T13:43:46.694+01:00","updated":"2026-01-24T22:32:36.606+01:00"}
 ---
 
 # Generalidades

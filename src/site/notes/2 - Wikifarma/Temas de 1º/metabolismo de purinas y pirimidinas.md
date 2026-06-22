@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/metabolismo de purinas y pirimidinas/","tags":["bioquimica"],"created":"2026-05-18T17:04:33.259+02:00","updated":"2026-05-21T17:15:30.611+02:00"}
+{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/metabolismo de purinas y pirimidinas/","tags":["#bioquimica"],"created":"2026-05-18T17:04:33.259+02:00","updated":"2026-05-21T17:15:30.611+02:00"}
 ---
 
 # Generalidades

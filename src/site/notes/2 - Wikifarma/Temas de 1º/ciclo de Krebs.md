@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/ciclo de Krebs/","tags":["bioquimica"],"created":"2026-04-26T19:15:33.304+02:00","updated":"2026-05-20T21:06:40.835+02:00"}
+{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/ciclo de Krebs/","tags":["#bioquimica"],"created":"2026-04-26T19:15:33.304+02:00","updated":"2026-05-20T21:06:40.835+02:00"}
 ---
 
 # Introducción

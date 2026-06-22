@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/transcripción/","tags":["bioquimica"],"created":"2026-02-07T21:31:00.748+01:00","updated":"2026-02-19T17:40:34.483+01:00"}
+{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/transcripción/","tags":["#bioquimica"],"created":"2026-02-07T21:31:00.748+01:00","updated":"2026-02-19T17:40:34.483+01:00"}
 ---
 
 # Generalidades

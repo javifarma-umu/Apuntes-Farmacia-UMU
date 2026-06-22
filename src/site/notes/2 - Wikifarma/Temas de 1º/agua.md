@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/agua/","tags":["bioquimica"],"created":"2025-12-21T16:23:10.843+01:00","updated":"2026-01-24T20:12:37.258+01:00"}
+{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/agua/","tags":["#bioquimica"],"created":"2025-12-21T16:23:10.843+01:00","updated":"2026-01-24T20:12:37.258+01:00"}
 ---
 
 # Importancia del agua

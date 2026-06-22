@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/tejido conjuntivo/","tags":["biocel"],"created":"2026-01-10T17:13:08.541+01:00","updated":"2026-01-24T22:36:49.316+01:00"}
+{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/tejido conjuntivo/","tags":["#biocel"],"created":"2026-01-10T17:13:08.541+01:00","updated":"2026-01-24T22:36:49.316+01:00"}
 ---
 
 

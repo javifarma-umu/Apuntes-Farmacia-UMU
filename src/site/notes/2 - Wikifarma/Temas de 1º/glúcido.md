@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/glúcido/","tags":["bioquimica"],"created":"2025-12-22T15:57:37.145+01:00","updated":"2026-01-24T20:11:59.429+01:00"}
+{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/glúcido/","tags":["#bioquimica"],"created":"2025-12-22T15:57:37.145+01:00","updated":"2026-01-24T20:11:59.429+01:00"}
 ---
 
 # Hidratos de carbono

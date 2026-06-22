@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/redox/","tags":["quimicainorganica"],"created":"2026-03-05T16:42:34.197+01:00","updated":"2026-03-08T19:41:53.014+01:00"}
+{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/redox/","tags":["#quimicainorganica"],"created":"2026-03-05T16:42:34.197+01:00","updated":"2026-03-08T19:41:53.014+01:00"}
 ---
 
 # Generalidades

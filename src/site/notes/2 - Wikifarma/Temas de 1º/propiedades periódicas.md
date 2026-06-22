@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/propiedades periódicas/","tags":["quimicainorganica"],"created":"2026-03-03T16:33:00.481+01:00","updated":"2026-03-09T08:25:54.805+01:00"}
+{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/propiedades periódicas/","tags":["#quimicainorganica"],"created":"2026-03-03T16:33:00.481+01:00","updated":"2026-03-09T08:25:54.805+01:00"}
 ---
 
 Uno de las herramientas más importantes para entender las propiedades de elementos y compuestos químicos es la tabla periódica. Con ella se ve el número de protones (n.º atómico), se puede inferir el número de electrones en estado neutro y se puede razonar el estado de sus orbitales (principio de Aufbau). A partir de esto se puede extrapolar una gran cantidad de propiedades de los elementos y compuestos que forman.

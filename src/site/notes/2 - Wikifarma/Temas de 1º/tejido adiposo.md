@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/tejido adiposo/","tags":["biocel"],"created":"2026-01-10T16:57:14.966+01:00","updated":"2026-01-24T22:36:37.853+01:00"}
+{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/tejido adiposo/","tags":["#biocel"],"created":"2026-01-10T16:57:14.966+01:00","updated":"2026-01-24T22:36:37.853+01:00"}
 ---
 
 El tejido adiposo es un tipo de [[2 - Wikifarma/Temas de 1º/tejido conjuntivo\|tejido conjuntivo]] especializado rico en [lípidos](lípidos). En el tejido adiposo hay gran cantidad de adipocitos  con asociación laxa incluidos en una matriz de fibras colágenas y reticulares. 

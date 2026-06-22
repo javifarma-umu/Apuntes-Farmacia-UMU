@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/pH/","tags":["quimica","bioquimica"],"created":"2025-12-22T14:36:16.230+01:00","updated":"2026-01-24T20:12:03.709+01:00"}
+{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/pH/","tags":["#quimica","#bioquimica"],"created":"2025-12-22T14:36:16.230+01:00","updated":"2026-01-24T20:12:03.709+01:00"}
 ---
 
 # Concepto de acidez y basicidad

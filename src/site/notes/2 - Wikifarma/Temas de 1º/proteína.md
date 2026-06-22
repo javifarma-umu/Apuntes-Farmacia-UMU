@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/proteína/","tags":["bioquimica"],"created":"2025-12-26T12:10:38.617+01:00","updated":"2026-02-18T19:26:20.683+01:00"}
+{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/proteína/","tags":["#bioquimica"],"created":"2025-12-26T12:10:38.617+01:00","updated":"2026-02-18T19:26:20.683+01:00"}
 ---
 
 # Las proteínas

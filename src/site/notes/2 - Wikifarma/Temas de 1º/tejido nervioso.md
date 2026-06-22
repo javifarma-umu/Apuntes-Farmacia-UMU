@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/tejido nervioso/","tags":["biocel"],"created":"2026-01-11T21:07:15.965+01:00","updated":"2026-01-24T22:37:57.824+01:00"}
+{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/tejido nervioso/","tags":["#biocel"],"created":"2026-01-11T21:07:15.965+01:00","updated":"2026-01-24T22:37:57.824+01:00"}
 ---
 
 # Generalidades

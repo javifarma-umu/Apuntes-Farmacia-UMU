@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0 - Índices/Asignaturas 1º/Bioquímica/","tags":["Índice","bioquimica"],"created":"2025-12-21T14:18:58.936+01:00","updated":"2026-05-20T13:29:03.954+02:00"}
+{"dg-publish":true,"permalink":"/0 - Índices/Asignaturas 1º/Bioquímica/","tags":["Índice","bioquimica"],"created":"2025-12-21T14:18:58.936+01:00","updated":"2026-06-22T17:25:32.068+02:00"}
 ---
 
 **Apuntes de clase:** [[1- Apuntes de clase/Apuntes de clases de 1º/Apuntes de clase de bioquímica\|Apuntes de clase de bioquímica]]
@@ -54,4 +54,4 @@
 - Tema 38: [[2 - Wikifarma/Temas de 1º/metabolismo nitrogenado\|metabolismo nitrogenado]] - [[3 - Esquemas & rutas/Esquemas Bq/metabolismo nitrogenado esquema\|metabolismo nitrogenado esquema]]
 - Tema 39: [[2 - Wikifarma/Temas de 1º/metabolismo de aminoácidos\|metabolismo de aminoácidos]] - [[3 - Esquemas & rutas/Esquemas Bq/metabolismo de aminoácidos esquema\|metabolismo de aminoácidos esquema]]
 - Tema 40: [[2 - Wikifarma/Temas de 1º/metabolismo del grupo hemo\|metabolismo del grupo hemo]] - [[3 - Esquemas & rutas/Esquemas Bq/metabolismo hemo esquema\|metabolismo hemo esquema]]
-- Tema 41: [[2 - Wikifarma/Temas de 1º/metabolismo de purinas y pirimidinas\|metabolismo de purinas y pirimidinas]] - [[3 - Esquemas & rutas/Esquemas Bq/Metabolismo de nucleótidos\|Metabolismo de nucleótidos]]
+- Tema 41: [[2 - Wikifarma/Temas de 1º/metabolismo de purinas y pirimidinas\|metabolismo de purinas y pirimidinas]] - [[3 - Esquemas & rutas/Esquemas Bq/Metabolismo de nucleótidos esquema\|Metabolismo de nucleótidos esquema]]

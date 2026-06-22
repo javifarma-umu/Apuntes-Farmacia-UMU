@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/cadena de transporte electrónico/","tags":["bioquimica"],"created":"2026-04-26T19:54:47.321+02:00","updated":"2026-05-20T21:47:19.441+02:00"}
+{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/cadena de transporte electrónico/","tags":["#bioquimica"],"created":"2026-04-26T19:54:47.321+02:00","updated":"2026-05-20T21:47:19.441+02:00"}
 ---
 
 La CTE y la fosforilación oxidativa son dos procesos acoplados en los que se usa la energía de moléculas reductoras (mayoritariamente del [[2 - Wikifarma/Temas de 1º/ciclo de Krebs\|ciclo de Krebs]]) para generar un gradiente químico y eléctrico para generar ATP. 

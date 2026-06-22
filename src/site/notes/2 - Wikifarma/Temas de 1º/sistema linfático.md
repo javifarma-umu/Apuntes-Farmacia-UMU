@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/sistema linfático/","tags":["biocel"],"created":"2026-01-12T22:49:21.676+01:00","updated":"2026-01-24T22:45:33.170+01:00"}
+{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/sistema linfático/","tags":["#biocel"],"created":"2026-01-12T22:49:21.676+01:00","updated":"2026-01-24T22:45:33.170+01:00"}
 ---
 
 # Introducción

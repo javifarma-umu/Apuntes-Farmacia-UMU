@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/aparato urinario/","tags":["biocel"],"created":"2026-01-13T17:19:49.053+01:00","updated":"2026-01-25T11:55:14.504+01:00"}
+{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/aparato urinario/","tags":["#biocel"],"created":"2026-01-13T17:19:49.053+01:00","updated":"2026-01-25T11:55:14.504+01:00"}
 ---
 
 El aparato urinario se encarga de la eliminación del agua y desechos, homeostasis y tiene una función endocrina y metabólica. Está compuesto por riñones, uréteres, vejiga y uretra.

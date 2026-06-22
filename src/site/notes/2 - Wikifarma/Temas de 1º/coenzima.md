@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/coenzima/","tags":["bioquimica"],"created":"2025-12-29T00:30:04.953+01:00","updated":"2026-04-26T19:25:44.831+02:00"}
+{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/coenzima/","tags":["#bioquimica"],"created":"2025-12-29T00:30:04.953+01:00","updated":"2026-04-26T19:25:44.831+02:00"}
 ---
 
 # Las coenzimas

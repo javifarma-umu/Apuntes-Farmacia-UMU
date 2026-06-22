@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/transporte de membrana/","tags":["bioquimica"],"created":"2026-02-14T23:02:02.789+01:00","updated":"2026-02-19T18:44:07.936+01:00"}
+{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/transporte de membrana/","tags":["#bioquimica"],"created":"2026-02-14T23:02:02.789+01:00","updated":"2026-02-19T18:44:07.936+01:00"}
 ---
 
 # Generalidades

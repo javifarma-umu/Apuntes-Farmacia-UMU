@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/ácidos nucleicos/","tags":["bioquimica"],"created":"2026-02-01T21:50:47.643+01:00","updated":"2026-02-19T11:38:47.540+01:00"}
+{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/ácidos nucleicos/","tags":["#bioquimica"],"created":"2026-02-01T21:50:47.643+01:00","updated":"2026-02-19T11:38:47.540+01:00"}
 ---
 
 # Generalidades

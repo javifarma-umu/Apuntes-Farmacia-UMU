@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/cinética enzimática/","tags":["bioquimica"],"created":"2025-12-29T01:29:56.683+01:00","updated":"2026-01-24T20:11:29.553+01:00"}
+{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/cinética enzimática/","tags":["#bioquimica"],"created":"2025-12-29T01:29:56.683+01:00","updated":"2026-01-24T20:11:29.553+01:00"}
 ---
 
 # Generalidades

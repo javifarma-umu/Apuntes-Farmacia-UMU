@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4 - Inicio/elementos del bloque d/","tags":["quimicainorganica"],"created":"2026-06-15T10:44:07.065+02:00","updated":"2026-06-17T13:29:26.424+02:00"}
+{"dg-publish":true,"permalink":"/4 - Inicio/elementos del bloque d/","tags":["#quimicainorganica"],"created":"2026-06-15T10:44:07.065+02:00","updated":"2026-06-17T13:29:26.424+02:00"}
 ---
 
 # Introducción

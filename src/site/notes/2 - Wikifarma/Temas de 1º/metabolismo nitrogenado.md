@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/metabolismo nitrogenado/","tags":["bioquimica"],"created":"2026-05-12T16:54:54.468+02:00","updated":"2026-05-22T10:14:03.819+02:00"}
+{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/metabolismo nitrogenado/","tags":["#bioquimica"],"created":"2026-05-12T16:54:54.468+02:00","updated":"2026-05-22T10:14:03.819+02:00"}
 ---
 
 # El nitrogeno en el ecosistema

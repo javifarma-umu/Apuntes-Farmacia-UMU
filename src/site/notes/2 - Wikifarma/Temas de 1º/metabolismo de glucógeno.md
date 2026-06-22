@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/metabolismo de glucógeno/","tags":["bioquimica"],"created":"2026-04-26T17:00:57.027+02:00","updated":"2026-05-21T13:14:26.547+02:00"}
+{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/metabolismo de glucógeno/","tags":["#bioquimica"],"created":"2026-04-26T17:00:57.027+02:00","updated":"2026-05-21T13:14:26.547+02:00"}
 ---
 
 # Estructura del glucógeno

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/sangre/","tags":["biocel"],"created":"2026-01-10T20:18:35.191+01:00","updated":"2026-02-18T18:08:36.584+01:00"}
+{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/sangre/","tags":["#biocel"],"created":"2026-01-10T20:18:35.191+01:00","updated":"2026-02-18T18:08:36.584+01:00"}
 ---
 
 La sangre es un tejido conjuntivo especializado de matriz líquida que encarga función de transporte, homeostasis y defensa. Está formado por un 55% de matriz celular y un 45% de elementos formes: hematíes, trombocitos y leucocitos (neutrófilos, eosinófilos, basófilos, linfocitos y monocitos). Se encuentra en circulación por los [vasos sanguíneos](sistema%20vascular).

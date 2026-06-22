@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/absorción y transporte de Fe Ca y P/","tags":["bioquimica"],"created":"2026-02-15T15:00:00.046+01:00","updated":"2026-02-22T17:50:19.644+01:00"}
+{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/absorción y transporte de Fe Ca y P/","tags":["#bioquimica"],"created":"2026-02-15T15:00:00.046+01:00","updated":"2026-02-22T17:50:19.644+01:00"}
 ---
 
 # Generalidades

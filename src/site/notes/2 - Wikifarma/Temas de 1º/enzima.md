@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/enzima/","tags":["bioquimica"],"created":"2025-12-28T16:55:58.480+01:00","updated":"2026-01-24T20:11:39.481+01:00"}
+{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/enzima/","tags":["#bioquimica"],"created":"2025-12-28T16:55:58.480+01:00","updated":"2026-01-24T20:11:39.481+01:00"}
 ---
 
 # Enzimas

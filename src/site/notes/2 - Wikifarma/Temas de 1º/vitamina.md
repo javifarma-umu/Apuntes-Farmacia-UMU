@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/vitamina/","tags":["bioquimica"],"created":"2025-12-29T01:12:37.153+01:00","updated":"2026-01-24T20:11:32.507+01:00"}
+{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/vitamina/","tags":["#bioquimica"],"created":"2025-12-29T01:12:37.153+01:00","updated":"2026-01-24T20:11:32.507+01:00"}
 ---
 
 # Las vitaminas

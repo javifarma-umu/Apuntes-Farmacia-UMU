@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/tejido muscular/","tags":["biocel"],"created":"2026-01-11T20:00:49.716+01:00","updated":"2026-01-24T22:37:46.112+01:00"}
+{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/tejido muscular/","tags":["#biocel"],"created":"2026-01-11T20:00:49.716+01:00","updated":"2026-01-24T22:37:46.112+01:00"}
 ---
 
 # Generalidades

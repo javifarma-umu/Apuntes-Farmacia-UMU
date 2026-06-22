@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/aparato respiratorio/","tags":["biocel"],"created":"2026-01-13T13:29:55.772+01:00","updated":"2026-01-25T11:54:59.202+01:00"}
+{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/aparato respiratorio/","tags":["#biocel"],"created":"2026-01-13T13:29:55.772+01:00","updated":"2026-01-25T11:54:59.202+01:00"}
 ---
 
 El sistema respiratorio es compuesto por los pulmones y vías aéreas. Se divide en la región conductora, que se encarga de transportar, filtrar, calentar y humedecer el aire; y región respiratoria, responsable del intercambio de CO2 y O2.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/regulación de la expresión génica/","tags":["bioquimica"],"created":"2026-02-08T20:17:39.414+01:00","updated":"2026-02-19T09:20:25.135+01:00"}
+{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/regulación de la expresión génica/","tags":["#bioquimica"],"created":"2026-02-08T20:17:39.414+01:00","updated":"2026-02-19T09:20:25.135+01:00"}
 ---
 
 # Generalidades

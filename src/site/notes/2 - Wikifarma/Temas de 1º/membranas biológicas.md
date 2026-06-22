@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/membranas biológicas/","tags":["bioquimica"],"created":"2026-02-14T17:56:41.457+01:00","updated":"2026-02-20T18:09:57.146+01:00"}
+{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/membranas biológicas/","tags":["#bioquimica"],"created":"2026-02-14T17:56:41.457+01:00","updated":"2026-02-20T18:09:57.146+01:00"}
 ---
 
 # Generalidades

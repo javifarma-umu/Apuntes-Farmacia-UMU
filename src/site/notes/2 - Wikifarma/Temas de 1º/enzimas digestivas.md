@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/enzimas digestivas/","tags":["bioquimica"],"created":"2025-12-29T18:39:42.224+01:00","updated":"2026-01-24T20:11:23.795+01:00"}
+{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/enzimas digestivas/","tags":["#bioquimica"],"created":"2025-12-29T18:39:42.224+01:00","updated":"2026-01-24T20:11:23.795+01:00"}
 ---
 
 # Requerimientos del organismo

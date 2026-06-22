@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/hemoglobina/","tags":["bioquimica"],"created":"2026-02-20T09:06:23.559+01:00","updated":"2026-02-22T18:25:00.472+01:00"}
+{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/hemoglobina/","tags":["#bioquimica"],"created":"2026-02-20T09:06:23.559+01:00","updated":"2026-02-22T18:25:00.472+01:00"}
 ---
 
 # Transporte de oxígeno

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/alcalinotérreos/","tags":["quimicainorganica"],"created":"2026-03-06T19:29:52.855+01:00","updated":"2026-05-06T16:33:07.615+02:00"}
+{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/alcalinotérreos/","tags":["#quimicainorganica"],"created":"2026-03-06T19:29:52.855+01:00","updated":"2026-05-06T16:33:07.615+02:00"}
 ---
 
 # Elementales

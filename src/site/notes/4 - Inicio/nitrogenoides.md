@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4 - Inicio/nitrogenoides/","tags":["quimicainorganica"],"created":"2026-06-09T18:43:30.284+02:00","updated":"2026-06-18T14:07:47.849+02:00"}
+{"dg-publish":true,"permalink":"/4 - Inicio/nitrogenoides/","tags":["#quimicainorganica"],"created":"2026-06-09T18:43:30.284+02:00","updated":"2026-06-22T13:34:33.510+02:00"}
 ---
 
 # Generalidades
@@ -67,7 +67,7 @@ Termodinámicamente, el potencial de reducción de N$_2$O para dar N$_2$ es posi
 
 Se utiliza como gas propulsor y como anestesiante en concentraciones diluidas. Se le conoce como gas de la risa porque provoca contracciones de los músculos de la boca. Puede ser neurotóxico en exposiciones continuada.
 
-**Óxido nítrico:** Se obtiene por la combustión de amoniaco en presencia de platino y puede formar NO$_2$ en presencia de oxígeno. El NO se utiliza para promover la dilatación capilar y pulmonar en bebés prematuros al catalizar la desfosforilación de la miosina en el músculo alveolar. Se produce naturalmente a partir de la arginina gracias a la NO sintasa
+**Óxido nítrico (NO):** Se obtiene por la combustión de amoniaco en presencia de platino y puede formar NO$_2$ en presencia de oxígeno. El NO se utiliza para promover la dilatación capilar y pulmonar en bebés prematuros al catalizar la desfosforilación de la miosina en el músculo alveolar. Se produce naturalmente a partir de la arginina gracias a la NO sintasa
 
 **Óxido de nitrógeno (III) (N$_2$O$_3$):** Se obtiene oxidando al NO con O$_2$. Solo es estable como sólido, ya que si no se descompone en NO y NO$_2$.
 

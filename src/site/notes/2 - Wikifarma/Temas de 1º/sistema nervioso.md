@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/sistema nervioso/","tags":["biocel"],"created":"2026-01-14T17:19:11.909+01:00","updated":"2026-01-25T11:55:54.618+01:00"}
+{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/sistema nervioso/","tags":["#biocel"],"created":"2026-01-14T17:19:11.909+01:00","updated":"2026-01-25T11:55:54.618+01:00"}
 ---
 
 # Generalidades del sistema nervioso central (SNC)

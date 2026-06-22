@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/metabolismo de aminoácidos/","tags":["bioquimica"],"created":"2026-05-14T21:40:26.109+02:00","updated":"2026-05-22T11:28:11.814+02:00"}
+{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/metabolismo de aminoácidos/","tags":["#bioquimica"],"created":"2026-05-14T21:40:26.109+02:00","updated":"2026-05-22T11:28:11.814+02:00"}
 ---
 
 # Introducción

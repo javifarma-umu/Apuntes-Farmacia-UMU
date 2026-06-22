@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/replicación/","tags":["bioquimica"],"created":"2026-02-07T19:01:26.581+01:00","updated":"2026-02-21T18:58:04.686+01:00"}
+{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/replicación/","tags":["#bioquimica"],"created":"2026-02-07T19:01:26.581+01:00","updated":"2026-02-21T18:58:04.686+01:00"}
 ---
 
 # Generalidades

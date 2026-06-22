@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/citoesqueleto/","tags":["biocel"],"created":"2026-01-09T19:00:59.005+01:00","updated":"2026-01-24T22:34:34.035+01:00"}
+{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/citoesqueleto/","tags":["#biocel"],"created":"2026-01-09T19:00:59.005+01:00","updated":"2026-01-24T22:34:34.035+01:00"}
 ---
 
 El citoesqueleto es una red de filamentos que se encuentran repartidos en el citoplasma que se encargan de coordinar los elementos de la célula gracias a su naturaleza dinámica. Aparte de ser el apoyo estructural, interviene en la fagocitosis, citocinesis, el movimiento y la fijación del ARNm. Sus componentes son microfilamentos, filamentos intermedio y microtúbulos. Están asociados a [[2 - Wikifarma/Temas de 1º/proteínas estructurales\|proteínas estructurales]] y motoras (miosinas, dineínas y kinesinas).

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/lípido/","tags":["bioquimica"],"created":"2025-12-23T13:06:52.472+01:00","updated":"2026-01-24T20:11:55.131+01:00"}
+{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/lípido/","tags":["#bioquimica"],"created":"2025-12-23T13:06:52.472+01:00","updated":"2026-01-24T20:11:55.131+01:00"}
 ---
 
 # Los lípidos - Generalidades

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/peroxisoma/","tags":["biocel"],"created":"2026-01-09T18:57:14.038+01:00","updated":"2026-01-24T22:34:15.341+01:00"}
+{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/peroxisoma/","tags":["#biocel"],"created":"2026-01-09T18:57:14.038+01:00","updated":"2026-01-24T22:34:15.341+01:00"}
 ---
 
 

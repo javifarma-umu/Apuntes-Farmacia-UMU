@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4 - Inicio/gases nobles/","tags":["quimicainorganica"],"created":"2026-06-12T18:20:39.570+02:00","updated":"2026-06-17T13:18:54.377+02:00"}
+{"dg-publish":true,"permalink":"/4 - Inicio/gases nobles/","tags":["#quimicainorganica"],"created":"2026-06-12T18:20:39.570+02:00","updated":"2026-06-17T13:18:54.377+02:00"}
 ---
 
 # Generalidades

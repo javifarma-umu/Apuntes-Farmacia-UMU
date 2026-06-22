@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/química de coordinación/","tags":["quimicainorganica"],"created":"2026-03-04T16:23:16.505+01:00","updated":"2026-03-08T19:20:28.801+01:00"}
+{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/química de coordinación/","tags":["#quimicainorganica"],"created":"2026-03-04T16:23:16.505+01:00","updated":"2026-03-08T19:20:28.801+01:00"}
 ---
 
 # Generalidades
