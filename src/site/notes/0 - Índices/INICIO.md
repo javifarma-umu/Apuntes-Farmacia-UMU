@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0 - Índices/INICIO/","tags":["Índice","gardenEntry"],"created":"2026-01-24T19:01:31.393+01:00","updated":"2026-09-09T22:55:58.656+02:00"}
+{"dg-publish":true,"permalink":"/0 - Índices/INICIO/","tags":["Índice","gardenEntry"],"created":"2026-01-24T19:01:31.393+01:00","updated":"2026-09-09T22:58:16.666+02:00"}
 ---
 
 # INICIO
@@ -11,6 +11,6 @@ Hola esto es una prueba
 - *Física (no está)*
 - *Química general (no está)*
 - [[0 - Índices/Asignaturas 1º/Bioestadística\|Bioestadística]]
-- [[0 - Índices/Asignaturas 1º/Biología vegetal\|Biología vegetal]]
-- [[0 - Índices/Asignaturas 1º/Fisicoquímica\|Fisicoquímica]]
+- *Biología vegetal (no está)*
+- *Fisicoquímica (no está)*
 - [[0 - Índices/Asignaturas 1º/Química inorgánica\|Química inorgánica]]
