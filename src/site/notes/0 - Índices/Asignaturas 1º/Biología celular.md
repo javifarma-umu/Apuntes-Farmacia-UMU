@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0 - Índices/Asignaturas 1º/Biología celular/","tags":["#biocel","#Índice"],"created":"2025-12-21T14:23:20.112+01:00","updated":"2026-01-25T12:06:50.538+01:00"}
+{"dg-publish":true,"permalink":"/0 - Índices/Asignaturas 1º/Biología celular/","tags":["biocel","Índice"],"created":"2025-12-21T14:23:20.112+01:00","updated":"2026-08-16T12:22:28.028+02:00"}
 ---
 
 **Apuntes de clase:** [[1- Apuntes de clase/Apuntes de clases de 1º/Apuntes de clase de biología celular\|Apuntes de clase de biología celular]]
@@ -7,7 +7,7 @@
 - Tema 1 - [[2 - Wikifarma/Temas de 1º/preparaciones\|preparaciones]]
 - Tema 2 - [[2 - Wikifarma/Temas de 1º/membrana plasmática\|membrana plasmática]]
 - Tema 3 - [[2 - Wikifarma/Temas de 1º/núcleo\|núcleo]]
-- Tema 4 - [[2 - Wikifarma/Temas de 1º/citosol\|citosol]] y [[2 - Wikifarma/Temas de 1º/ribosoma\|ribosoma]]
+- Tema 4 - [[2 - Wikifarma/Temas de 1º/citosol\|citosol]] y [[2 - Wikifarma/Temas de 1º/ribosomas\|ribosomas]]
 - Tema 5 - [[2 - Wikifarma/Temas de 1º/retículo endoplasmático\|retículo endoplasmático]], [[2 - Wikifarma/Temas de 1º/aparato de Golgi\|aparato de Golgi]] y [[2 - Wikifarma/Temas de 1º/lisosoma\|lisosoma]]
 - Tema 6 - [[2 - Wikifarma/Temas de 1º/mitocondria\|mitocondria]] y [[2 - Wikifarma/Temas de 1º/peroxisoma\|peroxisoma]]
 - Tema 7 - [[2 - Wikifarma/Temas de 1º/citoesqueleto\|citoesqueleto]]

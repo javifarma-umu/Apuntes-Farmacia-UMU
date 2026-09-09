@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/ácidos nucleicos/","tags":["#bioquimica"],"created":"2026-02-01T21:50:47.643+01:00","updated":"2026-02-19T11:38:47.540+01:00"}
+{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/ácidos nucleicos/","tags":["bioquimica"],"created":"2026-02-01T21:50:47.643+01:00","updated":"2026-08-16T12:22:28.144+02:00"}
 ---
 
 # Generalidades
@@ -55,7 +55,7 @@ Los apareamientos no W&C son menos estables y se consiguen gracias a lo retorcid
 
 ## Tipos de ARN
 Dependiendo de la forma y secuencia, el ARN puede tener distintas funciones, siendo los más comunes:
-- **rRNA** o ARN [ribosómico](ribosoma): es poco variable, con estructura secundaria y dos subunidades. Suponen 80% del total de ARN. Es distinto en procariotas y eucariotas. El rRNA tiene 2 subunidades que tienen conformaciones tridimensionales que permiten que interaccionen entre sí y con aminoácidos.
+- **rRNA** o ARN [ribosómico](ribosomas.md): es poco variable, con estructura secundaria y dos subunidades. Suponen 80% del total de ARN. Es distinto en procariotas y eucariotas. El rRNA tiene 2 subunidades que tienen conformaciones tridimensionales que permiten que interaccionen entre sí y con aminoácidos.
 - **tRNA** o ARN de transferencia: es relativamente variable, muy corto, con estructura secundaria característica y 15% del total de ARN. Tiene una forma de hoja de trébol con 3 brazos con bucle y 1 abierto para coger aminoácidos; aunque en la realidad tiene una conformación tridimensional muy compleja.
 - **mRNA** o ARN mensajero: es muy variable, largo y sin estructura 2ª. Supone entre el 2% y 5% del ARN total). 
 Existen también otros ARN:

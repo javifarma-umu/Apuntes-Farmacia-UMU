@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/traducción/","tags":["#bioquimica"],"created":"2026-02-08T16:57:50.225+01:00","updated":"2026-02-19T18:03:05.980+01:00"}
+{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/traducción/","tags":["bioquimica"],"created":"2026-02-08T16:57:50.225+01:00","updated":"2026-08-16T12:22:28.130+02:00"}
 ---
 
 # Código genético
@@ -35,7 +35,7 @@ Son muy específicas (1 error por cada 10000 cargas) gracias a que tienen una ac
 - En la 2ª fase se forma un enlace éster entre el carboxilo y el brazo aceptor del ARNt, liberando un AMP.
 
 # Ribosoma
-Estructuralmente, el [[2 - Wikifarma/Temas de 1º/ribosoma\|ribosoma]] es una partícula ribonucleoproteíca con una subunidad pequeña y otra grande. En el citosol de las eucariotas (y protoplasma procariota) hay ribosomas, que se encargan de sintetizar proteínas. Este proceso (al igual que todos los procesos biosintéticos) requieren aporte energético, que es de ~80% del total de la célula. En este proceso intervienen ~100 proteínas. 
+Estructuralmente, el [[2 - Wikifarma/Temas de 1º/ribosomas\|ribosomas]] es una partícula ribonucleoproteíca con una subunidad pequeña y otra grande. En el citosol de las eucariotas (y protoplasma procariota) hay ribosomas, que se encargan de sintetizar proteínas. Este proceso (al igual que todos los procesos biosintéticos) requieren aporte energético, que es de ~80% del total de la célula. En este proceso intervienen ~100 proteínas. 
 
 Cuando el triplete mensajero es complementario al anticodón, se acopla el aminoacil-ARNt. Cuando se unen las 2 subunidades ribosomales (primero el pequeño luego el grande) se forman 3 cámaras: E (exit), P (peptidina) y A (aminoacilo); que ocupa un triplete cada uno. En el E está el ARNt vacío listo para liberarse, en el P está el aa uniéndose a la cadena y en el A está el aa siguiente. La subunidad grande es el centro de transferencia y el pequeño el centro decodificador. 
 

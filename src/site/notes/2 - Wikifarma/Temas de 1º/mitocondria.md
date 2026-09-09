@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/mitocondria/","tags":["#biocel"],"created":"2026-01-09T18:28:03.381+01:00","updated":"2026-01-25T12:00:47.729+01:00"}
+{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/mitocondria/","tags":["biocel"],"created":"2026-01-09T18:28:03.381+01:00","updated":"2026-08-16T12:32:52.468+02:00"}
 ---
 
 # Generalidades
@@ -17,6 +17,8 @@ En la matriz hay enzimas responsables del catabolismo, ADN mitocondrial, mitorri
 El genoma mitocondrial humano codifica 13 enzimas, 11 ARNm ARNr 12S y 16S y 22ARNt; lo que supone una pequeña parte del material presente en la mitocondria. Su ribosoma es 55S con una subunidad mayor 39S (16S + 52 proteínas) y una menor de 28S (12S + 30 proteínas).
 
  Los gránulos densos no solo son de reserva, sino que también intervienen en la homeostasis, específicamente de iones Ca y Mg, pero también se ha observado glucógeno, lípidos y cristales de aminoácidos
+
+![Pasted image 20260816123218.png|350](/img/user/6%20-%20Fotos/Pasted%20image%2020260816123218.png)
 
 # Funciones
 Su función principal es la transducción de energía mediante la oxidación de glucosa (36 ATP/glucosa) por el ciclo de Krebs y beta-oxidación de ácidos grasos. Aparte de la transducción de energía la mitocondria regula la apoptosis (usando citocromo c), la producción de calor en el tejido adiposo pardo, la producción y control de especies activas de oxígeno y la producción de cardiolipina.

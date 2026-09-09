@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/alcalinos/","tags":["#quimicainorganica"],"created":"2026-03-06T17:07:35.972+01:00","updated":"2026-05-06T16:23:00.607+02:00"}
+{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/alcalinos/","tags":["quimicainorganica"],"created":"2026-03-06T17:07:35.972+01:00","updated":"2026-05-06T16:23:00.607+02:00"}
 ---
 
 # Propiedades generales
@@ -17,7 +17,7 @@ Por lo general, los metales alcalinos se encuentran naturalmente en estado +1, p
 
 ## Compuestos
 **Haluros:**
-Se forma cuando reacciona con [[4 - Inicio/halógenos\|halógenos]], formando sólidos iónicos. Destacan:
+Se forma cuando reacciona con [[2 - Wikifarma/halógenos\|halógenos]], formando sólidos iónicos. Destacan:
 - **NaCl:** Es la sal de mesa. Se usa en alimentación, conservas y como materia para obtención de otros productos como Na, Cl2 o NaOH.
 - **KCl:** Se usa como fertilizante
 

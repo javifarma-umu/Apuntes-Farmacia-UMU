@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/lisosoma/","tags":["#biocel"],"created":"2026-01-09T17:05:53.365+01:00","updated":"2026-01-24T22:33:34.317+01:00"}
+{"dg-publish":true,"permalink":"/2 - Wikifarma/Temas de 1º/lisosoma/","tags":["biocel"],"created":"2026-01-09T17:05:53.365+01:00","updated":"2026-08-16T13:24:30.703+02:00"}
 ---
 
 
@@ -12,6 +12,8 @@ Es un orgánulo fagocítico. Su función se puede clasificar en:
 - **Autofagia:** Es cuando los lisosomas digieren estructuras de la propia célula. El proceso es importante para la renovación y recambio celular, metamorfosis, o en condiciones de ayuno.
 
 Sus vesículas se llaman **endosoma** si procede de pinocitosis, **fagosoma** si procede de fagocitosis y **autofagosoma** si tiene doble membrana formada por el RE que engloba partículas de la propia célula.
+
+![Pasted image 20260816132415.png|420](/img/user/6%20-%20Fotos/Pasted%20image%2020260816132415.png)
 
 Los lisosomas tienen función defensiva, de regulación hormonal, de autólisis y renovación celular
 
